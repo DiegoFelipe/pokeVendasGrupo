@@ -44,27 +44,23 @@
       transform: translate(-50%, -50%); border-radius: 50%; background: #fff; border: 5px solid #222;
     }
     @keyframes bounce { 0%, 100% { transform: translateY(0) rotate(0); } 50% { transform: translateY(-10px) rotate(12deg); } }
-    .group-banner {
-      display: inline-flex;
+    #group-avatar-box {
+      margin: 0 auto 16px;
+      display: flex;
+      justify-content: center;
       align-items: center;
-      gap: 14px;
-      margin: 18px auto 4px;
-      padding: 8px 20px 8px 10px;
-      background: var(--card);
-      border: 1.5px solid rgba(255, 203, 5, .4);
-      border-radius: 999px;
-      box-shadow: 0 8px 30px rgba(0, 0, 0, .4);
-      max-width: 90%;
-      text-align: left;
     }
     .group-avatar-wrap {
       position: relative;
-      width: 48px;
-      height: 48px;
-      flex-shrink: 0;
+      width: 76px;
+      height: 76px;
+      margin: 0 auto;
       border-radius: 50%;
-      padding: 2px;
+      padding: 3px;
       background: linear-gradient(135deg, var(--yellow), var(--red), var(--blue));
+      background-size: 200% 200%;
+      animation: holo 6s linear infinite;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, .45);
     }
     .group-avatar {
       width: 100%;
@@ -73,58 +69,45 @@
       object-fit: cover;
       display: block;
       background: var(--card-2);
+      border: 3px solid #fff;
     }
     .group-avatar-badge {
       position: absolute;
       bottom: -2px;
       right: -2px;
-      width: 18px;
-      height: 18px;
+      width: 22px;
+      height: 22px;
       background: #25d366;
       border: 2px solid #fff;
       border-radius: 50%;
       display: grid;
       place-items: center;
-      font-size: 10px;
+      font-size: 11px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
     }
-    .group-info-text {
-      display: flex;
-      flex-direction: column;
-      gap: 2px;
-      overflow: hidden;
-    }
-    .group-tag {
+    .brand-tag {
+      font-family: "Press Start 2P", monospace;
       font-size: 0.72rem;
-      text-transform: uppercase;
-      letter-spacing: 0.8px;
       color: var(--yellow);
-      font-weight: 700;
-    }
-    .group-name {
-      font-size: 1.05rem;
-      font-weight: 700;
-      color: #fff;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      max-width: 550px;
-    }
-    @media (max-width: 600px) {
-      .group-banner {
-        border-radius: 18px;
-        padding: 10px 14px;
-        max-width: 100%;
-      }
-      .group-name {
-        white-space: normal;
-        font-size: 0.95rem;
-      }
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-shadow: 1.5px 1.5px 0 var(--blue);
+      display: inline-block;
+      margin-bottom: 8px;
     }
     h1 {
-      font-family: "Press Start 2P", monospace; font-size: clamp(1.2rem, 4.5vw, 2.2rem); line-height: 1.5;
-      color: var(--yellow); text-shadow: 3px 3px 0 var(--blue), 6px 6px 0 rgba(0, 0, 0, .35);
+      font-family: "Outfit", sans-serif;
+      font-size: clamp(1.3rem, 3.2vw, 2.05rem);
+      font-weight: 800;
+      line-height: 1.35;
+      max-width: 820px;
+      margin: 0 auto;
+      color: #fff;
+      letter-spacing: -0.3px;
+      text-shadow: 0 2px 14px rgba(0, 0, 0, 0.45);
+      word-break: break-word;
     }
-    .sub { margin-top: 18px; color: var(--muted); font-size: 1rem; }
+    .sub { margin-top: 10px; color: var(--muted); font-size: 0.95rem; }
     .badge {
       display: inline-block; margin-top: 14px; padding: 6px 16px; border-radius: 999px;
       background: rgba(255, 203, 5, .12); border: 1px solid var(--yellow); color: var(--yellow); font-weight: 600;
@@ -257,21 +240,16 @@
 </head>
 <body>
   <header>
-    <div class="pokeball" aria-hidden="true"></div>
-    <h1>PokéVendas</h1>
-    <p class="sub">Cartas anunciadas no grupo — direto do Centro Pokémon</p>
-
-    <div class="group-banner" id="group-banner" style="display: none;">
-      <div class="group-avatar-wrap">
+    <div id="group-avatar-box">
+      <div class="pokeball" id="default-pokeball" aria-hidden="true"></div>
+      <div class="group-avatar-wrap" id="custom-avatar-wrap" style="display: none;">
         <img id="group-avatar-img" class="group-avatar" alt="Foto do Grupo" />
         <div class="group-avatar-badge" title="Grupo WhatsApp">💬</div>
       </div>
-      <div class="group-info-text">
-        <span class="group-tag">Grupo no WhatsApp</span>
-        <div class="group-name" id="group-name"></div>
-      </div>
     </div>
-
+    <div class="brand-tag">⚡ PokéVendas</div>
+    <h1 id="group-title">PokéVendas</h1>
+    <p class="sub" id="group-sub">Cartas anunciadas no grupo</p>
     <div><span class="badge" id="badge">Carregando…</span></div>
   </header>
 
@@ -301,9 +279,11 @@
     const lightbox = document.getElementById("lightbox");
     const sortDescBtn = document.getElementById("sort-desc");
     const sortAscBtn = document.getElementById("sort-asc");
-    const groupBanner = document.getElementById("group-banner");
-    const groupNameEl = document.getElementById("group-name");
+    const groupTitle = document.getElementById("group-title");
+    const groupSub = document.getElementById("group-sub");
     const groupAvatarImg = document.getElementById("group-avatar-img");
+    const customAvatarWrap = document.getElementById("custom-avatar-wrap");
+    const defaultPokeball = document.getElementById("default-pokeball");
 
     let allVendas = [];
     let currentSort = "desc";
@@ -317,27 +297,22 @@
     const paramPic = urlParams.get("foto") || urlParams.get("pic") || urlParams.get("avatar") || urlParams.get("image") || urlParams.get("img");
 
     function applyGroupInfo(name, pic) {
-      let hasInfo = false;
       if (name && name.trim()) {
         const clean = name.trim();
-        groupNameEl.textContent = clean;
+        groupTitle.textContent = clean;
         document.title = `${clean} — Cartas à venda`;
-        hasInfo = true;
+        groupSub.textContent = "Cartas anunciadas no grupo";
       }
       if (pic && pic.trim()) {
         groupAvatarImg.onload = () => {
-          groupAvatarImg.style.display = "block";
+          customAvatarWrap.style.display = "block";
+          defaultPokeball.style.display = "none";
         };
         groupAvatarImg.onerror = () => {
-          groupAvatarImg.style.display = "none";
+          customAvatarWrap.style.display = "none";
+          defaultPokeball.style.display = "block";
         };
         groupAvatarImg.src = pic.trim();
-        hasInfo = true;
-      } else {
-        groupAvatarImg.style.display = "none";
-      }
-      if (hasInfo) {
-        groupBanner.style.display = "inline-flex";
       }
     }
 
