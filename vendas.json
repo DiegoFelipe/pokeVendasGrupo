@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T19:08:09.916Z",
+  "updatedAt": "2026-10-22T19:09:57.601Z",
   "hours": 24,
   "vendas": [
     {
@@ -9,10 +9,16 @@
       },
       "items": [
         {
-          "type": "text",
-          "text": "",
+          "type": "image",
+          "text": "teste duas",
           "time": "2026-10-22T18:12:09.000Z",
-          "media": null
+          "media": "img/0-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "teste duas",
+          "time": "2026-10-22T18:12:10.000Z",
+          "media": "img/0-1.jpg"
         }
       ]
     }
