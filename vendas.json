@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T19:14:32.939Z",
+  "updatedAt": "2026-10-22T19:17:43.276Z",
   "hours": 24,
   "vendas": [
     {
@@ -29,10 +29,10 @@
       },
       "items": [
         {
-          "type": "text",
+          "type": "video",
           "text": "",
           "time": "2026-10-22T19:13:21.000Z",
-          "media": null
+          "media": "img/1-0.mp4"
         }
       ]
     }
