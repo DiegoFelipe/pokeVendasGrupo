@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T19:54:45.479Z",
+  "updatedAt": "2026-10-22T22:30:13.000Z",
   "hours": 24,
   "vendas": [
     {
@@ -81,6 +81,74 @@
           "text": "https://www.cartinha.gg/leiloes/7156de21-0291-486b-9920-5112f6f4c247\n\nPSA 10 a partir de R$1 bora",
           "time": "2026-10-22T16:10:21.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jeferson Souza",
+        "phone": "559291020193"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "https://www.cartinha.gg/leiloes/f76079c5-22ff-4df0-b29c-521863c18d1b",
+          "time": "2026-10-22T20:17:45.000Z",
+          "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Alguém interessado em comprar 2 case magnético UV resistente, comprei para ETB e depois vi que era para booster box vendo o valor de custo 125 cada kkkk",
+          "time": "2026-10-22T20:49:39.000Z",
+          "media": "img/6-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-10-22T20:49:47.000Z",
+          "media": "img/6-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "R$1100",
+          "time": "2026-10-22T21:14:13.000Z",
+          "media": "img/7-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "R$1000",
+          "time": "2026-10-22T21:14:34.000Z",
+          "media": "img/7-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "🍷Oliveira🍷",
+        "phone": "559295042895"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Tá 200 na liga faço a 150 no Pix",
+          "time": "2026-10-22T21:54:16.000Z",
+          "media": "img/8-0.jpg"
         }
       ]
     }
