@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T23:39:42.188Z",
+  "updatedAt": "2026-10-22T23:43:03.358Z",
   "hours": 24,
   "vendas": [
     {
@@ -203,6 +203,26 @@
           "text": "R$1000",
           "time": "2026-10-22T23:29:31.000Z",
           "media": "img/11-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "diegofelipe.14",
+        "phone": "559281441152"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "750 pra vcs do grupo",
+          "time": "2026-10-22T23:42:25.000Z",
+          "media": null
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-10-22T23:42:27.000Z",
+          "media": "img/12-1.jpg"
         }
       ]
     }
