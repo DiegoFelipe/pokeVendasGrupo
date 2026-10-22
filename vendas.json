@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T23:24:49.930Z",
+  "updatedAt": "2026-10-22T23:29:49.932Z",
   "hours": 24,
   "vendas": [
     {
@@ -183,6 +183,26 @@
           "text": "Gengar PSA 10\nR$ 1k\n\nAceito propostas!\nChama que dá negócio!",
           "time": "2026-10-22T23:21:39.000Z",
           "media": "img/10-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "R$1100",
+          "time": "2026-10-22T23:29:25.000Z",
+          "media": "img/11-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "R$1000",
+          "time": "2026-10-22T23:29:31.000Z",
+          "media": "img/11-1.jpg"
         }
       ]
     }
