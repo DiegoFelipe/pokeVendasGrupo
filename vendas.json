@@ -1,38 +1,86 @@
 {
-  "updatedAt": "2026-10-22T19:17:43.276Z",
+  "updatedAt": "2026-10-22T19:54:45.479Z",
   "hours": 24,
   "vendas": [
     {
       "seller": {
-        "name": "@diegofelipe.14",
-        "phone": "559281441152"
+        "name": "Kleison Gomes",
+        "phone": "559293270760"
       },
       "items": [
         {
           "type": "image",
-          "text": "teste duas",
-          "time": "2026-10-22T18:12:09.000Z",
+          "text": "Vendo Greninja SAR Caos Ascendente NM\n650 (aceito propostas)",
+          "time": "2026-10-22T01:35:11.000Z",
           "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "teste duas",
-          "time": "2026-10-22T18:12:10.000Z",
-          "media": "img/0-1.jpg"
         }
       ]
     },
     {
       "seller": {
-        "name": "@diegofelipe.14",
+        "name": "Thiago",
+        "phone": "559291642421"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Vendo por 320",
+          "time": "2026-10-22T02:47:46.000Z",
+          "media": "img/1-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "200",
+          "time": "2026-10-22T02:48:47.000Z",
+          "media": "img/1-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "650 - M",
+          "time": "2026-10-22T02:51:38.000Z",
+          "media": "img/1-2.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
+          "time": "2026-10-22T03:08:22.000Z",
+          "media": "img/2-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jeferson Souza",
+        "phone": "559291020193"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Passando lote completo por 2.550,00",
+          "time": "2026-10-22T03:08:27.000Z",
+          "media": "img/3-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "diegofelipe.14",
         "phone": "559281441152"
       },
       "items": [
         {
-          "type": "video",
-          "text": "",
-          "time": "2026-10-22T19:13:21.000Z",
-          "media": "img/1-0.mp4"
+          "type": "text",
+          "text": "https://www.cartinha.gg/leiloes/7156de21-0291-486b-9920-5112f6f4c247\n\nPSA 10 a partir de R$1 bora",
+          "time": "2026-10-22T16:10:21.000Z",
+          "media": null
         }
       ]
     }
