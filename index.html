@@ -44,6 +44,41 @@
       transform: translate(-50%, -50%); border-radius: 50%; background: #fff; border: 5px solid #222;
     }
     @keyframes bounce { 0%, 100% { transform: translateY(0) rotate(0); } 50% { transform: translateY(-10px) rotate(12deg); } }
+    .group-avatar-wrap {
+      position: relative;
+      width: 82px;
+      height: 82px;
+      margin: 0 auto 20px;
+      border-radius: 50%;
+      padding: 3px;
+      background: linear-gradient(135deg, var(--yellow), var(--red), var(--blue));
+      background-size: 200% 200%;
+      animation: holo 6s linear infinite;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, .45);
+    }
+    .group-avatar {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      object-fit: cover;
+      display: block;
+      background: var(--card-2);
+      border: 3px solid #fff;
+    }
+    .group-avatar-badge {
+      position: absolute;
+      bottom: -2px;
+      right: -2px;
+      width: 24px;
+      height: 24px;
+      background: #25d366;
+      border: 2px solid #fff;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      font-size: 13px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
     h1 {
       font-family: "Press Start 2P", monospace; font-size: clamp(1.2rem, 4.5vw, 2.2rem); line-height: 1.5;
       color: var(--yellow); text-shadow: 3px 3px 0 var(--blue), 6px 6px 0 rgba(0, 0, 0, .35);
@@ -181,9 +216,15 @@
 </head>
 <body>
   <header>
-    <div class="pokeball" aria-hidden="true"></div>
-    <h1>PokéVendas</h1>
-    <p class="sub">Cartas anunciadas no grupo — direto do Centro Pokémon</p>
+    <div id="group-avatar-box">
+      <div class="pokeball" id="default-pokeball" aria-hidden="true"></div>
+      <div class="group-avatar-wrap" id="custom-avatar-wrap" style="display: none;">
+        <img id="group-avatar-img" class="group-avatar" alt="Foto do Grupo" />
+        <div class="group-avatar-badge" title="Grupo WhatsApp">💬</div>
+      </div>
+    </div>
+    <h1 id="group-title">PokéVendas</h1>
+    <p class="sub" id="group-sub">Cartas anunciadas no grupo — direto do Centro Pokémon</p>
     <span class="badge" id="badge">Carregando…</span>
   </header>
 
@@ -213,12 +254,47 @@
     const lightbox = document.getElementById("lightbox");
     const sortDescBtn = document.getElementById("sort-desc");
     const sortAscBtn = document.getElementById("sort-asc");
+    const groupTitle = document.getElementById("group-title");
+    const groupSub = document.getElementById("group-sub");
+    const groupAvatarImg = document.getElementById("group-avatar-img");
+    const customAvatarWrap = document.getElementById("custom-avatar-wrap");
+    const defaultPokeball = document.getElementById("default-pokeball");
 
     let allVendas = [];
     let currentSort = "desc";
 
     const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
     const fmt = (iso) => new Date(iso).toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" });
+
+    // Parâmetros da URL (ex: ?nome=MeuGrupo&foto=https://... ou ?grupo=...&avatar=...)
+    const urlParams = new URLSearchParams(window.location.search);
+    const paramName = urlParams.get("nome") || urlParams.get("name") || urlParams.get("grupo") || urlParams.get("group");
+    const paramPic = urlParams.get("foto") || urlParams.get("pic") || urlParams.get("avatar") || urlParams.get("image") || urlParams.get("img");
+
+    function applyGroupInfo(name, pic) {
+      if (name && name.trim()) {
+        const clean = name.trim();
+        groupTitle.textContent = clean;
+        document.title = `${clean} — Cartas à venda`;
+        groupSub.textContent = `Cartas anunciadas no grupo ${clean} — direto do Centro Pokémon`;
+      }
+      if (pic && pic.trim()) {
+        groupAvatarImg.onload = () => {
+          customAvatarWrap.style.display = "block";
+          defaultPokeball.style.display = "none";
+        };
+        groupAvatarImg.onerror = () => {
+          customAvatarWrap.style.display = "none";
+          defaultPokeball.style.display = "block";
+        };
+        groupAvatarImg.src = pic.trim();
+      }
+    }
+
+    // Se parâmetros foram passados na URL, aplica imediatamente
+    if (paramName || paramPic) {
+      applyGroupInfo(paramName, paramPic);
+    }
 
     function getVendaTime(venda) {
       if (!venda.items || venda.items.length === 0) return 0;
@@ -279,7 +355,16 @@
 
     fetch("vendas.json?t=" + Date.now())
       .then((r) => r.json())
-      .then(({ updatedAt, hours, vendas }) => {
+      .then(({ updatedAt, hours, vendas, group, groupName, groupPic }) => {
+        // Se não foi definido via URL, aproveita as propriedades do JSON
+        const jsonName = group?.name || groupName;
+        const jsonPic = group?.pic || groupPic;
+        const activeName = paramName || jsonName;
+        const activePic = paramPic || jsonPic;
+        if (activeName || activePic) {
+          applyGroupInfo(activeName, activePic);
+        }
+
         allVendas = vendas || [];
         badge.textContent = updatedAt
           ? `${allVendas.length} venda(s) nas últimas ${hours}h · atualizado ${fmt(updatedAt)}`
