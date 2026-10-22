@@ -1,1 +1,116 @@
-{ "updatedAt": null, "hours": 24, "vendas": [] }
+{
+  "updatedAt": "2026-10-22T18:01:22.133Z",
+  "hours": 24,
+  "vendas": [
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Etb destined rivals R$1100",
+          "time": "2026-10-21T18:17:46.000Z",
+          "media": "img/0-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Rod Elias",
+        "phone": "559293710036"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "",
+          "time": "2026-10-21T19:36:56.000Z",
+          "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Kleison Gomes",
+        "phone": "559293270760"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Vendo Greninja SAR Caos Ascendente NM\n650 (aceito propostas)",
+          "time": "2026-10-22T01:35:11.000Z",
+          "media": "img/2-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Thiago",
+        "phone": "559291642421"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Vendo por 320",
+          "time": "2026-10-22T02:47:46.000Z",
+          "media": "img/3-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "200",
+          "time": "2026-10-22T02:48:47.000Z",
+          "media": "img/3-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "650 - M",
+          "time": "2026-10-22T02:51:38.000Z",
+          "media": "img/3-2.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
+          "time": "2026-10-22T03:08:22.000Z",
+          "media": "img/4-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jeferson Souza",
+        "phone": "559291020193"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Passando lote completo por 2.550,00",
+          "time": "2026-10-22T03:08:27.000Z",
+          "media": "img/5-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "@diegofelipe.14",
+        "phone": "559281441152"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "https://www.cartinha.gg/leiloes/7156de21-0291-486b-9920-5112f6f4c247\n\nPSA 10 a partir de R$1 bora",
+          "time": "2026-10-22T16:10:21.000Z",
+          "media": null
+        }
+      ]
+    }
+  ]
+}
