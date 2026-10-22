@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-10-22T23:44:13.520Z",
+  "updatedAt": "2026-10-22T23:47:35.930Z",
   "hours": 24,
+  "group": {
+    "name": null,
+    "pic": null
+  },
   "vendas": [
     {
       "seller": {
