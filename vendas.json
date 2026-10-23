@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T16:13:04.769Z",
+  "updatedAt": "2026-10-23T18:20:24.270Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -429,6 +429,26 @@
           "text": "Kabuto (140/165) - NM - R$200,00",
           "time": "2026-10-23T15:41:45.000Z",
           "media": "img/20-4.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Alyssa",
+        "phone": "559296180906"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Passando - D - R$180",
+          "time": "2026-10-23T18:18:36.000Z",
+          "media": "img/21-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Passando - D - R$180",
+          "time": "2026-10-23T18:18:36.000Z",
+          "media": "img/21-1.jpg"
         }
       ]
     }
