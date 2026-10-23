@@ -142,16 +142,26 @@
     .venda-desc {
       background: var(--card-2);
       border-radius: 12px;
-      padding: 12px 16px;
-      margin-bottom: 14px;
+      padding: 14px 18px;
+      margin-top: 14px;
       border-left: 4px solid var(--yellow);
     }
     .venda-desc p {
-      font-size: 0.92rem;
+      font-size: 0.95rem;
       line-height: 1.5;
       color: var(--text);
       white-space: pre-wrap;
       word-break: break-word;
+    }
+    .venda-desc p + p {
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .venda-desc.text-only {
+      margin-top: 0;
+      font-size: 1.05rem;
+      padding: 16px;
     }
 
     .gallery-container {
@@ -166,6 +176,13 @@
       scroll-behavior: smooth;
       padding: 6px 2px 14px;
       -webkit-overflow-scrolling: touch;
+    }
+    .gallery.single-item {
+      overflow-x: visible;
+    }
+    .gallery.single-item .item {
+      flex: 0 0 240px;
+      width: 240px;
     }
     .gallery::-webkit-scrollbar {
       height: 8px;
@@ -442,15 +459,11 @@
       return t ? new Date(t).getTime() : 0;
     }
 
-    function renderItem(item, hideCaption = false) {
-      const showText = !hideCaption && Boolean(item.text && item.text.trim());
-      if (item.type === "image") {
-        return `<div class="item"><img src="${esc(item.media)}" alt="Carta à venda" loading="lazy" />${showText ? `<p>${esc(item.text)}</p>` : ""}</div>`;
-      }
+    function renderMediaItem(item) {
       if (item.type === "video") {
-        return `<div class="item"><video src="${esc(item.media)}" controls preload="metadata"></video>${showText ? `<p>${esc(item.text)}</p>` : ""}</div>`;
+        return `<div class="item"><video src="${esc(item.media)}" controls preload="metadata"></video></div>`;
       }
-      return `<div class="item text-only"><p>${esc(item.text || "(sem texto)")}</p></div>`;
+      return `<div class="item"><img src="${esc(item.media)}" alt="Carta à venda" loading="lazy" /></div>`;
     }
 
     function renderVenda({ seller, items }) {
@@ -460,16 +473,46 @@
         ? `<a class="zap" href="https://wa.me/${esc(seller.phone)}" target="_blank" rel="noopener">💬 Chamar no WhatsApp</a>`
         : "";
 
-      // Detecta se há texto idêntico repetido em múltiplos itens (ex: álbum do WhatsApp)
-      const nonBlankTexts = items.map((i) => (i.text || "").trim()).filter(Boolean);
-      const uniqueTexts = [...new Set(nonBlankTexts)];
-      const hasSharedText = items.length > 1 && uniqueTexts.length === 1;
+      // Filtra itens de mídia (fotos/vídeos)
+      const mediaItems = items.filter((i) => i.type === "image" || i.type === "video");
 
-      const sharedDescHtml = hasSharedText
-        ? `<div class="venda-desc"><p>${esc(uniqueTexts[0])}</p></div>`
-        : "";
+      // Coleta textos únicos da venda para nunca duplicar
+      const uniqueTexts = [];
+      const seen = new Set();
+      for (const item of items) {
+        const t = (item.text || "").trim();
+        if (t && !seen.has(t)) {
+          seen.add(t);
+          uniqueTexts.push(t);
+        }
+      }
 
-      const hasMultiple = items.length > 2;
+      // Galeria (SEMPRE EM CIMA DO TEXTO)
+      let galleryHtml = "";
+      if (mediaItems.length > 0) {
+        const hasMultiple = mediaItems.length > 2;
+        const isSingle = mediaItems.length === 1;
+        galleryHtml = `
+          <div class="gallery-container">
+            ${hasMultiple ? `<button type="button" class="gallery-arrow prev" aria-label="Rolar para esquerda">‹</button>` : ""}
+            <div class="gallery ${isSingle ? "single-item" : ""}">
+              ${mediaItems.map(renderMediaItem).join("")}
+            </div>
+            ${hasMultiple ? `<button type="button" class="gallery-arrow next" aria-label="Rolar para direita">›</button>` : ""}
+          </div>
+        `;
+      }
+
+      // Texto da venda (SEMPRE EMBAIXO DAS FOTOS)
+      let textHtml = "";
+      if (uniqueTexts.length > 0) {
+        textHtml = `
+          <div class="venda-desc ${mediaItems.length === 0 ? "text-only" : ""}">
+            ${uniqueTexts.map((t) => `<p>${esc(t)}</p>`).join("")}
+          </div>
+        `;
+      }
+
       return `
         <article class="venda"><div class="venda-inner">
           <div class="venda-head">
@@ -479,12 +522,8 @@
             </div>
             ${zap}
           </div>
-          ${sharedDescHtml}
-          <div class="gallery-container">
-            ${hasMultiple ? `<button type="button" class="gallery-arrow prev" aria-label="Rolar para esquerda">‹</button>` : ""}
-            <div class="gallery">${items.map((item) => renderItem(item, hasSharedText)).join("")}</div>
-            ${hasMultiple ? `<button type="button" class="gallery-arrow next" aria-label="Rolar para direita">›</button>` : ""}
-          </div>
+          ${galleryHtml}
+          ${textHtml}
         </div></article>`;
     }
 
