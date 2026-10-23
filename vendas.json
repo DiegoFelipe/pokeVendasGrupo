@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T02:19:54.553Z",
+  "updatedAt": "2026-10-23T02:21:56.671Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -285,6 +285,26 @@
           "text": "Passando Lugia (149/30) R$580,00",
           "time": "2026-10-23T01:33:25.000Z",
           "media": "img/14-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "diegofelipe.14",
+        "phone": "559281441152"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "1.200 reshiram",
+          "time": "2026-10-23T02:21:20.000Z",
+          "media": null
+        },
+        {
+          "type": "video",
+          "text": "",
+          "time": "2026-10-23T02:21:20.000Z",
+          "media": "img/15-1.mp4"
         }
       ]
     }
