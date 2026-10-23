@@ -176,17 +176,11 @@
       transform: scale(1.15);
     }
     .poke-chip-name {
-      font-size: 0.82rem;
+      font-size: 0.84rem;
       font-weight: 700;
       color: #fff;
       letter-spacing: 0.3px;
       text-transform: capitalize;
-    }
-    .poke-chip-id {
-      font-family: 'Press Start 2P', monospace;
-      font-size: 0.58rem;
-      color: var(--yellow);
-      opacity: 0.85;
     }
 
     .venda-desc {
@@ -581,13 +575,12 @@
             ${detectedPokemon
               .map(
                 (p) => `
-                <div class="poke-chip" title="Pokémon detectado: ${esc(p.name)} (#${p.id})">
+                <div class="poke-chip" title="Pokémon detectado: ${esc(p.name)}">
                   <img src="sprites/${p.id}.gif" 
                        alt="${esc(p.name)}" 
                        loading="lazy" 
                        onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/${p.id}.gif';" />
                   <span class="poke-chip-name">${esc(p.name)}</span>
-                  <span class="poke-chip-id">#${p.id}</span>
                 </div>`
               )
               .join("")}
