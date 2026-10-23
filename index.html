@@ -249,7 +249,6 @@
     </div>
     <div class="brand-tag">⚡ PokéVendas</div>
     <h1 id="group-title">PokéVendas</h1>
-    <p class="sub" id="group-sub">Cartas anunciadas no grupo</p>
     <div><span class="badge" id="badge">Carregando…</span></div>
   </header>
 
@@ -280,7 +279,6 @@
     const sortDescBtn = document.getElementById("sort-desc");
     const sortAscBtn = document.getElementById("sort-asc");
     const groupTitle = document.getElementById("group-title");
-    const groupSub = document.getElementById("group-sub");
     const groupAvatarImg = document.getElementById("group-avatar-img");
     const customAvatarWrap = document.getElementById("custom-avatar-wrap");
     const defaultPokeball = document.getElementById("default-pokeball");
@@ -301,7 +299,6 @@
         const clean = name.trim();
         groupTitle.textContent = clean;
         document.title = `${clean} — Cartas à venda`;
-        groupSub.textContent = "Cartas anunciadas no grupo";
       }
       if (pic && pic.trim()) {
         groupAvatarImg.onload = () => {
