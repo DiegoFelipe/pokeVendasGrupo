@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:20:24.270Z",
+  "updatedAt": "2026-10-23T18:35:20.818Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -449,6 +449,26 @@
           "text": "Passando - D - R$180",
           "time": "2026-10-23T18:18:36.000Z",
           "media": "img/21-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jean Silva",
+        "phone": "559288523059"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Mewtwo-V (072/078) R$300,00",
+          "time": "2026-10-23T18:29:56.000Z",
+          "media": "img/22-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Mewtwo-V (072/078) R$300,00",
+          "time": "2026-10-23T18:29:56.000Z",
+          "media": "img/22-1.jpg"
         }
       ]
     }
