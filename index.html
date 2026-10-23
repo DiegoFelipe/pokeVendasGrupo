@@ -459,11 +459,13 @@
       return t ? new Date(t).getTime() : 0;
     }
 
-    function renderMediaItem(item) {
+    function renderMediaItem(item, showCaption = true) {
+      const hasText = showCaption && Boolean(item.text && item.text.trim());
+      const captionHtml = hasText ? `<p>${esc(item.text.trim())}</p>` : "";
       if (item.type === "video") {
-        return `<div class="item"><video src="${esc(item.media)}" controls preload="metadata"></video></div>`;
+        return `<div class="item"><video src="${esc(item.media)}" controls preload="metadata"></video>${captionHtml}</div>`;
       }
-      return `<div class="item"><img src="${esc(item.media)}" alt="Carta à venda" loading="lazy" /></div>`;
+      return `<div class="item"><img src="${esc(item.media)}" alt="Carta à venda" loading="lazy" />${captionHtml}</div>`;
     }
 
     function renderVenda({ seller, items }) {
@@ -476,39 +478,56 @@
       // Filtra itens de mídia (fotos/vídeos)
       const mediaItems = items.filter((i) => i.type === "image" || i.type === "video");
 
-      // Coleta textos únicos da venda para nunca duplicar
-      const uniqueTexts = [];
-      const seen = new Set();
-      for (const item of items) {
-        const t = (item.text || "").trim();
-        if (t && !seen.has(t)) {
-          seen.add(t);
-          uniqueTexts.push(t);
-        }
-      }
+      // Textos das fotos
+      const mediaTexts = mediaItems.map((i) => (i.text || "").trim()).filter(Boolean);
+      const uniqueMediaTexts = [...new Set(mediaTexts)];
+
+      // Textos avulsos (mensagens sem foto)
+      const standaloneTexts = items
+        .filter((i) => i.type === "text")
+        .map((i) => (i.text || "").trim())
+        .filter(Boolean);
+
+      // Se há mais de 1 foto e TODAS têm exatamente o mesmo texto (ex: lote do WhatsApp):
+      // não repete nas fotos, exibe uma única vez abaixo da galeria.
+      const isIdenticalSharedText = mediaItems.length > 1 && uniqueMediaTexts.length === 1 && mediaTexts.length === mediaItems.length;
 
       // Galeria (SEMPRE EM CIMA DO TEXTO)
       let galleryHtml = "";
       if (mediaItems.length > 0) {
         const hasMultiple = mediaItems.length > 2;
         const isSingle = mediaItems.length === 1;
+        // Se os textos forem diferentes, exibe a legenda em cada card correspondente
+        const showCardCaption = !isIdenticalSharedText;
         galleryHtml = `
           <div class="gallery-container">
             ${hasMultiple ? `<button type="button" class="gallery-arrow prev" aria-label="Rolar para esquerda">‹</button>` : ""}
             <div class="gallery ${isSingle ? "single-item" : ""}">
-              ${mediaItems.map(renderMediaItem).join("")}
+              ${mediaItems.map((item) => renderMediaItem(item, showCardCaption)).join("")}
             </div>
             ${hasMultiple ? `<button type="button" class="gallery-arrow next" aria-label="Rolar para direita">›</button>` : ""}
           </div>
         `;
       }
 
-      // Texto da venda (SEMPRE EMBAIXO DAS FOTOS)
+      // Bloco de texto inferior:
+      // - Se for lote com texto idêntico compartilhado, exibe ele aqui uma única vez
+      // - Mensagens avulsas de texto (que não são legendas de fotos)
+      const bottomTexts = [];
+      if (isIdenticalSharedText && uniqueMediaTexts[0]) {
+        bottomTexts.push(uniqueMediaTexts[0]);
+      }
+      for (const st of standaloneTexts) {
+        if (!bottomTexts.includes(st) && (!isIdenticalSharedText || st !== uniqueMediaTexts[0])) {
+          bottomTexts.push(st);
+        }
+      }
+
       let textHtml = "";
-      if (uniqueTexts.length > 0) {
+      if (bottomTexts.length > 0) {
         textHtml = `
           <div class="venda-desc ${mediaItems.length === 0 ? "text-only" : ""}">
-            ${uniqueTexts.map((t) => `<p>${esc(t)}</p>`).join("")}
+            ${bottomTexts.map((t) => `<p>${esc(t)}</p>`).join("")}
           </div>
         `;
       }
