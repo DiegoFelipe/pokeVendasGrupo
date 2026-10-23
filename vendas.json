@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T23:48:11.980Z",
+  "updatedAt": "2026-10-23T00:03:08.639Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -227,6 +227,50 @@
           "text": "",
           "time": "2026-10-22T23:42:27.000Z",
           "media": "img/12-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jean Silva",
+        "phone": "559288523059"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Charizard Radiante (020/159) “NM” R$150,00\nMewtwo-V-ASTRO (086/078)“NM” R$194,00\nMewtwo-V-ASTRO (079/078) “NM” R$210,00\nZacian-V (GG48/GG70) “NM” R$150,00\nDragonite-V-ASTRO (081/078) “NM” R$200,00\nZeraora-V-ASTRO (GG43/GG70) “SP” R$200,00",
+          "time": "2026-10-23T00:01:51.000Z",
+          "media": "img/13-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Charizard Radiante (020/159) “NM” R$150,00\nMewtwo-V-ASTRO (086/078)“NM” R$194,00\nMewtwo-V-ASTRO (079/078) “NM” R$210,00\nZacian-V (GG48/GG70) “NM” R$150,00\nDragonite-V-ASTRO (081/078) “NM” R$200,00\nZeraora-V-ASTRO (GG43/GG70) “SP” R$200,00",
+          "time": "2026-10-23T00:01:52.000Z",
+          "media": "img/13-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Charizard Radiante (020/159) “NM” R$150,00\nMewtwo-V-ASTRO (086/078)“NM” R$194,00\nMewtwo-V-ASTRO (079/078) “NM” R$210,00\nZacian-V (GG48/GG70) “NM” R$150,00\nDragonite-V-ASTRO (081/078) “NM” R$200,00\nZeraora-V-ASTRO (GG43/GG70) “SP” R$200,00",
+          "time": "2026-10-23T00:01:52.000Z",
+          "media": "img/13-2.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Charizard Radiante (020/159) “NM” R$150,00\nMewtwo-V-ASTRO (086/078)“NM” R$194,00\nMewtwo-V-ASTRO (079/078) “NM” R$210,00\nZacian-V (GG48/GG70) “NM” R$150,00\nDragonite-V-ASTRO (081/078) “NM” R$200,00\nZeraora-V-ASTRO (GG43/GG70) “SP” R$200,00",
+          "time": "2026-10-23T00:01:52.000Z",
+          "media": "img/13-3.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Charizard Radiante (020/159) “NM” R$150,00\nMewtwo-V-ASTRO (086/078)“NM” R$194,00\nMewtwo-V-ASTRO (079/078) “NM” R$210,00\nZacian-V (GG48/GG70) “NM” R$150,00\nDragonite-V-ASTRO (081/078) “NM” R$200,00\nZeraora-V-ASTRO (GG43/GG70) “SP” R$200,00",
+          "time": "2026-10-23T00:01:53.000Z",
+          "media": "img/13-4.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Charizard Radiante (020/159) “NM” R$150,00\nMewtwo-V-ASTRO (086/078)“NM” R$194,00\nMewtwo-V-ASTRO (079/078) “NM” R$210,00\nZacian-V (GG48/GG70) “NM” R$150,00\nDragonite-V-ASTRO (081/078) “NM” R$200,00\nZeraora-V-ASTRO (GG43/GG70) “SP” R$200,00",
+          "time": "2026-10-23T00:01:53.000Z",
+          "media": "img/13-5.jpg"
         }
       ]
     }
