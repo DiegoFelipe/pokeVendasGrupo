@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:51:18.046Z",
+  "updatedAt": "2026-10-23T20:01:10.370Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -469,6 +469,26 @@
           "text": "Mewtwo-V (072/078) R$300,00",
           "time": "2026-10-23T18:29:56.000Z",
           "media": "img/22-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Paulo Ferraz",
+        "phone": "559281049938"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Lugia 149/147 (30 anos) NM R$ 650",
+          "time": "2026-10-23T19:59:34.000Z",
+          "media": "img/23-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Lugia 149/147 (30 anos) NM R$ 650",
+          "time": "2026-10-23T19:59:34.000Z",
+          "media": "img/23-1.jpg"
         }
       ]
     }
