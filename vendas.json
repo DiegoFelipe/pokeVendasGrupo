@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T13:38:16.965Z",
+  "updatedAt": "2026-10-23T13:43:13.407Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -271,6 +271,34 @@
           "text": "Gengar - 240,00 NM",
           "time": "2026-10-23T03:05:53.000Z",
           "media": "img/13-2.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Roberto Turbay",
+        "phone": "559281823036"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "R$650,00 \nPra que tá com saudade de abrir pacotinhos",
+          "time": "2026-10-23T12:33:17.000Z",
+          "media": "img/14-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
+          "time": "2026-10-23T13:28:06.000Z",
+          "media": "img/15-0.jpg"
         }
       ]
     }
