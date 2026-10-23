@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T03:10:46.010Z",
+  "updatedAt": "2026-10-23T03:15:46.014Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -271,6 +271,12 @@
           "text": "Charizard de 151, passando por 3.200,00\n\nAceito propostas",
           "time": "2026-10-23T03:03:51.000Z",
           "media": "img/13-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Gengar - 240,00 NM",
+          "time": "2026-10-23T03:05:53.000Z",
+          "media": "img/13-2.jpg"
         }
       ]
     }
