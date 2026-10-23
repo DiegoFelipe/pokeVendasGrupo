@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T15:18:10.890Z",
+  "updatedAt": "2026-10-23T15:48:04.652Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -391,6 +391,58 @@
           "text": "PIKACHU (160/159) R$ 350,00\nPIKACHU (27/∞) R$ 240,00\nPIKACHU - CH (001/SVP) R$ 300,00\nPIKACHU - JP\t(120/SVP) R$ 100,00\nPIKACHU FOLHA (GG30) R$ 290,00",
           "time": "2026-10-23T15:17:20.000Z",
           "media": "img/19-4.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Thiago",
+        "phone": "559291642421"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Rayquaza de Storm Emerald \nNa liga 249, comigo por 200",
+          "time": "2026-10-23T15:34:46.000Z",
+          "media": "img/20-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "João Eduardo N.",
+        "phone": "559294887781"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Blastoise Radiante (018/071) - NM - R$280,00",
+          "time": "2026-10-23T15:41:43.000Z",
+          "media": "img/21-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Kingler (09/165) - NM - R$180,00",
+          "time": "2026-10-23T15:41:43.000Z",
+          "media": "img/21-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Meowth Ex (100/080) - NM - R$130,00",
+          "time": "2026-10-23T15:41:44.000Z",
+          "media": "img/21-2.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Eevee (196/♾️)  - M - R$280,00",
+          "time": "2026-10-23T15:41:44.000Z",
+          "media": "img/21-3.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Kabuto (140/165) - NM - R$200,00",
+          "time": "2026-10-23T15:41:45.000Z",
+          "media": "img/21-4.jpg"
         }
       ]
     }
