@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-10-24T15:21:26.130Z",
+  "updatedAt": "2026-10-24T15:36:26.156Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Thiago",
-        "phone": "559291642421"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Rayquaza de Storm Emerald \nNa liga 249, comigo por 200",
-          "time": "2026-10-23T15:34:46.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "João Eduardo N.",
@@ -30,31 +16,31 @@
           "type": "image",
           "text": "Blastoise Radiante (018/071) - NM - R$280,00",
           "time": "2026-10-23T15:41:43.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "Kingler (09/165) - NM - R$180,00",
           "time": "2026-10-23T15:41:43.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         },
         {
           "type": "image",
           "text": "Meowth Ex (100/080) - NM - R$130,00",
           "time": "2026-10-23T15:41:44.000Z",
-          "media": "img/1-2.jpg"
+          "media": "img/0-2.jpg"
         },
         {
           "type": "image",
           "text": "Eevee (196/♾️)  - M - R$280,00",
           "time": "2026-10-23T15:41:44.000Z",
-          "media": "img/1-3.jpg"
+          "media": "img/0-3.jpg"
         },
         {
           "type": "image",
           "text": "Kabuto (140/165) - NM - R$200,00",
           "time": "2026-10-23T15:41:45.000Z",
-          "media": "img/1-4.jpg"
+          "media": "img/0-4.jpg"
         }
       ]
     },
@@ -68,13 +54,13 @@
           "type": "image",
           "text": "Passando - D - R$180",
           "time": "2026-10-23T18:18:36.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "Passando - D - R$180",
           "time": "2026-10-23T18:18:36.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -88,13 +74,13 @@
           "type": "image",
           "text": "Mewtwo-V (072/078) R$300,00",
           "time": "2026-10-23T18:29:56.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Mewtwo-V (072/078) R$300,00",
           "time": "2026-10-23T18:29:56.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     },
@@ -108,13 +94,13 @@
           "type": "image",
           "text": "Lugia 149/147 (30 anos) NM R$ 650",
           "time": "2026-10-23T19:59:34.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "Lugia 149/147 (30 anos) NM R$ 650",
           "time": "2026-10-23T19:59:34.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
@@ -128,7 +114,7 @@
           "type": "image",
           "text": "Cubone NM 120$ 🇺🇸",
           "time": "2026-10-23T23:22:07.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -142,7 +128,7 @@
           "type": "image",
           "text": "Passando por 560 NM, direito do pacote",
           "time": "2026-10-24T03:02:44.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -156,7 +142,7 @@
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-10-24T04:27:53.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -170,7 +156,7 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-24T04:37:54.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         }
       ]
     },
@@ -184,13 +170,13 @@
           "type": "image",
           "text": "Passando os 2 por 300,00. Separados vai no menor da liga.",
           "time": "2026-10-24T13:35:07.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         },
         {
           "type": "image",
           "text": "Passando os 2 por 300,00. Separados vai no menor da liga.",
           "time": "2026-10-24T13:35:07.000Z",
-          "media": "img/9-1.jpg"
+          "media": "img/8-1.jpg"
         }
       ]
     }
