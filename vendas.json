@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T03:06:15.657Z",
+  "updatedAt": "2026-10-24T03:11:15.752Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -249,6 +249,20 @@
           "text": "Cubone NM 120$ 🇺🇸",
           "time": "2026-10-23T23:22:07.000Z",
           "media": "img/11-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Paulo Coelho",
+        "phone": "559288140611"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Passando por 560 NM, direito do pacote",
+          "time": "2026-10-24T03:02:44.000Z",
+          "media": "img/12-0.jpg"
         }
       ]
     }
