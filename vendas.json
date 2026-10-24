@@ -1,37 +1,11 @@
 {
-  "updatedAt": "2026-10-24T02:56:19.045Z",
+  "updatedAt": "2026-10-24T03:06:15.657Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Jeferson Souza",
-        "phone": "559291020193"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Charizard de 151, passando por 3.200,00\n\nAceito propostas",
-          "time": "2026-10-23T03:03:50.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Charizard de 151, passando por 3.200,00\n\nAceito propostas",
-          "time": "2026-10-23T03:03:51.000Z",
-          "media": "img/0-1.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Gengar - 240,00 NM",
-          "time": "2026-10-23T03:05:53.000Z",
-          "media": "img/0-2.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Treinador desconhecido",
@@ -42,7 +16,7 @@
           "type": "image",
           "text": "R$650,00 \nPra que tá com saudade de abrir pacotinhos",
           "time": "2026-10-23T12:33:17.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -56,7 +30,7 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-23T13:28:06.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -70,7 +44,7 @@
           "type": "image",
           "text": "",
           "time": "2026-10-23T14:10:52.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "text",
@@ -90,7 +64,7 @@
           "type": "image",
           "text": "Vendo por 5k, no myp a NM ta 4.5k na liga tem uma NM da Indonesia por 3.5K",
           "time": "2026-10-23T15:10:29.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -104,13 +78,13 @@
           "type": "image",
           "text": "• Charizard EX (199/165) - NM ING - R$ 3.700\n• Espeon-V (180/203) - NM - R$ 1.700\n• Venusaur EX (198/165) - NM ING - R$ 1.300\n• Charmeleon (169/165) - NM ING - R$ 900\n• Squirtle (170/165) - NM ING - R$ 700\n• Bulbasaur (166/165) - NM ING - R$ 540\n• Mew EX (205/165) - NM ING - R$ 400\n• Poliwhirl (176/165) - NM ING - R$ 350",
           "time": "2026-10-23T15:15:32.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "image",
           "text": "• Charizard EX (199/165) - NM ING - R$ 3.700\n• Espeon-V (180/203) - NM - R$ 1.700\n• Venusaur EX (198/165) - NM ING - R$ 1.300\n• Charmeleon (169/165) - NM ING - R$ 900\n• Squirtle (170/165) - NM ING - R$ 700\n• Bulbasaur (166/165) - NM ING - R$ 540\n• Mew EX (205/165) - NM ING - R$ 400\n• Poliwhirl (176/165) - NM ING - R$ 350",
           "time": "2026-10-23T15:15:32.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         }
       ]
     },
@@ -124,31 +98,31 @@
           "type": "image",
           "text": "PIKACHU (160/159) R$ 350,00\nPIKACHU (27/∞) R$ 240,00\nPIKACHU - CH (001/SVP) R$ 300,00\nPIKACHU - JP\t(120/SVP) R$ 100,00\nPIKACHU FOLHA (GG30) R$ 290,00",
           "time": "2026-10-23T15:17:18.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "PIKACHU (160/159) R$ 350,00\nPIKACHU (27/∞) R$ 240,00\nPIKACHU - CH (001/SVP) R$ 300,00\nPIKACHU - JP\t(120/SVP) R$ 100,00\nPIKACHU FOLHA (GG30) R$ 290,00",
           "time": "2026-10-23T15:17:19.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/5-1.jpg"
         },
         {
           "type": "image",
           "text": "PIKACHU (160/159) R$ 350,00\nPIKACHU (27/∞) R$ 240,00\nPIKACHU - CH (001/SVP) R$ 300,00\nPIKACHU - JP\t(120/SVP) R$ 100,00\nPIKACHU FOLHA (GG30) R$ 290,00",
           "time": "2026-10-23T15:17:19.000Z",
-          "media": "img/6-2.jpg"
+          "media": "img/5-2.jpg"
         },
         {
           "type": "image",
           "text": "PIKACHU (160/159) R$ 350,00\nPIKACHU (27/∞) R$ 240,00\nPIKACHU - CH (001/SVP) R$ 300,00\nPIKACHU - JP\t(120/SVP) R$ 100,00\nPIKACHU FOLHA (GG30) R$ 290,00",
           "time": "2026-10-23T15:17:19.000Z",
-          "media": "img/6-3.jpg"
+          "media": "img/5-3.jpg"
         },
         {
           "type": "image",
           "text": "PIKACHU (160/159) R$ 350,00\nPIKACHU (27/∞) R$ 240,00\nPIKACHU - CH (001/SVP) R$ 300,00\nPIKACHU - JP\t(120/SVP) R$ 100,00\nPIKACHU FOLHA (GG30) R$ 290,00",
           "time": "2026-10-23T15:17:20.000Z",
-          "media": "img/6-4.jpg"
+          "media": "img/5-4.jpg"
         }
       ]
     },
@@ -162,7 +136,7 @@
           "type": "image",
           "text": "Rayquaza de Storm Emerald \nNa liga 249, comigo por 200",
           "time": "2026-10-23T15:34:46.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -176,31 +150,31 @@
           "type": "image",
           "text": "Blastoise Radiante (018/071) - NM - R$280,00",
           "time": "2026-10-23T15:41:43.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         },
         {
           "type": "image",
           "text": "Kingler (09/165) - NM - R$180,00",
           "time": "2026-10-23T15:41:43.000Z",
-          "media": "img/8-1.jpg"
+          "media": "img/7-1.jpg"
         },
         {
           "type": "image",
           "text": "Meowth Ex (100/080) - NM - R$130,00",
           "time": "2026-10-23T15:41:44.000Z",
-          "media": "img/8-2.jpg"
+          "media": "img/7-2.jpg"
         },
         {
           "type": "image",
           "text": "Eevee (196/♾️)  - M - R$280,00",
           "time": "2026-10-23T15:41:44.000Z",
-          "media": "img/8-3.jpg"
+          "media": "img/7-3.jpg"
         },
         {
           "type": "image",
           "text": "Kabuto (140/165) - NM - R$200,00",
           "time": "2026-10-23T15:41:45.000Z",
-          "media": "img/8-4.jpg"
+          "media": "img/7-4.jpg"
         }
       ]
     },
@@ -214,13 +188,13 @@
           "type": "image",
           "text": "Passando - D - R$180",
           "time": "2026-10-23T18:18:36.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         },
         {
           "type": "image",
           "text": "Passando - D - R$180",
           "time": "2026-10-23T18:18:36.000Z",
-          "media": "img/9-1.jpg"
+          "media": "img/8-1.jpg"
         }
       ]
     },
@@ -234,13 +208,13 @@
           "type": "image",
           "text": "Mewtwo-V (072/078) R$300,00",
           "time": "2026-10-23T18:29:56.000Z",
-          "media": "img/10-0.jpg"
+          "media": "img/9-0.jpg"
         },
         {
           "type": "image",
           "text": "Mewtwo-V (072/078) R$300,00",
           "time": "2026-10-23T18:29:56.000Z",
-          "media": "img/10-1.jpg"
+          "media": "img/9-1.jpg"
         }
       ]
     },
@@ -254,13 +228,13 @@
           "type": "image",
           "text": "Lugia 149/147 (30 anos) NM R$ 650",
           "time": "2026-10-23T19:59:34.000Z",
-          "media": "img/11-0.jpg"
+          "media": "img/10-0.jpg"
         },
         {
           "type": "image",
           "text": "Lugia 149/147 (30 anos) NM R$ 650",
           "time": "2026-10-23T19:59:34.000Z",
-          "media": "img/11-1.jpg"
+          "media": "img/10-1.jpg"
         }
       ]
     },
@@ -274,7 +248,7 @@
           "type": "image",
           "text": "Cubone NM 120$ 🇺🇸",
           "time": "2026-10-23T23:22:07.000Z",
-          "media": "img/12-0.jpg"
+          "media": "img/11-0.jpg"
         }
       ]
     }
