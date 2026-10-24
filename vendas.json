@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:06:10.350Z",
+  "updatedAt": "2026-10-24T01:01:10.536Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -22,7 +22,7 @@
     },
     {
       "seller": {
-        "name": "Treinador desconhecido",
+        "name": "Jean Silva",
         "phone": "559288523059"
       },
       "items": [
@@ -110,7 +110,7 @@
     },
     {
       "seller": {
-        "name": "Treinador desconhecido",
+        "name": "Jean Silva",
         "phone": "559288523059"
       },
       "items": [
@@ -164,7 +164,7 @@
     },
     {
       "seller": {
-        "name": "Treinador desconhecido",
+        "name": "Jean Silva",
         "phone": "559288523059"
       },
       "items": [
@@ -274,7 +274,7 @@
     },
     {
       "seller": {
-        "name": "Treinador desconhecido",
+        "name": "Jean Silva",
         "phone": "559288523059"
       },
       "items": [
@@ -309,6 +309,20 @@
           "text": "Lugia 149/147 (30 anos) NM R$ 650",
           "time": "2026-10-23T19:59:34.000Z",
           "media": "img/14-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "wolter",
+        "phone": "559281562611"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Cubone NM 120$ 🇺🇸",
+          "time": "2026-10-23T23:22:07.000Z",
+          "media": "img/15-0.jpg"
         }
       ]
     }
