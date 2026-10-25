@@ -1,31 +1,11 @@
 {
-  "updatedAt": "2026-10-25T16:30:33.236Z",
+  "updatedAt": "2026-10-25T18:17:35.367Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Edmilson Lima Tcg",
-        "phone": "559291207113"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
-          "time": "2026-10-24T20:52:23.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
-          "time": "2026-10-24T20:52:23.000Z",
-          "media": "img/0-1.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Rod Elias",
@@ -37,6 +17,26 @@
           "text": "https://www.cartinha.gg/leiloes/a38feb86-7b00-4c40-ab94-81d584db654f",
           "time": "2026-10-24T22:28:04.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Alyssa",
+        "phone": "559296180906"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Passando - D - R$180",
+          "time": "2026-10-25T02:20:55.000Z",
+          "media": "img/1-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Passando - D - R$180",
+          "time": "2026-10-25T02:20:55.000Z",
+          "media": "img/1-1.jpg"
         }
       ]
     }
