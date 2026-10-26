@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T20:55:24.355Z",
+  "updatedAt": "2026-10-26T21:40:24.362Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -79,6 +79,26 @@
           "text": "280 cada",
           "time": "2026-10-26T20:36:50.000Z",
           "media": "img/4-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Rod Elias",
+        "phone": "559293710036"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Skyla \nSP \nValor: R$ 320",
+          "time": "2026-10-26T21:39:06.000Z",
+          "media": "img/5-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Skyla \nSP \nValor: R$ 320",
+          "time": "2026-10-26T21:39:06.000Z",
+          "media": "img/5-1.jpg"
         }
       ]
     }
