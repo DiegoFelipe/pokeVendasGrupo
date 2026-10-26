@@ -1,31 +1,11 @@
 {
-  "updatedAt": "2026-10-26T21:40:24.362Z",
+  "updatedAt": "2026-10-26T22:40:24.202Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Rod Elias",
-        "phone": "559293710036"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Pikachu promo chinesa\nNM\nValor: R$ 120",
-          "time": "2026-10-25T22:36:07.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Pikachu promo chinesa\nNM\nValor: R$ 120",
-          "time": "2026-10-25T22:36:08.000Z",
-          "media": "img/0-1.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "🙏🏼🙌🏼",
@@ -36,7 +16,7 @@
           "type": "image",
           "text": "",
           "time": "2026-10-25T23:49:05.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -50,7 +30,7 @@
           "type": "image",
           "text": "Ganhei de brinde num leilão, to pedindo R$100",
           "time": "2026-10-26T17:49:47.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -78,7 +58,7 @@
           "type": "image",
           "text": "280 cada",
           "time": "2026-10-26T20:36:50.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -92,13 +72,13 @@
           "type": "image",
           "text": "Skyla \nSP \nValor: R$ 320",
           "time": "2026-10-26T21:39:06.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "image",
           "text": "Skyla \nSP \nValor: R$ 320",
           "time": "2026-10-26T21:39:06.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         }
       ]
     }
