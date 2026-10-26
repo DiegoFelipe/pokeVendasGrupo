@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T22:40:24.202Z",
+  "updatedAt": "2026-10-26T22:55:24.405Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -79,6 +79,26 @@
           "text": "Skyla \nSP \nValor: R$ 320",
           "time": "2026-10-26T21:39:06.000Z",
           "media": "img/4-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
+          "time": "2026-10-26T22:54:07.000Z",
+          "media": "img/5-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
+          "time": "2026-10-26T22:54:08.000Z",
+          "media": "img/5-1.jpg"
         }
       ]
     }
