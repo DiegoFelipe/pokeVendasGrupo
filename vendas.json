@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T20:05:24.292Z",
+  "updatedAt": "2026-10-26T20:55:24.355Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -65,6 +65,20 @@
           "text": "boraaaa ta no precinho.\n\nhttps://www.cartinha.gg/leiloes/17227b96-c2a0-423e-a623-784999104f17",
           "time": "2026-10-26T19:35:25.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Gabriel Fernandes",
+        "phone": "559281732192"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "280 cada",
+          "time": "2026-10-26T20:36:50.000Z",
+          "media": "img/4-0.jpg"
         }
       ]
     }
