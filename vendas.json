@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:12:24.831Z",
+  "updatedAt": "2026-10-26T18:45:27.485Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -13,84 +13,44 @@
       },
       "items": [
         {
-          "type": "text",
-          "text": "https://www.cartinha.gg/leiloes/a38feb86-7b00-4c40-ab94-81d584db654f",
-          "time": "2026-10-24T22:28:04.000Z",
-          "media": null
+          "type": "image",
+          "text": "Pikachu promo chinesa\nNM\nValor: R$ 120",
+          "time": "2026-10-25T22:36:07.000Z",
+          "media": "img/0-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Pikachu promo chinesa\nNM\nValor: R$ 120",
+          "time": "2026-10-25T22:36:08.000Z",
+          "media": "img/0-1.jpg"
         }
       ]
     },
     {
       "seller": {
-        "name": "Marcus Tcg",
-        "phone": "559293251613"
+        "name": "🙏🏼🙌🏼",
+        "phone": "559282673987"
       },
       "items": [
         {
           "type": "image",
-          "text": "Vendo ou troco",
-          "time": "2026-10-25T00:51:47.000Z",
+          "text": "",
+          "time": "2026-10-25T23:49:05.000Z",
           "media": "img/1-0.jpg"
-        },
-        {
-          "type": "text",
-          "text": "Zorua 200,00 e talon 60,00",
-          "time": "2026-10-25T00:52:04.000Z",
-          "media": null
         }
       ]
     },
     {
       "seller": {
-        "name": "Alyssa",
-        "phone": "559296180906"
+        "name": "Ph Fotografia",
+        "phone": "559281250805"
       },
       "items": [
         {
           "type": "image",
-          "text": "Passando - D - R$180",
-          "time": "2026-10-25T02:20:55.000Z",
+          "text": "Ganhei de brinde num leilão, to pedindo R$100",
+          "time": "2026-10-26T17:49:47.000Z",
           "media": "img/2-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Passando - D - R$180",
-          "time": "2026-10-25T02:20:55.000Z",
-          "media": "img/2-1.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Edmilson Lima Tcg",
-        "phone": "559291207113"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
-          "time": "2026-10-25T16:49:10.000Z",
-          "media": "img/3-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
-          "time": "2026-10-25T16:49:11.000Z",
-          "media": "img/3-1.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "R. Junior",
-        "phone": "559285852747"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "241/236.  D \n399,00 R$\nPromoção de eleição kk",
-          "time": "2026-10-25T18:14:55.000Z",
-          "media": "img/4-0.jpg"
         }
       ]
     }
