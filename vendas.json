@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T18:45:27.485Z",
+  "updatedAt": "2026-10-26T20:05:24.292Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -51,6 +51,20 @@
           "text": "Ganhei de brinde num leilão, to pedindo R$100",
           "time": "2026-10-26T17:49:47.000Z",
           "media": "img/2-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jeferson Souza",
+        "phone": "559291020193"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "boraaaa ta no precinho.\n\nhttps://www.cartinha.gg/leiloes/17227b96-c2a0-423e-a623-784999104f17",
+          "time": "2026-10-26T19:35:25.000Z",
+          "media": null
         }
       ]
     }
