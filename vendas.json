@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T21:40:42.879Z",
+  "updatedAt": "2026-10-27T21:45:42.939Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -63,6 +63,62 @@
           "text": "Pikachu-V (SWSH145/71)  “M” R$740",
           "time": "2026-10-27T19:04:26.000Z",
           "media": "img/2-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Brendo",
+        "phone": "559284162418"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "CARTAS À VENDA\nMega Charizard X ex (125/094) 🇺🇸 R$3.300,00\nPikachu ex (277/217) 🇺🇸 R$1.800,00\nMega Dragonite ex (246/193) 🇯🇵 R$1.700,00\nMewtwo ex da Equipe Rocket (237/193) 🇯🇵 R$800,00",
+          "time": "2026-10-27T20:02:52.000Z",
+          "media": "img/3-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Brendo",
+        "phone": "559284162418"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Zekrom do N (031/∞) 🇺🇸 R$65,00\nZoroark ex do N (286/217) R$570,00\nReshiram do N (167/159) R$40,00 \n\nTodos por R$600,00",
+          "time": "2026-10-27T20:17:26.000Z",
+          "media": "img/4-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
+          "time": "2026-10-27T21:04:44.000Z",
+          "media": "img/5-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "R$180",
+          "time": "2026-10-27T21:42:56.000Z",
+          "media": "img/6-0.jpg"
         }
       ]
     }
