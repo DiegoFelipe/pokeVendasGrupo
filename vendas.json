@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T19:35:42.724Z",
+  "updatedAt": "2026-10-27T19:40:42.663Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -77,6 +77,26 @@
           "text": "",
           "time": "2026-10-27T00:39:35.000Z",
           "media": "img/3-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jean Silva",
+        "phone": "559288523059"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Pikachu-V (SWSH145/71)  “M” R$740",
+          "time": "2026-10-27T19:04:25.000Z",
+          "media": "img/4-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Pikachu-V (SWSH145/71)  “M” R$740",
+          "time": "2026-10-27T19:04:26.000Z",
+          "media": "img/4-1.jpg"
         }
       ]
     }
