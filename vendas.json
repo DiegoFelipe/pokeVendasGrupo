@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-10-27T16:05:42.904Z",
+  "updatedAt": "2026-10-27T17:50:42.593Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Ph Fotografia",
-        "phone": "559281250805"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Ganhei de brinde num leilão, to pedindo R$100",
-          "time": "2026-10-26T17:49:47.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Jeferson Souza",
@@ -44,7 +30,7 @@
           "type": "image",
           "text": "280 cada",
           "time": "2026-10-26T20:36:50.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -58,13 +44,13 @@
           "type": "image",
           "text": "Skyla \nSP \nValor: R$ 320",
           "time": "2026-10-26T21:39:06.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Skyla \nSP \nValor: R$ 320",
           "time": "2026-10-26T21:39:06.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     },
@@ -78,13 +64,13 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-26T22:54:07.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-10-26T22:54:08.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
@@ -104,7 +90,7 @@
           "type": "image",
           "text": "",
           "time": "2026-10-27T00:39:35.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         }
       ]
     }
