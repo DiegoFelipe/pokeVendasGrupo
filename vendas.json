@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:10:45.832Z",
+  "updatedAt": "2026-10-27T16:05:42.904Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -85,6 +85,26 @@
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-10-26T22:54:08.000Z",
           "media": "img/4-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Adelson Pacheco",
+        "phone": "559284431313"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "Umbreon ex 217/187 — Terastal Fest ex — Japonês\nSpecial Art Rare Holo\nCGC Gem Mint 10\nValor: R$ 3.200,00",
+          "time": "2026-10-27T00:39:34.000Z",
+          "media": null
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-10-27T00:39:35.000Z",
+          "media": "img/5-1.jpg"
         }
       ]
     }
