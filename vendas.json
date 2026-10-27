@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-10-27T17:50:42.593Z",
+  "updatedAt": "2026-10-27T19:35:42.724Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Jeferson Souza",
-        "phone": "559291020193"
-      },
-      "items": [
-        {
-          "type": "text",
-          "text": "boraaaa ta no precinho.\n\nhttps://www.cartinha.gg/leiloes/17227b96-c2a0-423e-a623-784999104f17",
-          "time": "2026-10-26T19:35:25.000Z",
-          "media": null
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Gabriel Fernandes",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "280 cada",
           "time": "2026-10-26T20:36:50.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,13 +30,13 @@
           "type": "image",
           "text": "Skyla \nSP \nValor: R$ 320",
           "time": "2026-10-26T21:39:06.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "Skyla \nSP \nValor: R$ 320",
           "time": "2026-10-26T21:39:06.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -64,13 +50,13 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-26T22:54:07.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-10-26T22:54:08.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     },
@@ -90,7 +76,7 @@
           "type": "image",
           "text": "",
           "time": "2026-10-27T00:39:35.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     }
