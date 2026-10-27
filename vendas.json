@@ -1,31 +1,11 @@
 {
-  "updatedAt": "2026-10-27T20:40:42.821Z",
+  "updatedAt": "2026-10-27T21:40:42.879Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Rod Elias",
-        "phone": "559293710036"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Skyla \nSP \nValor: R$ 320",
-          "time": "2026-10-26T21:39:06.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Skyla \nSP \nValor: R$ 320",
-          "time": "2026-10-26T21:39:06.000Z",
-          "media": "img/0-1.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Edmilson Lima Tcg",
@@ -36,13 +16,13 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-26T22:54:07.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-10-26T22:54:08.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         }
       ]
     },
@@ -62,7 +42,7 @@
           "type": "image",
           "text": "",
           "time": "2026-10-27T00:39:35.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -76,13 +56,13 @@
           "type": "image",
           "text": "Pikachu-V (SWSH145/71)  “M” R$740",
           "time": "2026-10-27T19:04:25.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Pikachu-V (SWSH145/71)  “M” R$740",
           "time": "2026-10-27T19:04:26.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     }
