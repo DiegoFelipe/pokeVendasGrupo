@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-10-28T20:06:44.004Z",
+  "updatedAt": "2026-10-28T20:21:44.203Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Brendo",
-        "phone": "559284162418"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Zekrom do N (031/∞) 🇺🇸 R$65,00\nZoroark ex do N (286/217) R$570,00\nReshiram do N (167/159) R$40,00 \n\nTodos por R$600,00",
-          "time": "2026-10-27T20:17:26.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Edmilson Lima Tcg",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-27T21:04:44.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,7 +30,7 @@
           "type": "image",
           "text": "R$180",
           "time": "2026-10-27T21:42:56.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -58,7 +44,7 @@
           "type": "image",
           "text": "R$300,00",
           "time": "2026-10-27T22:37:53.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -72,13 +58,13 @@
           "type": "image",
           "text": "Pack 25 unidades de Toploader \nValor: R$ 50 \nTenho 4 fechadas",
           "time": "2026-10-27T23:32:55.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "Pack 25 unidades de Toploader \nValor: R$ 50 \nTenho 4 fechadas",
           "time": "2026-10-27T23:32:55.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
@@ -92,13 +78,13 @@
           "type": "image",
           "text": "",
           "time": "2026-10-27T23:48:07.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-27T23:48:07.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         }
       ]
     },
@@ -112,13 +98,13 @@
           "type": "image",
           "text": "Passando MDL \nR$ 1.700,00",
           "time": "2026-10-27T23:56:01.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "Passando MDL \nR$ 1.700,00",
           "time": "2026-10-27T23:56:01.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/5-1.jpg"
         }
       ]
     },
@@ -132,7 +118,7 @@
           "type": "image",
           "text": "Gengar PSA 10\nR$ 1k\n\nAceito propostas!\nChama que dá negócio!",
           "time": "2026-10-28T11:07:57.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -146,7 +132,7 @@
           "type": "image",
           "text": "🔢 *Item 24/27*\n \n📦 *Item:* LOTE 100vMAX WALTER\n🈶 *Idioma:* 🇯🇵 JP\n🎯 *Disponíveis:* 1\n💰 *Valor:* R$ 709,00",
           "time": "2026-10-28T15:08:52.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         }
       ]
     },
@@ -160,7 +146,7 @@
           "type": "image",
           "text": "650",
           "time": "2026-10-28T15:24:17.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         }
       ]
     },
@@ -174,7 +160,7 @@
           "type": "image",
           "text": "Ele esta vendendo algumas cartas da coleção dele",
           "time": "2026-10-28T17:46:25.000Z",
-          "media": "img/10-0.jpg"
+          "media": "img/9-0.jpg"
         }
       ]
     }
