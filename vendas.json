@@ -1,31 +1,11 @@
 {
-  "updatedAt": "2026-10-28T00:11:16.861Z",
+  "updatedAt": "2026-10-28T17:21:48.425Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Adelson Pacheco",
-        "phone": "559284431313"
-      },
-      "items": [
-        {
-          "type": "text",
-          "text": "Umbreon ex 217/187 — Terastal Fest ex — Japonês\nSpecial Art Rare Holo\nCGC Gem Mint 10\nValor: R$ 3.200,00",
-          "time": "2026-10-27T00:39:34.000Z",
-          "media": null
-        },
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-10-27T00:39:35.000Z",
-          "media": "img/0-1.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Jean Silva",
@@ -36,13 +16,13 @@
           "type": "image",
           "text": "Pikachu-V (SWSH145/71)  “M” R$740",
           "time": "2026-10-27T19:04:25.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "Pikachu-V (SWSH145/71)  “M” R$740",
           "time": "2026-10-27T19:04:26.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         }
       ]
     },
@@ -56,7 +36,7 @@
           "type": "image",
           "text": "CARTAS À VENDA\nMega Charizard X ex (125/094) 🇺🇸 R$3.300,00\nPikachu ex (277/217) 🇺🇸 R$1.800,00\nMega Dragonite ex (246/193) 🇯🇵 R$1.700,00\nMewtwo ex da Equipe Rocket (237/193) 🇯🇵 R$800,00",
           "time": "2026-10-27T20:02:52.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -70,7 +50,7 @@
           "type": "image",
           "text": "Zekrom do N (031/∞) 🇺🇸 R$65,00\nZoroark ex do N (286/217) R$570,00\nReshiram do N (167/159) R$40,00 \n\nTodos por R$600,00",
           "time": "2026-10-27T20:17:26.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -84,7 +64,7 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-27T21:04:44.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -98,7 +78,7 @@
           "type": "image",
           "text": "R$180",
           "time": "2026-10-27T21:42:56.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -112,7 +92,7 @@
           "type": "image",
           "text": "R$300,00",
           "time": "2026-10-27T22:37:53.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -126,13 +106,13 @@
           "type": "image",
           "text": "Pack 25 unidades de Toploader \nValor: R$ 50 \nTenho 4 fechadas",
           "time": "2026-10-27T23:32:55.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         },
         {
           "type": "image",
           "text": "Pack 25 unidades de Toploader \nValor: R$ 50 \nTenho 4 fechadas",
           "time": "2026-10-27T23:32:55.000Z",
-          "media": "img/7-1.jpg"
+          "media": "img/6-1.jpg"
         }
       ]
     },
@@ -146,13 +126,13 @@
           "type": "image",
           "text": "",
           "time": "2026-10-27T23:48:07.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-27T23:48:07.000Z",
-          "media": "img/8-1.jpg"
+          "media": "img/7-1.jpg"
         }
       ]
     },
@@ -166,13 +146,55 @@
           "type": "image",
           "text": "Passando MDL \nR$ 1.700,00",
           "time": "2026-10-27T23:56:01.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         },
         {
           "type": "image",
           "text": "Passando MDL \nR$ 1.700,00",
           "time": "2026-10-27T23:56:01.000Z",
-          "media": "img/9-1.jpg"
+          "media": "img/8-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Luigi Muller",
+        "phone": "559284582662"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Gengar PSA 10\nR$ 1k\n\nAceito propostas!\nChama que dá negócio!",
+          "time": "2026-10-28T11:07:57.000Z",
+          "media": "img/9-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "19",
+        "phone": "559282064149"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "🔢 *Item 24/27*\n \n📦 *Item:* LOTE 100vMAX WALTER\n🈶 *Idioma:* 🇯🇵 JP\n🎯 *Disponíveis:* 1\n💰 *Valor:* R$ 709,00",
+          "time": "2026-10-28T15:08:52.000Z",
+          "media": "img/10-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Thiago",
+        "phone": "559291642421"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "650",
+          "time": "2026-10-28T15:24:17.000Z",
+          "media": "img/11-0.jpg"
         }
       ]
     }
