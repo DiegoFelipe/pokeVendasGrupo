@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T17:21:48.425Z",
+  "updatedAt": "2026-10-28T17:46:44.099Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -195,6 +195,20 @@
           "text": "650",
           "time": "2026-10-28T15:24:17.000Z",
           "media": "img/11-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Rod Elias",
+        "phone": "559293710036"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Ele esta vendendo algumas cartas da coleção dele",
+          "time": "2026-10-28T17:46:25.000Z",
+          "media": "img/12-0.jpg"
         }
       ]
     }
