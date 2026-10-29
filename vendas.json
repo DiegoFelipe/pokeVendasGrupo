@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:18:42.472Z",
+  "updatedAt": "2026-10-29T21:48:42.599Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -127,6 +127,20 @@
           "text": "",
           "time": "2026-10-29T19:26:45.000Z",
           "media": "img/7-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Isabelle Benlolo TCG",
+        "phone": "559292997488"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "30 dias pra chegar em Manaus, gzuis",
+          "time": "2026-10-29T21:46:40.000Z",
+          "media": "img/8-0.jpg"
         }
       ]
     }
