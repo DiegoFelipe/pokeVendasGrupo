@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-10-29T15:09:41.045Z",
+  "updatedAt": "2026-10-29T15:24:41.611Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Thiago",
-        "phone": "559291642421"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "650",
-          "time": "2026-10-28T15:24:17.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Rod Elias",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "Ele esta vendendo algumas cartas da coleção dele",
           "time": "2026-10-28T17:46:25.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,7 +30,7 @@
           "type": "image",
           "text": "Vendo 599,99 vindo buscar...",
           "time": "2026-10-28T18:13:09.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -58,7 +44,7 @@
           "type": "image",
           "text": "Skyla SP\nValor: R$ 320",
           "time": "2026-10-28T21:18:06.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -72,7 +58,7 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-28T23:02:38.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
