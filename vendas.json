@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T11:12:02.793Z",
+  "updatedAt": "2026-10-29T14:19:44.504Z",
   "hours": 24,
   "group": {
-    "name": null,
-    "pic": null
+    "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
+    "pic": "img/group.jpg"
   },
   "vendas": [
     {
@@ -87,12 +87,20 @@
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-28T23:02:38.000Z",
           "media": "img/5-0.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Ramel",
+        "phone": "559284279342"
+      },
+      "items": [
         {
-          "type": "image",
-          "text": "Venda de top loader mais de 100 itens no valor 1,50 cada",
-          "time": "2026-10-28T23:02:38.000Z",
-          "media": "img/5-1.jpg"
+          "type": "text",
+          "text": "🔥 CARTAS POKÉMON – CHARIZARD 🔥\n\n📌 Lista de cartas disponíveis\n\n1️⃣ Mega Charizard X ex (125/094)\n✨ Estado: NM\n💰 R$ 1.650,00\n\n2️⃣ Mega Charizard X ex (109/094)\n✨ Estado: NM\n💰 R$ 120,00\n\n3️⃣ Charizard ex (Promo 074)\n✨ Estado: NM\n💰 R$ 100,00\n\n4️⃣ Charizard ex (228/197)\n✨ Estado: SP\n💰 R$ 170,00\n\n5️⃣ Charizard VMAX (SWSH261)\n✨ Estado: NM | Lacrado\n💰 R$ 350,00\n\n6️⃣ Charizard V (SWSH260)\n✨ Estado: NM\n💰 R$ 470,00\n\n7️⃣ Reshiram & Charizard GX (20/214)\n✨ Estado: NM\n💰 R$ 130,00\n\n8️⃣ Charizard V (017/172)\n✨ Estado: NM\n💰 R$ 130,00\n\n━━━━━━━━━━━━━━━\n\n🔥 Total das 8 cartas: R$ 3.120,00 🔥\n\n📩 Interessados, chamar no privado!",
+          "time": "2026-10-28T23:56:29.000Z",
+          "media": null
         }
       ]
     }
