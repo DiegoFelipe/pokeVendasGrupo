@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:28:42.488Z",
+  "updatedAt": "2026-10-29T16:33:42.360Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -101,6 +101,26 @@
           "text": "Passando...\nAceito cartão de crédito  💰",
           "time": "2026-10-29T16:28:26.000Z",
           "media": "img/6-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Dr. Rodrigo TCG",
+        "phone": "559288097848"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Mew RGB\nNM 🇧🇷\nR$11.000",
+          "time": "2026-10-29T16:31:38.000Z",
+          "media": "img/7-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Gengar prime\nSP 🇺🇲\nR$6.500",
+          "time": "2026-10-29T16:31:39.000Z",
+          "media": "img/7-1.jpg"
         }
       ]
     }
