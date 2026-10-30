@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-10-30T15:55:03.049Z",
+  "updatedAt": "2026-10-30T16:20:03.186Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "F.M",
-        "phone": "559292259298"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Passando",
-          "time": "2026-10-29T16:18:56.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "🙏🏼🙌🏼",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "Passando...\nAceito cartão de crédito  💰",
           "time": "2026-10-29T16:28:26.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,13 +30,13 @@
           "type": "image",
           "text": "Mew RGB\nNM 🇧🇷\nR$11.000",
           "time": "2026-10-29T16:31:38.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "Gengar prime\nSP 🇺🇲\nR$6.500",
           "time": "2026-10-29T16:31:39.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -64,13 +50,13 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-10-29T17:05:24.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Vendo 599,99 vindo buscar...",
           "time": "2026-10-29T17:05:24.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     },
@@ -84,7 +70,7 @@
           "type": "image",
           "text": "NM - 180 Cada",
           "time": "2026-10-29T17:20:04.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -98,7 +84,7 @@
           "type": "image",
           "text": "",
           "time": "2026-10-29T19:26:45.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -112,13 +98,13 @@
           "type": "image",
           "text": "1750,R$ NM",
           "time": "2026-10-30T00:05:33.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "1750,R$ NM",
           "time": "2026-10-30T00:05:34.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/5-1.jpg"
         }
       ]
     },
@@ -132,13 +118,13 @@
           "type": "image",
           "text": "Vendo 599,99 vindo buscar...",
           "time": "2026-10-30T01:13:13.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         },
         {
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-10-30T01:13:14.000Z",
-          "media": "img/7-1.jpg"
+          "media": "img/6-1.jpg"
         }
       ]
     },
@@ -152,37 +138,37 @@
           "type": "image",
           "text": "Kingler JP (NM) - R$180,00",
           "time": "2026-10-30T14:25:06.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         },
         {
           "type": "image",
           "text": "Kabuto MasterBall JP (NM) R$200,00",
           "time": "2026-10-30T14:25:08.000Z",
-          "media": "img/8-1.jpg"
+          "media": "img/7-1.jpg"
         },
         {
           "type": "image",
           "text": "Blastoise Radiante JP (NM) - R$290,00",
           "time": "2026-10-30T14:25:10.000Z",
-          "media": "img/8-2.jpg"
+          "media": "img/7-2.jpg"
         },
         {
           "type": "image",
           "text": "Meowth Ex JP (NM) - R$150,00",
           "time": "2026-10-30T14:25:11.000Z",
-          "media": "img/8-3.jpg"
+          "media": "img/7-3.jpg"
         },
         {
           "type": "image",
           "text": "Eevee Promo JP (196/-) (M) - R$300,00",
           "time": "2026-10-30T14:25:13.000Z",
-          "media": "img/8-4.jpg"
+          "media": "img/7-4.jpg"
         },
         {
           "type": "image",
           "text": "Mega Golisopod EX SAR (NM) - R$250,00",
           "time": "2026-10-30T14:25:14.000Z",
-          "media": "img/8-5.jpg"
+          "media": "img/7-5.jpg"
         }
       ]
     },
@@ -196,7 +182,7 @@
           "type": "image",
           "text": "100 Menor da liga",
           "time": "2026-10-30T15:05:58.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         }
       ]
     },
@@ -210,7 +196,7 @@
           "type": "image",
           "text": "NM - 200",
           "time": "2026-10-30T15:20:08.000Z",
-          "media": "img/10-0.jpg"
+          "media": "img/9-0.jpg"
         }
       ]
     }
