@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T00:45:50.504Z",
+  "updatedAt": "2026-10-30T02:04:27.521Z",
   "hours": 24,
   "group": {
-    "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
-    "pic": "img/group.jpg"
+    "name": null,
+    "pic": null
   },
   "vendas": [
     {
@@ -119,6 +119,26 @@
           "text": "1750,R$ NM",
           "time": "2026-10-30T00:05:34.000Z",
           "media": "img/6-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Vendo 599,99 vindo buscar...",
+          "time": "2026-10-30T01:13:13.000Z",
+          "media": "img/7-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
+          "time": "2026-10-30T01:13:14.000Z",
+          "media": "img/7-1.jpg"
         }
       ]
     }
