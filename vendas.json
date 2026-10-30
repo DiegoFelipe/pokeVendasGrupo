@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-10-30T17:25:03.182Z",
+  "updatedAt": "2026-10-30T19:30:03.199Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Alyssa",
-        "phone": "559296180906"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-10-29T19:26:45.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "R. Junior",
@@ -30,13 +16,13 @@
           "type": "image",
           "text": "1750,R$ NM",
           "time": "2026-10-30T00:05:33.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "1750,R$ NM",
           "time": "2026-10-30T00:05:34.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         }
       ]
     },
@@ -50,13 +36,13 @@
           "type": "image",
           "text": "Vendo 599,99 vindo buscar...",
           "time": "2026-10-30T01:13:13.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-10-30T01:13:14.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -70,37 +56,37 @@
           "type": "image",
           "text": "Kingler JP (NM) - R$180,00",
           "time": "2026-10-30T14:25:06.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Kabuto MasterBall JP (NM) R$200,00",
           "time": "2026-10-30T14:25:08.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         },
         {
           "type": "image",
           "text": "Blastoise Radiante JP (NM) - R$290,00",
           "time": "2026-10-30T14:25:10.000Z",
-          "media": "img/3-2.jpg"
+          "media": "img/2-2.jpg"
         },
         {
           "type": "image",
           "text": "Meowth Ex JP (NM) - R$150,00",
           "time": "2026-10-30T14:25:11.000Z",
-          "media": "img/3-3.jpg"
+          "media": "img/2-3.jpg"
         },
         {
           "type": "image",
           "text": "Eevee Promo JP (196/-) (M) - R$300,00",
           "time": "2026-10-30T14:25:13.000Z",
-          "media": "img/3-4.jpg"
+          "media": "img/2-4.jpg"
         },
         {
           "type": "image",
           "text": "Mega Golisopod EX SAR (NM) - R$250,00",
           "time": "2026-10-30T14:25:14.000Z",
-          "media": "img/3-5.jpg"
+          "media": "img/2-5.jpg"
         }
       ]
     },
@@ -114,7 +100,7 @@
           "type": "image",
           "text": "100 Menor da liga",
           "time": "2026-10-30T15:05:58.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -128,7 +114,7 @@
           "type": "image",
           "text": "NM - 200",
           "time": "2026-10-30T15:20:08.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -142,13 +128,13 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-10-30T17:05:11.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "Vendo 599,99 vindo buscar...",
           "time": "2026-10-30T17:05:32.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/5-1.jpg"
         }
       ]
     }
