@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T17:20:45.347Z",
+  "updatedAt": "2026-10-31T17:28:46.491Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -101,6 +101,70 @@
           "text": "Staff pacote com 4 promo 350",
           "time": "2026-10-31T13:18:01.000Z",
           "media": "img/3-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "João Eduardo N.",
+        "phone": "559294887781"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Kingler JP (NM) - R$180,00",
+          "time": "2026-10-31T15:50:17.000Z",
+          "media": "img/4-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Kabuto MasterBall JP (NM) R$200,00",
+          "time": "2026-10-31T15:50:20.000Z",
+          "media": "img/4-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Blastoise Radiante JP (NM) - R$290,00",
+          "time": "2026-10-31T15:50:22.000Z",
+          "media": "img/4-2.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Eevee Promo JP (196/-) (M) - R$300,00",
+          "time": "2026-10-31T15:50:24.000Z",
+          "media": "img/4-3.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Meowth Ex JP (NM) - R$150,00",
+          "time": "2026-10-31T15:50:24.000Z",
+          "media": "img/4-4.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Mega Golisopod EX SAR (NM) - R$250,00",
+          "time": "2026-10-31T15:50:28.000Z",
+          "media": "img/4-5.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
+          "time": "2026-10-31T16:51:30.000Z",
+          "media": "img/5-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
+          "time": "2026-10-31T16:51:30.000Z",
+          "media": "img/5-1.jpg"
         }
       ]
     }
