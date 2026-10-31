@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:35:04.176Z",
+  "updatedAt": "2026-10-31T23:49:56.700Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -153,6 +153,20 @@
           "text": "Passando...",
           "time": "2026-10-31T22:01:28.000Z",
           "media": "img/5-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "wolter",
+        "phone": "559281562611"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "Cubone “Lonely” 100$ 🇺🇸",
+          "time": "2026-10-31T23:48:18.000Z",
+          "media": null
         }
       ]
     }
