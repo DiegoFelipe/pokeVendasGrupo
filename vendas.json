@@ -1,43 +1,11 @@
 {
-  "updatedAt": "2026-10-31T14:25:13.211Z",
+  "updatedAt": "2026-10-31T14:25:34.003Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "João Eduardo N.",
-        "phone": "559294887781"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Blastoise Radiante JP (NM) - R$290,00",
-          "time": "2026-10-30T14:25:10.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Meowth Ex JP (NM) - R$150,00",
-          "time": "2026-10-30T14:25:11.000Z",
-          "media": "img/0-1.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Eevee Promo JP (196/-) (M) - R$300,00",
-          "time": "2026-10-30T14:25:13.000Z",
-          "media": "img/0-2.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Mega Golisopod EX SAR (NM) - R$250,00",
-          "time": "2026-10-30T14:25:14.000Z",
-          "media": "img/0-3.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "🍷Oliveira🍷",
@@ -48,7 +16,7 @@
           "type": "image",
           "text": "100 Menor da liga",
           "time": "2026-10-30T15:05:58.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -62,7 +30,7 @@
           "type": "image",
           "text": "NM - 200",
           "time": "2026-10-30T15:20:08.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -76,13 +44,13 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-10-30T17:05:11.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Vendo 599,99 vindo buscar...",
           "time": "2026-10-30T17:05:32.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     },
@@ -102,13 +70,13 @@
           "type": "image",
           "text": "",
           "time": "2026-10-30T20:01:07.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-30T20:01:07.000Z",
-          "media": "img/4-2.jpg"
+          "media": "img/3-2.jpg"
         }
       ]
     },
@@ -122,7 +90,7 @@
           "type": "image",
           "text": "Vendo \nAceito cartão de crédito 💰",
           "time": "2026-10-31T02:02:49.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -136,31 +104,31 @@
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:22.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:24.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/5-1.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:25.000Z",
-          "media": "img/6-2.jpg"
+          "media": "img/5-2.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:25.000Z",
-          "media": "img/6-3.jpg"
+          "media": "img/5-3.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:26.000Z",
-          "media": "img/6-4.jpg"
+          "media": "img/5-4.jpg"
         },
         {
           "type": "text",
@@ -180,7 +148,7 @@
           "type": "image",
           "text": "Staff pacote com 4 promo 350",
           "time": "2026-10-31T13:18:01.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     }
