@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:14:26.275Z",
+  "updatedAt": "2026-10-31T02:04:26.254Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -121,6 +121,20 @@
           "text": "",
           "time": "2026-10-30T20:01:07.000Z",
           "media": "img/4-2.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "🙏🏼🙌🏼",
+        "phone": "559282673987"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Vendo \nAceito cartão de crédito 💰",
+          "time": "2026-10-31T02:02:49.000Z",
+          "media": "img/5-0.jpg"
         }
       ]
     }
