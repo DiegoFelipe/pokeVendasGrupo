@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T14:14:27.705Z",
+  "updatedAt": "2026-10-31T14:25:13.211Z",
   "hours": 24,
   "group": {
-    "name": null,
-    "pic": null
+    "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
+    "pic": "img/group.jpg"
   },
   "vendas": [
     {
@@ -14,39 +14,27 @@
       "items": [
         {
           "type": "image",
-          "text": "Kingler JP (NM) - R$180,00",
-          "time": "2026-10-30T14:25:06.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Kabuto MasterBall JP (NM) R$200,00",
-          "time": "2026-10-30T14:25:08.000Z",
-          "media": "img/0-1.jpg"
-        },
-        {
-          "type": "image",
           "text": "Blastoise Radiante JP (NM) - R$290,00",
           "time": "2026-10-30T14:25:10.000Z",
-          "media": "img/0-2.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "Meowth Ex JP (NM) - R$150,00",
           "time": "2026-10-30T14:25:11.000Z",
-          "media": "img/0-3.jpg"
+          "media": "img/0-1.jpg"
         },
         {
           "type": "image",
           "text": "Eevee Promo JP (196/-) (M) - R$300,00",
           "time": "2026-10-30T14:25:13.000Z",
-          "media": "img/0-4.jpg"
+          "media": "img/0-2.jpg"
         },
         {
           "type": "image",
           "text": "Mega Golisopod EX SAR (NM) - R$250,00",
           "time": "2026-10-30T14:25:14.000Z",
-          "media": "img/0-5.jpg"
+          "media": "img/0-3.jpg"
         }
       ]
     },
