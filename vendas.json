@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T02:04:26.254Z",
+  "updatedAt": "2026-10-31T14:14:27.705Z",
   "hours": 24,
   "group": {
-    "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
-    "pic": "img/group.jpg"
+    "name": null,
+    "pic": null
   },
   "vendas": [
     {
@@ -135,6 +135,64 @@
           "text": "Vendo \nAceito cartão de crédito 💰",
           "time": "2026-10-31T02:02:49.000Z",
           "media": "img/5-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-10-31T12:33:22.000Z",
+          "media": "img/6-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-10-31T12:33:24.000Z",
+          "media": "img/6-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-10-31T12:33:25.000Z",
+          "media": "img/6-2.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-10-31T12:33:25.000Z",
+          "media": "img/6-3.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-10-31T12:33:26.000Z",
+          "media": "img/6-4.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Passas pokemon:\n\n- Mega Dragonite ex (271/217) 🇺🇸 NM R$220 \n- Greninja ex (021/128) R$4,50\n- Zorua (075/064) 🇺🇸 R$250\n- Mega Lucario Z ex (115/080) 🇩🇪 NM R$800\n- Dragonair (181/165) 🇺🇸 R$450 nm\n- Charizard-V (79/073) R$1650 NM\n- Jolteon-V (swsh183/71) R$190 NM\n- Mewtwo-Vastro (086/078) R$195 NM\n- Lucario- Vastro (Swsh291/71) R$140 NM\n- Slowbro 🇺🇸  (090/084) R$48 NM\n- Eevee ex 🇺🇸 (194) R$100 NM\n- Umbreon-V 🇺🇸 (188/203) R$850 NM\n- Flareon-EX (RC28/83) R$650 NM\n- Lapras (131/128) R$44 NM\n- Marshadow e machamp-GX (82/214) R$120 NM\n- Celebi (xy111) R$90 SP\n- Moltres, zapdos e articuno-GX (44/68) 🇺🇸 R$535 NM\n- Fennekin 🇺🇸 (080) R$25 NM\n- Frosmoth (TG04/TG30) R$43 NM\n- Piplup (239/236) R$180 NM\n- Gengar (TG06/TG30) 🇺🇸 R$535 NM\n- Gardevoir (TG05/TG30) R$100 NM\n- Arcanine de hisui (TG08/TG30) R$75 NM\n- Reshiram e charizard-GX (SM201/250) R$700 NM\n- Mega darkrai ex (048/084) R$4,50 NM\n- Mewtwo Ex (064/128) R$4,90\n- Pikachu ex🇺🇸 (053/128) R$14\n- Pikachu ex (054/128) R$10\n- Rampardos ex 🇺🇸 (045/084) R$3,50\n- Sylveon ex (100) 🇺🇸 R$16\n- Salamence ex (109/128) R$3\n- Kommo-o (143/128) R$10\n- Mega greninja ex (100/086) R$45\n- Bastiodon (093/084) 🇺🇸 R$12\n- Froakie (088/086) R$34",
+          "time": "2026-10-31T12:33:27.000Z",
+          "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "🍷Oliveira🍷",
+        "phone": "559295042895"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Staff pacote com 4 promo 350",
+          "time": "2026-10-31T13:18:01.000Z",
+          "media": "img/7-0.jpg"
         }
       ]
     }
