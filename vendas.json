@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T17:49:53.223Z",
+  "updatedAt": "2026-11-01T19:34:49.785Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -59,6 +59,20 @@
           "text": "Resultado das mini BB da Amazon de 119",
           "time": "2026-11-01T16:07:13.000Z",
           "media": "img/3-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Gabriel Fernandes",
+        "phone": "559281732192"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "850",
+          "time": "2026-11-01T19:34:04.000Z",
+          "media": "img/4-0.jpg"
         }
       ]
     }
