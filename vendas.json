@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-01T00:14:56.782Z",
+  "updatedAt": "2026-11-01T02:04:56.588Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "🙏🏼🙌🏼",
-        "phone": "559282673987"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Vendo \nAceito cartão de crédito 💰",
-          "time": "2026-10-31T02:02:49.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Lucas Zidany TCG",
@@ -30,31 +16,31 @@
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:22.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:24.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:25.000Z",
-          "media": "img/1-2.jpg"
+          "media": "img/0-2.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:25.000Z",
-          "media": "img/1-3.jpg"
+          "media": "img/0-3.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-10-31T12:33:26.000Z",
-          "media": "img/1-4.jpg"
+          "media": "img/0-4.jpg"
         },
         {
           "type": "text",
@@ -74,7 +60,7 @@
           "type": "image",
           "text": "Staff pacote com 4 promo 350",
           "time": "2026-10-31T13:18:01.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -88,37 +74,37 @@
           "type": "image",
           "text": "Kingler JP (NM) - R$180,00",
           "time": "2026-10-31T15:50:17.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Kabuto MasterBall JP (NM) R$200,00",
           "time": "2026-10-31T15:50:20.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         },
         {
           "type": "image",
           "text": "Blastoise Radiante JP (NM) - R$290,00",
           "time": "2026-10-31T15:50:22.000Z",
-          "media": "img/3-2.jpg"
+          "media": "img/2-2.jpg"
         },
         {
           "type": "image",
           "text": "Eevee Promo JP (196/-) (M) - R$300,00",
           "time": "2026-10-31T15:50:24.000Z",
-          "media": "img/3-3.jpg"
+          "media": "img/2-3.jpg"
         },
         {
           "type": "image",
           "text": "Meowth Ex JP (NM) - R$150,00",
           "time": "2026-10-31T15:50:24.000Z",
-          "media": "img/3-4.jpg"
+          "media": "img/2-4.jpg"
         },
         {
           "type": "image",
           "text": "Mega Golisopod EX SAR (NM) - R$250,00",
           "time": "2026-10-31T15:50:28.000Z",
-          "media": "img/3-5.jpg"
+          "media": "img/2-5.jpg"
         }
       ]
     },
@@ -132,13 +118,13 @@
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-10-31T16:51:30.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-10-31T16:51:30.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
@@ -152,7 +138,7 @@
           "type": "image",
           "text": "Passando...",
           "time": "2026-10-31T22:01:28.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
