@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T13:25:47.281Z",
+  "updatedAt": "2026-11-02T13:30:40.469Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -90,6 +90,18 @@
           "type": "text",
           "text": "Psa 10 a ultima venda foi 96k dol a 1 mes",
           "time": "2026-11-02T13:24:42.000Z",
+          "media": null
+        },
+        {
+          "type": "text",
+          "text": "45/55",
+          "time": "2026-11-02T13:26:16.000Z",
+          "media": null
+        },
+        {
+          "type": "text",
+          "text": "Card centering/holodex/digital grading",
+          "time": "2026-11-02T13:28:09.000Z",
           "media": null
         }
       ]
