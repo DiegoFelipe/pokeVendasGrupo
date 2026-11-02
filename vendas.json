@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:49:51.885Z",
+  "updatedAt": "2026-11-02T19:34:51.613Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -8,14 +8,14 @@
   "vendas": [
     {
       "seller": {
-        "name": "Gabriel Fernandes",
-        "phone": "559281732192"
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
       },
       "items": [
         {
           "type": "image",
-          "text": "850",
-          "time": "2026-11-01T19:34:04.000Z",
+          "text": "R$1000",
+          "time": "2026-11-02T00:46:05.000Z",
           "media": "img/0-0.jpg"
         }
       ]
@@ -28,29 +28,15 @@
       "items": [
         {
           "type": "image",
-          "text": "R$1000",
-          "time": "2026-11-02T00:46:05.000Z",
-          "media": "img/1-0.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Lucas Zidany TCG",
-        "phone": "559291800175"
-      },
-      "items": [
-        {
-          "type": "image",
           "text": "",
           "time": "2026-11-02T12:19:11.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-02T12:19:11.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -78,7 +64,7 @@
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-11-02T17:16:02.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -92,7 +78,7 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1500",
           "time": "2026-11-02T18:49:47.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     }
