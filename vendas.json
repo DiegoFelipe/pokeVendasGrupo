@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T16:54:51.603Z",
+  "updatedAt": "2026-11-02T17:19:51.803Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -85,6 +85,26 @@
           "text": "Card centering/holodex/digital grading",
           "time": "2026-11-02T13:28:09.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
+          "time": "2026-11-02T17:16:02.000Z",
+          "media": "img/5-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
+          "time": "2026-11-02T17:16:02.000Z",
+          "media": "img/5-1.jpg"
         }
       ]
     }
