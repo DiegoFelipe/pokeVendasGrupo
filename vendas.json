@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T00:25:34.773Z",
+  "updatedAt": "2026-11-02T13:25:47.281Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -51,6 +51,46 @@
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-11-01T19:40:43.000Z",
           "media": "img/2-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-02T12:19:11.000Z",
+          "media": "img/3-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-02T12:19:11.000Z",
+          "media": "img/3-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "Vi psa 6 sendo vendido por 1300 dol",
+          "time": "2026-11-02T13:21:30.000Z",
+          "media": null
+        },
+        {
+          "type": "text",
+          "text": "Psa 10 a ultima venda foi 96k dol a 1 mes",
+          "time": "2026-11-02T13:24:42.000Z",
+          "media": null
         }
       ]
     }
