@@ -138,6 +138,13 @@
       background: linear-gradient(135deg, #3ddc84, #25b866); transition: transform .15s, box-shadow .15s;
     }
     .zap:hover { transform: scale(1.05); box-shadow: 0 6px 20px rgba(61, 220, 132, .45); }
+    .venda-docs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+    .pdf-link {
+      display: inline-flex; align-items: center; gap: 6px; max-width: 100%; padding: 8px 14px; border-radius: 12px;
+      text-decoration: none; font-weight: 600; color: inherit; overflow-wrap: anywhere;
+      background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 203, 5, 0.3);
+    }
+    .pdf-link:hover { border-color: rgba(255, 203, 5, 0.7); }
 
     .poke-tags {
       display: flex;
@@ -595,9 +602,17 @@
       const mediaTexts = mediaItems.map((i) => (i.text || "").trim()).filter(Boolean);
       const uniqueMediaTexts = [...new Set(mediaTexts)];
 
-      // Textos avulsos (mensagens sem foto)
+      // PDFs do anúncio (ex: lista de preços): viram links; a legenda entra junto dos textos
+      const docItems = items.filter((i) => i.type === "document" && i.media);
+      const docsHtml = docItems.length
+        ? `<div class="venda-docs">${docItems
+            .map((i) => `<a class="pdf-link" href="${esc(i.media)}" target="_blank" rel="noopener">📄 ${esc(i.filename || "Abrir PDF")}</a>`)
+            .join("")}</div>`
+        : "";
+
+      // Textos avulsos (mensagens sem foto) e legendas dos PDFs
       const standaloneTexts = items
-        .filter((i) => i.type === "text")
+        .filter((i) => i.type === "text" || i.type === "document")
         .map((i) => (i.text || "").trim())
         .filter(Boolean);
 
@@ -656,6 +671,7 @@
           </div>
           ${pokeTagsHtml}
           ${galleryHtml}
+          ${docsHtml}
           ${textHtml}
         </div></article>`;
     }
