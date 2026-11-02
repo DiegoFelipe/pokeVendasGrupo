@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T16:04:55.032Z",
+  "updatedAt": "2026-11-02T16:09:51.526Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -14,23 +14,9 @@
       "items": [
         {
           "type": "image",
-          "text": "Resultado das mini BB da Amazon de 119",
-          "time": "2026-11-01T16:07:13.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Gabriel Fernandes",
-        "phone": "559281732192"
-      },
-      "items": [
-        {
-          "type": "image",
           "text": "850",
           "time": "2026-11-01T19:34:04.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,13 +30,13 @@
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-11-01T19:40:43.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-11-01T19:40:43.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -64,7 +50,7 @@
           "type": "image",
           "text": "R$1000",
           "time": "2026-11-02T00:46:05.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -78,13 +64,13 @@
           "type": "image",
           "text": "",
           "time": "2026-11-02T12:19:11.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-02T12:19:11.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
