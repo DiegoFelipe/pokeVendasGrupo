@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T15:11:39.641Z",
+  "updatedAt": "2026-11-03T17:16:39.690Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -14,23 +14,9 @@
       "items": [
         {
           "type": "image",
-          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
-          "time": "2026-11-02T17:16:02.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Edmilson Lima Tcg",
-        "phone": "559291207113"
-      },
-      "items": [
-        {
-          "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-11-02T19:43:45.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,7 +30,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-02T19:55:15.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -58,7 +44,7 @@
           "type": "image",
           "text": "Sleeve com pulltab pra toploader - R$60 - 100unidades",
           "time": "2026-11-03T02:11:09.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -72,13 +58,13 @@
           "type": "image",
           "text": "Ditto XY40 120$",
           "time": "2026-11-03T03:27:11.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "Cubone “Lonely” 🇺🇸 120$",
           "time": "2026-11-03T03:27:54.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
@@ -92,19 +78,19 @@
           "type": "image",
           "text": "Vault X binder 2x2 sem uso - 150",
           "time": "2026-11-03T04:36:51.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "image",
           "text": "Vault X binder 2x2 sem uso - 150",
           "time": "2026-11-03T04:36:51.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-03T04:37:05.000Z",
-          "media": "img/5-2.jpg"
+          "media": "img/4-2.jpg"
         },
         {
           "type": "text",
@@ -116,7 +102,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-03T04:37:06.000Z",
-          "media": "img/5-4.jpg"
+          "media": "img/4-4.jpg"
         }
       ]
     },
@@ -136,7 +122,7 @@
           "type": "document",
           "text": "Coleção_de_Cartas_Pokémon.pdf",
           "time": "2026-11-03T13:58:59.000Z",
-          "media": "img/6-1.pdf",
+          "media": "img/5-1.pdf",
           "filename": "Coleção_de_Cartas_Pokémon.pdf"
         }
       ]

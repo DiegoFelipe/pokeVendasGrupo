@@ -22,32 +22,32 @@ console.log(`Iniciando download para ${pokemonList.length} Pokémon...`);
 
 function downloadFile(url, dest) {
   return new Promise((resolve) => {
+    let settled = false;
+    const finish = (ok) => {
+      if (settled) return;
+      settled = true;
+      if (!ok && fs.existsSync(dest)) fs.unlinkSync(dest);
+      resolve(ok);
+    };
+
     const file = fs.createWriteStream(dest);
     const req = https.get(url, (res) => {
       if (res.statusCode === 200) {
         res.pipe(file);
-        file.on("finish", () => {
-          file.close();
-          resolve(true);
-        });
+        file.on("finish", () => file.close(() => finish(true)));
       } else {
-        file.close();
-        if (fs.existsSync(dest)) fs.unlinkSync(dest);
-        resolve(false);
+        res.resume();
+        file.close(() => finish(false));
       }
     });
 
-    req.on("error", () => {
-      file.close();
-      if (fs.existsSync(dest)) fs.unlinkSync(dest);
-      resolve(false);
-    });
+    req.on("error", () => file.close(() => finish(false)));
 
+    // O timeout só vale enquanto o download não terminou (antes apagava o arquivo já baixado)
     req.setTimeout(12000, () => {
+      if (settled) return;
       req.destroy();
-      file.close();
-      if (fs.existsSync(dest)) fs.unlinkSync(dest);
-      resolve(false);
+      file.close(() => finish(false));
     });
   });
 }
