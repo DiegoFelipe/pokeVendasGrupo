@@ -148,6 +148,12 @@
       border: 2px solid rgba(255, 203, 5, 0.55);
       animation: pdf-glow 2.4s ease-in-out infinite;
       transition: transform 0.2s ease, border-color 0.2s ease;
+      overflow: hidden; isolation: isolate;
+    }
+    /* Fundo animado temático (SVG leve) que acompanha o tamanho do card */
+    .pdf-link::before {
+      content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+      background: var(--pdf-bg) center / cover no-repeat; opacity: 0.8;
     }
     .pdf-link:hover { transform: translateY(-3px); border-color: var(--yellow); }
     .pdf-icon {
@@ -598,9 +604,15 @@
     function pdfIcon(key) {
       return `icons/pdf-${pdfPick(key)}.png`;
     }
+    // Cada Pokémon tem 3 fundos animados; sorteia um e guarda para não trocar ao reordenar
+    const pdfBgPicks = new Map();
+    function pdfBg(key) {
+      if (!pdfBgPicks.has(key)) pdfBgPicks.set(key, 1 + Math.floor(Math.random() * 3));
+      return `bg/${pdfPick(key)}-${pdfBgPicks.get(key)}.svg`;
+    }
     function pdfThemeStyle(key) {
       const t = PDF_THEMES[pdfPick(key)];
-      return `--pdf-btn-bg:${t.btnBg};--pdf-btn-text:${t.btnText};--pdf-glow:${t.glow}`;
+      return `--pdf-btn-bg:${t.btnBg};--pdf-btn-text:${t.btnText};--pdf-glow:${t.glow};--pdf-bg:url('${pdfBg(key)}')`;
     }
 
     let pokemonDb = [];
