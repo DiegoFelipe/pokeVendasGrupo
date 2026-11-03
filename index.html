@@ -146,13 +146,27 @@
     }
     .pdf-link:hover { border-color: rgba(255, 203, 5, 0.7); }
 
+    /* Sprites numa linha só: rola sozinho e em loop quando não cabem */
     .poke-tags {
+      overflow-x: auto;
+      overflow-y: hidden;
+      scrollbar-width: none;
+      padding: 4px 0 8px;
+      margin-bottom: 6px;
+    }
+    .poke-tags::-webkit-scrollbar { display: none; }
+    .poke-tags[data-loop] {
+      -webkit-mask-image: linear-gradient(90deg, transparent, #000 28px, #000 calc(100% - 28px), transparent);
+      mask-image: linear-gradient(90deg, transparent, #000 28px, #000 calc(100% - 28px), transparent);
+    }
+    .poke-track {
       display: flex;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
       align-items: center;
       gap: 8px;
-      margin-bottom: 14px;
+      width: max-content;
     }
+    .poke-track > .poke-chip { flex: none; }
     .poke-chip {
       display: inline-flex;
       align-items: center;
@@ -578,7 +592,7 @@
       let pokeTagsHtml = "";
       if (detectedPokemon.length > 0) {
         pokeTagsHtml = `
-          <div class="poke-tags" aria-label="Pokémons detectados neste anúncio">
+          <div class="poke-tags" aria-label="Pokémons detectados neste anúncio"><div class="poke-track">
             ${detectedPokemon
               .map(
                 (p) => `
@@ -591,7 +605,7 @@
                 </div>`
               )
               .join("")}
-          </div>
+          </div></div>
         `;
       }
 
@@ -687,7 +701,88 @@
         return currentSort === "asc" ? timeA - timeB : timeB - timeA;
       });
       root.innerHTML = sorted.map(renderVenda).join("");
+      setupPokeMarquees();
     }
+
+    // Carrossel infinito dos sprites: se não cabem numa linha, duplica os chips
+    // e vai avançando o scroll; ao passar de uma volta, volta o equivalente a uma volta
+    const POKE_SPEED = 35; // px por segundo
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    let pokeMarquees = [];
+    let pokeLastTick = 0;
+
+    const pokeVisibility = new IntersectionObserver((entries) => {
+      for (const e of entries) if (e.target._marquee) e.target._marquee.visible = e.isIntersecting;
+    });
+
+    function pokeCycle(m) {
+      return m.firstClone.offsetLeft - m.track.firstElementChild.offsetLeft;
+    }
+
+    function setupPokeMarquees() {
+      pokeVisibility.disconnect();
+      pokeMarquees = [];
+      for (const el of root.querySelectorAll(".poke-tags")) {
+        const track = el.querySelector(".poke-track");
+        if (!el.dataset.loop) {
+          if (el.scrollWidth <= el.clientWidth) continue;
+          const clones = [...track.children].map((chip) => {
+            const clone = chip.cloneNode(true);
+            clone.setAttribute("aria-hidden", "true");
+            clone.dataset.clone = "1";
+            return clone;
+          });
+          track.append(...clones);
+          el.dataset.loop = "1";
+        }
+        if (!el._marquee) {
+          const m = { el, track, firstClone: track.querySelector("[data-clone]"), pos: 0, visible: false, paused: false, resumeTimer: 0 };
+          const pause = () => { clearTimeout(m.resumeTimer); m.paused = true; };
+          const resume = (delay) => {
+            clearTimeout(m.resumeTimer);
+            m.resumeTimer = setTimeout(() => { m.pos = el.scrollLeft; m.paused = false; }, delay);
+          };
+          el.addEventListener("pointerenter", (e) => { if (e.pointerType === "mouse") pause(); });
+          el.addEventListener("pointerleave", (e) => { if (e.pointerType === "mouse") resume(0); });
+          el.addEventListener("touchstart", pause, { passive: true });
+          el.addEventListener("touchend", () => resume(2500), { passive: true });
+          // Rolagem manual também é infinita
+          el.addEventListener("scroll", () => {
+            if (!m.paused) return;
+            const cycle = pokeCycle(m);
+            if (el.scrollLeft >= cycle) el.scrollLeft -= cycle;
+            else if (el.scrollLeft <= 0) el.scrollLeft += cycle;
+            m.pos = el.scrollLeft;
+          }, { passive: true });
+          el._marquee = m;
+        }
+        pokeMarquees.push(el._marquee);
+        pokeVisibility.observe(el);
+      }
+    }
+
+    function pokeTick(now) {
+      const dt = Math.min((now - (pokeLastTick || now)) / 1000, 0.1);
+      pokeLastTick = now;
+      if (!reduceMotion.matches) {
+        for (const m of pokeMarquees) {
+          if (!m.visible || m.paused) continue;
+          const cycle = pokeCycle(m);
+          m.pos += POKE_SPEED * dt;
+          if (m.pos >= cycle) m.pos -= cycle;
+          m.el.scrollLeft = m.pos;
+        }
+      }
+      requestAnimationFrame(pokeTick);
+    }
+    requestAnimationFrame(pokeTick);
+
+    let pokeResizeTimer = 0;
+    window.addEventListener("resize", () => {
+      clearTimeout(pokeResizeTimer);
+      pokeResizeTimer = setTimeout(setupPokeMarquees, 200);
+    });
+    document.fonts?.ready.then(setupPokeMarquees);
 
     function setSort(order) {
       if (currentSort === order) return;
