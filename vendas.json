@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:51:39.872Z",
+  "updatedAt": "2026-11-03T22:41:40.021Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -130,6 +130,26 @@
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-11-03T20:51:24.000Z",
           "media": "img/5-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jeferson Souza",
+        "phone": "559291020193"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "230,00\n\nNM em perfeito estado.",
+          "time": "2026-11-03T22:37:52.000Z",
+          "media": "img/6-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "230,00\n\nNM em perfeito estado.",
+          "time": "2026-11-03T22:37:52.000Z",
+          "media": "img/6-1.jpg"
         }
       ]
     }
