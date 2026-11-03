@@ -140,11 +140,17 @@
     .zap:hover { transform: scale(1.05); box-shadow: 0 6px 20px rgba(61, 220, 132, .45); }
     .venda-docs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
     .pdf-link {
-      display: inline-flex; align-items: center; gap: 6px; max-width: 100%; padding: 8px 14px; border-radius: 12px;
+      display: inline-flex; align-items: center; gap: 10px; max-width: 100%; padding: 8px 16px 8px 14px; border-radius: 12px;
       text-decoration: none; font-weight: 600; color: inherit; overflow-wrap: anywhere;
       background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 203, 5, 0.3);
     }
     .pdf-link:hover { border-color: rgba(255, 203, 5, 0.7); }
+    .pdf-icon {
+      width: 44px; height: 44px; flex: none; object-fit: contain; margin: -6px 0 -6px -6px;
+      filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4));
+      transition: transform 0.2s ease;
+    }
+    .pdf-link:hover .pdf-icon { transform: scale(1.12) rotate(-6deg); }
 
     /* Sprites numa linha só: rola sozinho e em loop quando não cabem */
     .poke-tags {
@@ -541,6 +547,14 @@
       return `<div class="item"><img src="${esc(item.media)}" alt="Carta à venda" loading="lazy" />${captionHtml}</div>`;
     }
 
+    // Ícone de PDF temático: o mesmo arquivo sempre ganha o mesmo Pokémon
+    const PDF_ICONS = ["charmander", "squirtle", "bulbasaur", "gengar", "pikachu"];
+    function pdfIcon(key) {
+      let h = 0;
+      for (const ch of String(key)) h = (h * 31 + ch.codePointAt(0)) >>> 0;
+      return `icons/pdf-${PDF_ICONS[h % PDF_ICONS.length]}.png`;
+    }
+
     let pokemonDb = [];
 
     // Carrega pokemon.json para busca e cruzamento de palavras
@@ -628,7 +642,7 @@
       const docItems = items.filter((i) => i.type === "document" && i.media);
       const docsHtml = docItems.length
         ? `<div class="venda-docs">${docItems
-            .map((i) => `<a class="pdf-link" href="${esc(i.media)}" target="_blank" rel="noopener">📄 ${esc(i.filename || "Abrir PDF")}</a>`)
+            .map((i) => `<a class="pdf-link" href="${esc(i.media)}" target="_blank" rel="noopener"><img class="pdf-icon" src="${pdfIcon(i.filename || i.media)}" alt="" aria-hidden="true" /><span>${esc(i.filename || "Abrir PDF")}</span></a>`)
             .join("")}</div>`
         : "";
 
