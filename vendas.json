@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:41:40.021Z",
+  "updatedAt": "2026-11-03T22:51:40.126Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -150,6 +150,26 @@
           "text": "230,00\n\nNM em perfeito estado.",
           "time": "2026-11-03T22:37:52.000Z",
           "media": "img/6-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Gustavo Tcg",
+        "phone": "556181016611"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "Pessoal, estou vendendo 01 poster collection, 01 binder collection e 01 triplo todos produtos em inglês.\n\nOs 3 produtos considerando o menor valor da liga dão o valor de R$ 886,00 e estou fazendo por R$800,00 p vender logo.\n\nTenho muitas referências",
+          "time": "2026-11-03T22:48:45.000Z",
+          "media": null
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-03T22:48:48.000Z",
+          "media": "img/7-1.jpg"
         }
       ]
     }
