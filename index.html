@@ -210,7 +210,15 @@
       padding: 14px 18px;
       margin-top: 14px;
       border-left: 4px solid var(--yellow);
+      /* Texto longo fica com altura fixa e rola por dentro */
+      max-height: 320px;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      scrollbar-width: thin;
+      scrollbar-color: rgba(255, 203, 5, 0.5) transparent;
     }
+    .venda-desc::-webkit-scrollbar { width: 6px; }
+    .venda-desc::-webkit-scrollbar-thumb { background: rgba(255, 203, 5, 0.5); border-radius: 999px; }
     .venda-desc p {
       font-size: 0.95rem;
       line-height: 1.5;
