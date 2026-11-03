@@ -1,45 +1,11 @@
 {
-  "updatedAt": "2026-11-03T02:51:48.666Z",
+  "updatedAt": "2026-11-03T13:41:40.384Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Lucas Zidany TCG",
-        "phone": "559291800175"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-11-02T12:19:11.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-11-02T12:19:11.000Z",
-          "media": "img/0-1.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Lucas Zidany TCG",
-        "phone": "559291800175"
-      },
-      "items": [
-        {
-          "type": "text",
-          "text": "Card centering/holodex/digital grading",
-          "time": "2026-11-02T13:28:09.000Z",
-          "media": null
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Edmilson Lima Tcg",
@@ -50,7 +16,7 @@
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-11-02T17:16:02.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -64,7 +30,7 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-11-02T19:43:45.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -78,7 +44,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-02T19:55:15.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -92,7 +58,65 @@
           "type": "image",
           "text": "Sleeve com pulltab pra toploader - R$60 - 100unidades",
           "time": "2026-11-03T02:11:09.000Z",
+          "media": "img/3-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "wolter",
+        "phone": "559281562611"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Ditto XY40 120$",
+          "time": "2026-11-03T03:27:11.000Z",
+          "media": "img/4-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Cubone “Lonely” 🇺🇸 120$",
+          "time": "2026-11-03T03:27:54.000Z",
+          "media": "img/4-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Joao",
+        "phone": "559285041313"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Vault X binder 2x2 sem uso - 150",
+          "time": "2026-11-03T04:36:51.000Z",
           "media": "img/5-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Vault X binder 2x2 sem uso - 150",
+          "time": "2026-11-03T04:36:51.000Z",
+          "media": "img/5-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-03T04:37:05.000Z",
+          "media": "img/5-2.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Acrilico p ETB BR - R$130, acompanha caixa vazia de 30 anos.",
+          "time": "2026-11-03T04:37:05.000Z",
+          "media": null
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-03T04:37:06.000Z",
+          "media": "img/5-4.jpg"
         }
       ]
     }
