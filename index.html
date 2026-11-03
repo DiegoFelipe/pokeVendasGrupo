@@ -144,12 +144,13 @@
       position: relative; display: flex; align-items: center; gap: 16px;
       width: min(100%, 560px); padding: 14px 18px 14px 14px; border-radius: 18px;
       text-decoration: none; color: inherit;
-      background: linear-gradient(135deg, rgba(255, 203, 5, 0.16), rgba(238, 21, 21, 0.12)), var(--card-2);
-      border: 2px solid rgba(255, 203, 5, 0.55);
+      background: linear-gradient(135deg, var(--pdf-bg1, #ffcb05), var(--pdf-bg2, #ee1515));
+      color: var(--pdf-text, #fff);
+      border: 2px solid var(--pdf-border, rgba(255, 255, 255, 0.5));
       animation: pdf-glow 2.4s ease-in-out infinite;
       transition: transform 0.2s ease, border-color 0.2s ease;
     }
-    .pdf-link:hover { transform: translateY(-3px); border-color: var(--yellow); }
+    .pdf-link:hover { transform: translateY(-3px); border-color: var(--pdf-btn-bg, #fff); }
     .pdf-icon {
       width: 76px; height: 76px; flex: none; object-fit: contain;
       filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.45));
@@ -158,18 +159,18 @@
     .pdf-link:hover .pdf-icon { animation: none; transform: scale(1.12) rotate(-6deg); transition: transform 0.2s ease; }
     .pdf-info { display: flex; flex-direction: column; gap: 4px; min-width: 0; flex: 1; }
     .pdf-hint {
-      font-size: 0.72rem; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--yellow);
+      font-size: 0.72rem; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--pdf-hint, #fff); opacity: 0.95;
     }
     .pdf-name { font-size: 1.05rem; font-weight: 700; overflow-wrap: anywhere; }
     .pdf-open {
       flex: none; padding: 9px 16px; border-radius: 999px; font-weight: 700; font-size: 0.9rem;
-      background: var(--yellow); color: var(--ink); box-shadow: 0 4px 14px rgba(255, 203, 5, 0.35);
+      background: var(--pdf-btn-bg, #fff); color: var(--pdf-btn-text, var(--ink)); box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
       transition: transform 0.2s ease;
     }
     .pdf-link:hover .pdf-open { transform: scale(1.06); }
     @keyframes pdf-glow {
-      0%, 100% { box-shadow: 0 0 0 0 rgba(255, 203, 5, 0.25), 0 6px 20px rgba(0, 0, 0, 0.3); }
-      50% { box-shadow: 0 0 0 6px rgba(255, 203, 5, 0), 0 6px 26px rgba(255, 203, 5, 0.25); }
+      0%, 100% { box-shadow: 0 0 0 0 var(--pdf-glow, rgba(255, 203, 5, 0.3)), 0 6px 20px rgba(0, 0, 0, 0.3); }
+      50% { box-shadow: 0 0 0 8px transparent, 0 6px 26px var(--pdf-glow, rgba(255, 203, 5, 0.3)); }
     }
     @keyframes pdf-float { 0%, 100% { transform: translateY(0) rotate(0); } 50% { transform: translateY(-4px) rotate(-3deg); } }
     @media (max-width: 600px) {
@@ -579,13 +580,27 @@
     }
 
     // Ícone de PDF temático sorteado; guarda o sorteio para não trocar ao reordenar
-    const PDF_ICONS = ["charmander", "squirtle", "bulbasaur", "gengar", "pikachu"];
+    const PDF_THEMES = {
+      charmander: { bg1: "#f7893b", bg2: "#c8481a", border: "#ffc58a", text: "#fff", hint: "#fff0c2", btnBg: "#fff3d6", btnText: "#a1380f", glow: "rgba(247, 137, 59, 0.55)" },
+      squirtle:   { bg1: "#58bfe6", bg2: "#2d82b0", border: "#bfe9f7", text: "#fff", hint: "#e8f8ff", btnBg: "#fff", btnText: "#1d6286", glow: "rgba(88, 191, 230, 0.55)" },
+      bulbasaur:  { bg1: "#5cbf9a", bg2: "#2f8566", border: "#b5ecd3", text: "#fff", hint: "#e3fff1", btnBg: "#fff", btnText: "#1f6149", glow: "rgba(92, 191, 154, 0.55)" },
+      gengar:     { bg1: "#7a55b5", bg2: "#40286e", border: "#c4a6f0", text: "#fff", hint: "#f1c9ff", btnBg: "#ff4358", btnText: "#fff", glow: "rgba(150, 100, 230, 0.55)" },
+      pikachu:    { bg1: "#ffd93d", bg2: "#f7a600", border: "#fff0a0", text: "#3a2800", hint: "#6b4300", btnBg: "#3a2800", btnText: "#ffd93d", glow: "rgba(255, 210, 60, 0.6)" },
+    };
+    const PDF_ICONS = Object.keys(PDF_THEMES);
     const pdfIconPicks = new Map();
-    function pdfIcon(key) {
+    function pdfPick(key) {
       if (!pdfIconPicks.has(key)) {
         pdfIconPicks.set(key, PDF_ICONS[Math.floor(Math.random() * PDF_ICONS.length)]);
       }
-      return `icons/pdf-${pdfIconPicks.get(key)}.png`;
+      return pdfIconPicks.get(key);
+    }
+    function pdfIcon(key) {
+      return `icons/pdf-${pdfPick(key)}.png`;
+    }
+    function pdfThemeStyle(key) {
+      const t = PDF_THEMES[pdfPick(key)];
+      return `--pdf-bg1:${t.bg1};--pdf-bg2:${t.bg2};--pdf-border:${t.border};--pdf-text:${t.text};--pdf-hint:${t.hint};--pdf-btn-bg:${t.btnBg};--pdf-btn-text:${t.btnText};--pdf-glow:${t.glow}`;
     }
 
     let pokemonDb = [];
@@ -675,7 +690,7 @@
       const docItems = items.filter((i) => i.type === "document" && i.media);
       const docsHtml = docItems.length
         ? `<div class="venda-docs">${docItems
-            .map((i) => `<a class="pdf-link" href="${esc(i.media)}" target="_blank" rel="noopener"><img class="pdf-icon" src="${pdfIcon(i.media)}" alt="" aria-hidden="true" /><span class="pdf-info"><span class="pdf-hint">📖 Lista em PDF<span class="pdf-hint-extra"> · toque para abrir</span></span><span class="pdf-name">${esc(i.filename || "Abrir PDF")}</span></span><span class="pdf-open"><span class="pdf-open-label">Abrir </span>↗</span></a>`)
+            .map((i) => `<a class="pdf-link" style="${pdfThemeStyle(i.media)}" href="${esc(i.media)}" target="_blank" rel="noopener"><img class="pdf-icon" src="${pdfIcon(i.media)}" alt="" aria-hidden="true" /><span class="pdf-info"><span class="pdf-hint">📖 Lista em PDF<span class="pdf-hint-extra"> · toque para abrir</span></span><span class="pdf-name">${esc(i.filename || "Abrir PDF")}</span></span><span class="pdf-open"><span class="pdf-open-label">Abrir </span>↗</span></a>`)
             .join("")}</div>`
         : "";
 

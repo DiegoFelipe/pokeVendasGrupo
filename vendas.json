@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:16:39.690Z",
+  "updatedAt": "2026-11-03T19:06:39.839Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -124,6 +124,20 @@
           "time": "2026-11-03T13:58:59.000Z",
           "media": "img/5-1.pdf",
           "filename": "Coleção_de_Cartas_Pokémon.pdf"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Sérgio Ortega",
+        "phone": "559281886034"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "R$ 1.840 as duas pra levar hoje!",
+          "time": "2026-11-03T19:05:55.000Z",
+          "media": "img/6-0.jpg"
         }
       ]
     }
