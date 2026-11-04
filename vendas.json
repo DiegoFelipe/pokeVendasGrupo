@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T01:36:39.866Z",
+  "updatedAt": "2026-11-04T01:41:40.312Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -202,6 +202,48 @@
           "text": "R$500 NM",
           "time": "2026-11-04T01:35:27.000Z",
           "media": "img/8-3.jpg"
+        },
+        {
+          "type": "image",
+          "text": "R$100 NM",
+          "time": "2026-11-04T01:37:20.000Z",
+          "media": "img/8-4.jpg"
+        },
+        {
+          "type": "image",
+          "text": "R$100 NM",
+          "time": "2026-11-04T01:37:21.000Z",
+          "media": "img/8-5.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Passaralho NM R$500",
+          "time": "2026-11-04T01:39:04.000Z",
+          "media": "img/8-6.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Lustre NM R$200",
+          "time": "2026-11-04T01:40:22.000Z",
+          "media": "img/8-7.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Lustre NM R$200",
+          "time": "2026-11-04T01:40:23.000Z",
+          "media": "img/8-8.jpg"
+        },
+        {
+          "type": "image",
+          "text": "R$120 NM",
+          "time": "2026-11-04T01:41:26.000Z",
+          "media": "img/8-9.jpg"
+        },
+        {
+          "type": "image",
+          "text": "R$120 NM",
+          "time": "2026-11-04T01:41:28.000Z",
+          "media": "img/8-10.jpg"
         }
       ]
     }
