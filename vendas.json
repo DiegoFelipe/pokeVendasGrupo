@@ -1,55 +1,35 @@
 {
-  "updatedAt": "2026-11-04T19:48:07.677Z",
+  "updatedAt": "2026-11-04T22:26:19.192Z",
   "hours": 24,
   "group": {
-    "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
-    "pic": "img/group.jpg"
+    "name": null,
+    "pic": null
   },
   "vendas": [
     {
       "seller": {
-        "name": "Edmilson Lima Tcg",
-        "phone": "559291207113"
+        "name": "Treinador desconhecido",
+        "phone": null
       },
       "items": [
         {
-          "type": "image",
-          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
-          "time": "2026-11-03T20:51:23.000Z",
-          "media": "img/0-0.jpg"
+          "type": "text",
+          "text": "230,00\n\nNM em perfeito estado.",
+          "time": "2026-11-03T22:37:52.000Z",
+          "media": null
         },
         {
-          "type": "image",
-          "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
-          "time": "2026-11-03T20:51:24.000Z",
-          "media": "img/0-1.jpg"
+          "type": "text",
+          "text": "230,00\n\nNM em perfeito estado.",
+          "time": "2026-11-03T22:37:52.000Z",
+          "media": null
         }
       ]
     },
     {
       "seller": {
-        "name": "Jeferson Souza",
-        "phone": "559291020193"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "230,00\n\nNM em perfeito estado.",
-          "time": "2026-11-03T22:37:52.000Z",
-          "media": "img/1-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "230,00\n\nNM em perfeito estado.",
-          "time": "2026-11-03T22:37:52.000Z",
-          "media": "img/1-1.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Gustavo Tcg",
-        "phone": "556181016611"
+        "name": "Treinador desconhecido",
+        "phone": null
       },
       "items": [
         {
@@ -59,140 +39,140 @@
           "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "",
           "time": "2026-11-03T22:48:48.000Z",
-          "media": "img/2-1.jpg"
+          "media": null
         }
       ]
     },
     {
       "seller": {
-        "name": "Lucas Zidany TCG",
-        "phone": "559291800175"
+        "name": "Treinador desconhecido",
+        "phone": null
       },
       "items": [
         {
-          "type": "image",
+          "type": "text",
           "text": "R$450 NM",
           "time": "2026-11-04T01:28:58.000Z",
-          "media": "img/3-0.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "R$1600 NM",
           "time": "2026-11-04T01:30:33.000Z",
-          "media": "img/3-1.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "R$800 NM",
           "time": "2026-11-04T01:33:42.000Z",
-          "media": "img/3-2.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "R$500 NM",
           "time": "2026-11-04T01:35:27.000Z",
-          "media": "img/3-3.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "R$100 NM",
           "time": "2026-11-04T01:37:20.000Z",
-          "media": "img/3-4.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "R$100 NM",
           "time": "2026-11-04T01:37:21.000Z",
-          "media": "img/3-5.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "Passaralho NM R$500",
           "time": "2026-11-04T01:39:04.000Z",
-          "media": "img/3-6.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "Lustre NM R$200",
           "time": "2026-11-04T01:40:22.000Z",
-          "media": "img/3-7.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "Lustre NM R$200",
           "time": "2026-11-04T01:40:23.000Z",
-          "media": "img/3-8.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "R$120 NM",
           "time": "2026-11-04T01:41:26.000Z",
-          "media": "img/3-9.jpg"
+          "media": null
         },
         {
-          "type": "image",
+          "type": "text",
           "text": "R$120 NM",
           "time": "2026-11-04T01:41:28.000Z",
-          "media": "img/3-10.jpg"
+          "media": null
         }
       ]
     },
     {
       "seller": {
-        "name": "Rod Elias",
-        "phone": "559293710036"
+        "name": "Treinador desconhecido",
+        "phone": null
       },
       "items": [
         {
-          "type": "image",
+          "type": "text",
           "text": "Jolteon V (céus em evolução)\nSP\nValor: R$ 200 (liga 280)",
           "time": "2026-11-04T02:58:20.000Z",
-          "media": "img/4-0.jpg"
+          "media": null
         }
       ]
     },
     {
       "seller": {
-        "name": "Paulo Coelho",
-        "phone": "559288140611"
+        "name": "Treinador desconhecido",
+        "phone": null
       },
       "items": [
         {
-          "type": "image",
+          "type": "text",
           "text": "Passando- 135 MDL",
           "time": "2026-11-04T14:03:37.000Z",
-          "media": "img/5-0.jpg"
+          "media": null
         }
       ]
     },
     {
       "seller": {
-        "name": "🙌🏽🙏🏽",
-        "phone": "559282673987"
+        "name": "Treinador desconhecido",
+        "phone": null
       },
       "items": [
         {
-          "type": "image",
+          "type": "text",
           "text": "Passando...\nR$ 900,00 M 🇱🇷\nVem 2 cartas a outra e um oricorio",
           "time": "2026-11-04T18:39:20.000Z",
-          "media": "img/6-0.jpg"
+          "media": null
         }
       ]
     },
     {
       "seller": {
-        "name": "Victor David",
-        "phone": "559288486986"
+        "name": "Treinador desconhecido",
+        "phone": null
       },
       "items": [
         {
-          "type": "image",
+          "type": "text",
           "text": "Passando um desse NM por 500.\nMenor da liga é 650 \nSe precisar de foto dele, mando assim que chegar em casa. Qualquer dúvida chamar PV",
           "time": "2026-11-04T19:45:56.000Z",
-          "media": "img/7-0.jpg"
+          "media": null
         }
       ]
     }
