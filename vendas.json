@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-04T18:43:07.750Z",
+  "updatedAt": "2026-11-04T19:08:07.873Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Sérgio Ortega",
-        "phone": "559281886034"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "R$ 1.840 as duas pra levar hoje!",
-          "time": "2026-11-03T19:05:55.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Edmilson Lima Tcg",
@@ -30,13 +16,13 @@
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-11-03T20:51:23.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-11-03T20:51:24.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         }
       ]
     },
@@ -50,13 +36,13 @@
           "type": "image",
           "text": "230,00\n\nNM em perfeito estado.",
           "time": "2026-11-03T22:37:52.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "230,00\n\nNM em perfeito estado.",
           "time": "2026-11-03T22:37:52.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -76,7 +62,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-03T22:48:48.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     },
@@ -90,67 +76,67 @@
           "type": "image",
           "text": "R$450 NM",
           "time": "2026-11-04T01:28:58.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "R$1600 NM",
           "time": "2026-11-04T01:30:33.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         },
         {
           "type": "image",
           "text": "R$800 NM",
           "time": "2026-11-04T01:33:42.000Z",
-          "media": "img/4-2.jpg"
+          "media": "img/3-2.jpg"
         },
         {
           "type": "image",
           "text": "R$500 NM",
           "time": "2026-11-04T01:35:27.000Z",
-          "media": "img/4-3.jpg"
+          "media": "img/3-3.jpg"
         },
         {
           "type": "image",
           "text": "R$100 NM",
           "time": "2026-11-04T01:37:20.000Z",
-          "media": "img/4-4.jpg"
+          "media": "img/3-4.jpg"
         },
         {
           "type": "image",
           "text": "R$100 NM",
           "time": "2026-11-04T01:37:21.000Z",
-          "media": "img/4-5.jpg"
+          "media": "img/3-5.jpg"
         },
         {
           "type": "image",
           "text": "Passaralho NM R$500",
           "time": "2026-11-04T01:39:04.000Z",
-          "media": "img/4-6.jpg"
+          "media": "img/3-6.jpg"
         },
         {
           "type": "image",
           "text": "Lustre NM R$200",
           "time": "2026-11-04T01:40:22.000Z",
-          "media": "img/4-7.jpg"
+          "media": "img/3-7.jpg"
         },
         {
           "type": "image",
           "text": "Lustre NM R$200",
           "time": "2026-11-04T01:40:23.000Z",
-          "media": "img/4-8.jpg"
+          "media": "img/3-8.jpg"
         },
         {
           "type": "image",
           "text": "R$120 NM",
           "time": "2026-11-04T01:41:26.000Z",
-          "media": "img/4-9.jpg"
+          "media": "img/3-9.jpg"
         },
         {
           "type": "image",
           "text": "R$120 NM",
           "time": "2026-11-04T01:41:28.000Z",
-          "media": "img/4-10.jpg"
+          "media": "img/3-10.jpg"
         }
       ]
     },
@@ -164,7 +150,7 @@
           "type": "image",
           "text": "Jolteon V (céus em evolução)\nSP\nValor: R$ 200 (liga 280)",
           "time": "2026-11-04T02:58:20.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -178,7 +164,7 @@
           "type": "image",
           "text": "Passando- 135 MDL",
           "time": "2026-11-04T14:03:37.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -192,7 +178,7 @@
           "type": "image",
           "text": "Passando...\nR$ 900,00 M 🇱🇷\nVem 2 cartas a outra e um oricorio",
           "time": "2026-11-04T18:39:20.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     }
