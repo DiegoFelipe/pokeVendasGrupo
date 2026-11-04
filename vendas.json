@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T14:08:07.792Z",
+  "updatedAt": "2026-11-04T18:43:07.750Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -179,6 +179,20 @@
           "text": "Passando- 135 MDL",
           "time": "2026-11-04T14:03:37.000Z",
           "media": "img/6-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "🙌🏽🙏🏽",
+        "phone": "559282673987"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Passando...\nR$ 900,00 M 🇱🇷\nVem 2 cartas a outra e um oricorio",
+          "time": "2026-11-04T18:39:20.000Z",
+          "media": "img/7-0.jpg"
         }
       ]
     }
