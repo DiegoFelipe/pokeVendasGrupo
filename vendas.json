@@ -1,73 +1,11 @@
 {
-  "updatedAt": "2026-11-05T21:31:42.778Z",
+  "updatedAt": "2026-11-05T22:01:42.530Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Jean Silva",
-        "phone": "559288523059"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
-          "time": "2026-11-04T21:58:58.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
-          "time": "2026-11-04T21:58:59.000Z",
-          "media": "img/0-1.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
-          "time": "2026-11-04T21:59:00.000Z",
-          "media": "img/0-2.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
-          "time": "2026-11-04T21:59:00.000Z",
-          "media": "img/0-3.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
-          "time": "2026-11-04T21:59:00.000Z",
-          "media": "img/0-4.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
-          "time": "2026-11-04T21:59:01.000Z",
-          "media": "img/0-5.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
-          "time": "2026-11-04T21:59:01.000Z",
-          "media": "img/0-6.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
-          "time": "2026-11-04T21:59:02.000Z",
-          "media": "img/0-7.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
-          "time": "2026-11-04T21:59:02.000Z",
-          "media": "img/0-8.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Edmilson Lima Tcg",
@@ -78,13 +16,13 @@
           "type": "image",
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-11-05T19:05:19.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-11-05T19:05:20.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         }
       ]
     }
