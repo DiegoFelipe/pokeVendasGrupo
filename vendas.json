@@ -1,85 +1,11 @@
 {
-  "updatedAt": "2026-11-04T23:11:35.062Z",
+  "updatedAt": "2026-11-05T02:01:11.352Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Lucas Zidany TCG",
-        "phone": "559291800175"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "R$450 NM",
-          "time": "2026-11-04T01:28:58.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "R$1600 NM",
-          "time": "2026-11-04T01:30:33.000Z",
-          "media": "img/0-1.jpg"
-        },
-        {
-          "type": "image",
-          "text": "R$800 NM",
-          "time": "2026-11-04T01:33:42.000Z",
-          "media": "img/0-2.jpg"
-        },
-        {
-          "type": "image",
-          "text": "R$500 NM",
-          "time": "2026-11-04T01:35:27.000Z",
-          "media": "img/0-3.jpg"
-        },
-        {
-          "type": "image",
-          "text": "R$100 NM",
-          "time": "2026-11-04T01:37:20.000Z",
-          "media": "img/0-4.jpg"
-        },
-        {
-          "type": "image",
-          "text": "R$100 NM",
-          "time": "2026-11-04T01:37:21.000Z",
-          "media": "img/0-5.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Passaralho NM R$500",
-          "time": "2026-11-04T01:39:04.000Z",
-          "media": "img/0-6.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Lustre NM R$200",
-          "time": "2026-11-04T01:40:22.000Z",
-          "media": "img/0-7.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Lustre NM R$200",
-          "time": "2026-11-04T01:40:23.000Z",
-          "media": "img/0-8.jpg"
-        },
-        {
-          "type": "image",
-          "text": "R$120 NM",
-          "time": "2026-11-04T01:41:26.000Z",
-          "media": "img/0-9.jpg"
-        },
-        {
-          "type": "image",
-          "text": "R$120 NM",
-          "time": "2026-11-04T01:41:28.000Z",
-          "media": "img/0-10.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Rod Elias",
@@ -90,7 +16,7 @@
           "type": "image",
           "text": "Jolteon V (céus em evolução)\nSP\nValor: R$ 200 (liga 280)",
           "time": "2026-11-04T02:58:20.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -104,7 +30,7 @@
           "type": "image",
           "text": "Passando- 135 MDL",
           "time": "2026-11-04T14:03:37.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -118,7 +44,7 @@
           "type": "image",
           "text": "Passando...\nR$ 900,00 M 🇱🇷\nVem 2 cartas a outra e um oricorio",
           "time": "2026-11-04T18:39:20.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -132,7 +58,7 @@
           "type": "image",
           "text": "Passando um desse NM por 500.\nMenor da liga é 650 \nSe precisar de foto dele, mando assim que chegar em casa. Qualquer dúvida chamar PV",
           "time": "2026-11-04T19:45:56.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -146,13 +72,13 @@
           "type": "image",
           "text": "R$ 250 Charmeleon - 169/165 NM",
           "time": "2026-11-04T21:27:33.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "image",
           "text": "R$ 250 Charmeleon - 169/165 NM",
           "time": "2026-11-04T21:27:33.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         }
       ]
     },
@@ -166,55 +92,55 @@
           "type": "image",
           "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
           "time": "2026-11-04T21:58:58.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
           "time": "2026-11-04T21:58:59.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/5-1.jpg"
         },
         {
           "type": "image",
           "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
           "time": "2026-11-04T21:59:00.000Z",
-          "media": "img/6-2.jpg"
+          "media": "img/5-2.jpg"
         },
         {
           "type": "image",
           "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
           "time": "2026-11-04T21:59:00.000Z",
-          "media": "img/6-3.jpg"
+          "media": "img/5-3.jpg"
         },
         {
           "type": "image",
           "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
           "time": "2026-11-04T21:59:00.000Z",
-          "media": "img/6-4.jpg"
+          "media": "img/5-4.jpg"
         },
         {
           "type": "image",
           "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
           "time": "2026-11-04T21:59:01.000Z",
-          "media": "img/6-5.jpg"
+          "media": "img/5-5.jpg"
         },
         {
           "type": "image",
           "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
           "time": "2026-11-04T21:59:01.000Z",
-          "media": "img/6-6.jpg"
+          "media": "img/5-6.jpg"
         },
         {
           "type": "image",
           "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
           "time": "2026-11-04T21:59:02.000Z",
-          "media": "img/6-7.jpg"
+          "media": "img/5-7.jpg"
         },
         {
           "type": "image",
           "text": "Zeraora-V-ASTRO (GG43/GG70) SP R$210\nChansey (187/167) R$150\nMoltres de Galar 🇯🇵(190/172) R$120\nPikachu ex (149/128) R$250,00\nCharizard Radiante (011/078) R$210\nMewtwo-V (072/078) R$320\nLugia-V-ASTRO (211/195)\nR$220\nMewtwo-V-ASTRO (079/078) R$180\nDragonite-V-ASTRO (081/078) R$200\nGengar ex (154/128) R$350",
           "time": "2026-11-04T21:59:02.000Z",
-          "media": "img/6-8.jpg"
+          "media": "img/5-8.jpg"
         }
       ]
     }
