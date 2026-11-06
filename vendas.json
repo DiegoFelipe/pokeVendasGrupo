@@ -1,31 +1,11 @@
 {
-  "updatedAt": "2026-11-06T16:19:01.054Z",
+  "updatedAt": "2026-11-06T18:59:00.852Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Edmilson Lima Tcg",
-        "phone": "559291207113"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
-          "time": "2026-11-05T23:53:22.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
-          "time": "2026-11-05T23:53:22.000Z",
-          "media": "img/0-1.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "R. Junior",
@@ -36,7 +16,7 @@
           "type": "image",
           "text": "999,00 ☠️🚀",
           "time": "2026-11-06T01:11:19.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -50,7 +30,7 @@
           "type": "image",
           "text": "Raw na liga: R$ 2.100\nSlab cmg: R$ 1.800",
           "time": "2026-11-06T12:28:50.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -64,19 +44,19 @@
           "type": "image",
           "text": "",
           "time": "2026-11-06T13:45:26.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Pessoal, passando a maioria delas",
           "time": "2026-11-06T13:45:26.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         },
         {
           "type": "image",
           "text": "Pessoal, passando a maioria delas",
           "time": "2026-11-06T13:45:27.000Z",
-          "media": "img/3-2.jpg"
+          "media": "img/2-2.jpg"
         }
       ]
     },
@@ -90,13 +70,13 @@
           "type": "image",
           "text": "NM - R$ 290",
           "time": "2026-11-06T15:54:08.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "NM - R$ 290",
           "time": "2026-11-06T15:54:09.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
@@ -110,13 +90,13 @@
           "type": "image",
           "text": "SP - R$200",
           "time": "2026-11-06T16:05:19.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "image",
           "text": "SP - R$200",
           "time": "2026-11-06T16:05:20.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         }
       ]
     },
@@ -130,12 +110,32 @@
           "type": "image",
           "text": "R$450",
           "time": "2026-11-06T16:17:37.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "R$450",
           "time": "2026-11-06T16:17:38.000Z",
+          "media": "img/5-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
+          "time": "2026-11-06T18:56:58.000Z",
+          "media": "img/6-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
+          "time": "2026-11-06T18:56:59.000Z",
           "media": "img/6-1.jpg"
         }
       ]
