@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T00:44:16.760Z",
+  "updatedAt": "2026-11-06T01:14:00.492Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -23,6 +23,20 @@
           "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
           "time": "2026-11-05T23:53:22.000Z",
           "media": "img/0-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "R. Junior",
+        "phone": "559285852747"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "999,00 ☠️🚀",
+          "time": "2026-11-06T01:11:19.000Z",
+          "media": "img/1-0.jpg"
         }
       ]
     }
