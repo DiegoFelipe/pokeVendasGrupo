@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:14:00.492Z",
+  "updatedAt": "2026-11-06T12:29:01.020Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -37,6 +37,20 @@
           "text": "999,00 ☠️🚀",
           "time": "2026-11-06T01:11:19.000Z",
           "media": "img/1-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Leonel",
+        "phone": "559588029926"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Raw na liga: R$ 2.100\nSlab cmg: R$ 1.800",
+          "time": "2026-11-06T12:28:50.000Z",
+          "media": "img/2-0.jpg"
         }
       ]
     }
