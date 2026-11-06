@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T18:59:00.852Z",
+  "updatedAt": "2026-11-06T19:04:00.757Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -137,6 +137,20 @@
           "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
           "time": "2026-11-06T18:56:59.000Z",
           "media": "img/6-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "João Eduardo N.",
+        "phone": "559294887781"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Arão (139/103) R$ 230,00\nEevee (114/103) R$ R$140,00\n\nLevando os dois juntos R$320,00",
+          "time": "2026-11-06T18:59:00.000Z",
+          "media": "img/7-0.jpg"
         }
       ]
     }
