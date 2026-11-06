@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:04:00.757Z",
+  "updatedAt": "2026-11-06T22:35:30.329Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -151,6 +151,20 @@
           "text": "Arão (139/103) R$ 230,00\nEevee (114/103) R$ R$140,00\n\nLevando os dois juntos R$320,00",
           "time": "2026-11-06T18:59:00.000Z",
           "media": "img/7-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Paulo Ferraz",
+        "phone": "559281049938"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Pra levar hj abaixo do valor da liga td NM",
+          "time": "2026-11-06T22:07:02.000Z",
+          "media": "img/8-0.jpg"
         }
       ]
     }
