@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-07T19:39:20.792Z",
+  "updatedAt": "2026-11-07T19:49:55.011Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
-    "pic": "https://pps.whatsapp.net/v/t61.24694-24/648301338_869554005982878_8789216202427825183_n.jpg?ccb=11-4&oh=01_Q5Aa6AGtF_R4yvLVH5lpSW-qza8lvOh6_Rwu-g8KsAjnWlSKNg&oe=6AFCA7DA&_nc_sid=5e03e0&_nc_cat=105"
+    "pic": "img/group.jpg"
   },
   "vendas": [
     {
@@ -107,6 +107,20 @@
           "text": "NM - 2K",
           "time": "2026-11-07T13:58:40.000Z",
           "media": "img/6-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Rod Elias TCG",
+        "phone": "559293710036"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Valor da dupla (NM) \nR$ 320  \nSeparado menor da liga = \nR$ 440",
+          "time": "2026-11-07T19:27:41.000Z",
+          "media": "img/7-0.jpg"
         }
       ]
     }
