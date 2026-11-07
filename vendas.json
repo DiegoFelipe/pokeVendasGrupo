@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-06T22:35:30.329Z",
+  "updatedAt": "2026-11-07T08:40:12.090Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "R. Junior",
-        "phone": "559285852747"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "999,00 ☠️🚀",
-          "time": "2026-11-06T01:11:19.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Leonel",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "Raw na liga: R$ 2.100\nSlab cmg: R$ 1.800",
           "time": "2026-11-06T12:28:50.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,19 +30,19 @@
           "type": "image",
           "text": "",
           "time": "2026-11-06T13:45:26.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "Pessoal, passando a maioria delas",
           "time": "2026-11-06T13:45:26.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         },
         {
           "type": "image",
           "text": "Pessoal, passando a maioria delas",
           "time": "2026-11-06T13:45:27.000Z",
-          "media": "img/2-2.jpg"
+          "media": "img/1-2.jpg"
         }
       ]
     },
@@ -70,13 +56,13 @@
           "type": "image",
           "text": "NM - R$ 290",
           "time": "2026-11-06T15:54:08.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "NM - R$ 290",
           "time": "2026-11-06T15:54:09.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     },
@@ -90,13 +76,13 @@
           "type": "image",
           "text": "SP - R$200",
           "time": "2026-11-06T16:05:19.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "SP - R$200",
           "time": "2026-11-06T16:05:20.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
@@ -110,33 +96,13 @@
           "type": "image",
           "text": "R$450",
           "time": "2026-11-06T16:17:37.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "image",
           "text": "R$450",
           "time": "2026-11-06T16:17:38.000Z",
-          "media": "img/5-1.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Edmilson Lima Tcg",
-        "phone": "559291207113"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Valor 150 acrílico magnético com UV ultra resistente para Booster Boxes de tamanho padrão ocidental (tamanho Pokémon).",
-          "time": "2026-11-06T18:56:58.000Z",
-          "media": "img/6-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Caixa MINI BB 30 anos 6 unidades 275x6 = 1650",
-          "time": "2026-11-06T18:56:59.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/4-1.jpg"
         }
       ]
     },
@@ -150,7 +116,7 @@
           "type": "image",
           "text": "Arão (139/103) R$ 230,00\nEevee (114/103) R$ R$140,00\n\nLevando os dois juntos R$320,00",
           "time": "2026-11-06T18:59:00.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -164,7 +130,49 @@
           "type": "image",
           "text": "Pra levar hj abaixo do valor da liga td NM",
           "time": "2026-11-06T22:07:02.000Z",
+          "media": "img/6-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
+          "time": "2026-11-06T22:37:33.000Z",
+          "media": "img/7-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Vinicius Portela",
+        "phone": "559288416625"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Wishiwashi ex (029/103): R$2,00\nEevee (114/103): R$100,00\nEnergia F Nitro (134/103): R$20,00\nKecleon (117/103): R$50,00\nColete Customizado (127/103): R$26,00\nAltaria (116/103): R$50,00\nConfiança da Zínia (140/103): R$280,00\nPincurchin (109/103): R$20,00\nZoroark ex (067/103): R$5,00\nMega Golurk ex (047/103): R$3,00\nGroudon (111/103): R$35,00\nMega Golisopod ex (118/103): R$15,00\nMega Golisopod ex (011/103): R$3,00",
+          "time": "2026-11-06T23:16:41.000Z",
           "media": "img/8-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jeferson Souza",
+        "phone": "559291020193"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "180,00",
+          "time": "2026-11-07T03:19:54.000Z",
+          "media": "img/9-0.jpg"
         }
       ]
     }
