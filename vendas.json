@@ -1,37 +1,11 @@
 {
-  "updatedAt": "2026-11-07T12:42:46.453Z",
+  "updatedAt": "2026-11-07T16:02:17.444Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
-    "pic": "https://pps.whatsapp.net/v/t61.24694-24/648301338_869554005982878_8789216202427825183_n.jpg?ccb=11-4&oh=01_Q5Aa6AEUMMKWldItRwLLksBQJmbqhk-E8r-sSjXmKXMhDD0yRg&oe=6AFC375A&_nc_sid=5e03e0&_nc_cat=105"
+    "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Gustavo Tcg",
-        "phone": "556181016611"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-11-06T13:45:26.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Pessoal, passando a maioria delas",
-          "time": "2026-11-06T13:45:26.000Z",
-          "media": "img/0-1.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Pessoal, passando a maioria delas",
-          "time": "2026-11-06T13:45:27.000Z",
-          "media": "img/0-2.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Alyssa",
@@ -42,13 +16,13 @@
           "type": "image",
           "text": "NM - R$ 290",
           "time": "2026-11-06T15:54:08.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "NM - R$ 290",
           "time": "2026-11-06T15:54:09.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         }
       ]
     },
@@ -62,13 +36,13 @@
           "type": "image",
           "text": "SP - R$200",
           "time": "2026-11-06T16:05:19.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "SP - R$200",
           "time": "2026-11-06T16:05:20.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -82,13 +56,13 @@
           "type": "image",
           "text": "R$450",
           "time": "2026-11-06T16:17:37.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "R$450",
           "time": "2026-11-06T16:17:38.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     },
@@ -102,7 +76,7 @@
           "type": "image",
           "text": "Arão (139/103) R$ 230,00\nEevee (114/103) R$ R$140,00\n\nLevando os dois juntos R$320,00",
           "time": "2026-11-06T18:59:00.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -116,7 +90,7 @@
           "type": "image",
           "text": "Pra levar hj abaixo do valor da liga td NM",
           "time": "2026-11-06T22:07:02.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -130,7 +104,7 @@
           "type": "image",
           "text": "Caixa MINI BB 30 anos 6 unidades 250x6 = 1500",
           "time": "2026-11-06T22:37:33.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -144,7 +118,7 @@
           "type": "image",
           "text": "Wishiwashi ex (029/103): R$2,00\nEevee (114/103): R$100,00\nEnergia F Nitro (134/103): R$20,00\nKecleon (117/103): R$50,00\nColete Customizado (127/103): R$26,00\nAltaria (116/103): R$50,00\nConfiança da Zínia (140/103): R$280,00\nPincurchin (109/103): R$20,00\nZoroark ex (067/103): R$5,00\nMega Golurk ex (047/103): R$3,00\nGroudon (111/103): R$35,00\nMega Golisopod ex (118/103): R$15,00\nMega Golisopod ex (011/103): R$3,00",
           "time": "2026-11-06T23:16:41.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -158,7 +132,55 @@
           "type": "image",
           "text": "180,00",
           "time": "2026-11-07T03:19:54.000Z",
+          "media": "img/7-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Filipe Duarte",
+        "phone": "559291566735"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Entei - 300  NM\nCharizard  - 490  NM",
+          "time": "2026-11-07T13:20:04.000Z",
           "media": "img/8-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Vinicius Portela",
+        "phone": "559288416625"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Wishiwashi ex (029/103): R$2,00\nEnergia F Nitro (134/103): R$20,00\nColete Customizado (127/103): R$26,00\nConfiança da Zínia (140/103): R$280,00\nPincurchin (109/103): R$20,00\nZoroark ex (067/103): R$5,00\nMega Golurk ex (047/103): R$3,00\nMega Golisopod ex (118/103): R$15,00\nMega Golisopod ex (011/103): R$3,00\nEnamorus (110/103): R$20,00\nMeowscarada ex (014/103): R$3,00\nRotom Calor ex (023/103): R$2,00",
+          "time": "2026-11-07T13:40:24.000Z",
+          "media": "img/9-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Wishiwashi ex (029/103): R$2,00\nEnergia F Nitro (134/103): R$20,00\nColete Customizado (127/103): R$26,00\nConfiança da Zínia (140/103): R$280,00\nPincurchin (109/103): R$20,00\nZoroark ex (067/103): R$5,00\nMega Golurk ex (047/103): R$3,00\nMega Golisopod ex (118/103): R$15,00\nMega Golisopod ex (011/103): R$3,00\nEnamorus (110/103): R$20,00\nMeowscarada ex (014/103): R$3,00\nRotom Calor ex (023/103): R$2,00",
+          "time": "2026-11-07T13:40:25.000Z",
+          "media": "img/9-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Filipe Duarte",
+        "phone": "559291566735"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "NM - 2K",
+          "time": "2026-11-07T13:58:40.000Z",
+          "media": "img/10-0.jpg"
         }
       ]
     }
