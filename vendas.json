@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-07T23:49:02.736Z",
+  "updatedAt": "2026-11-08T03:32:18.286Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Jeferson Souza",
-        "phone": "559291020193"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "180,00",
-          "time": "2026-11-07T03:19:54.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Filipe Duarte",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "Entei - 300  NM\nCharizard  - 490  NM",
           "time": "2026-11-07T13:20:04.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,13 +30,13 @@
           "type": "image",
           "text": "Wishiwashi ex (029/103): R$2,00\nEnergia F Nitro (134/103): R$20,00\nColete Customizado (127/103): R$26,00\nConfiança da Zínia (140/103): R$280,00\nPincurchin (109/103): R$20,00\nZoroark ex (067/103): R$5,00\nMega Golurk ex (047/103): R$3,00\nMega Golisopod ex (118/103): R$15,00\nMega Golisopod ex (011/103): R$3,00\nEnamorus (110/103): R$20,00\nMeowscarada ex (014/103): R$3,00\nRotom Calor ex (023/103): R$2,00",
           "time": "2026-11-07T13:40:24.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "Wishiwashi ex (029/103): R$2,00\nEnergia F Nitro (134/103): R$20,00\nColete Customizado (127/103): R$26,00\nConfiança da Zínia (140/103): R$280,00\nPincurchin (109/103): R$20,00\nZoroark ex (067/103): R$5,00\nMega Golurk ex (047/103): R$3,00\nMega Golisopod ex (118/103): R$15,00\nMega Golisopod ex (011/103): R$3,00\nEnamorus (110/103): R$20,00\nMeowscarada ex (014/103): R$3,00\nRotom Calor ex (023/103): R$2,00",
           "time": "2026-11-07T13:40:25.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -64,7 +50,7 @@
           "type": "image",
           "text": "NM - 2K",
           "time": "2026-11-07T13:58:40.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -78,7 +64,7 @@
           "type": "image",
           "text": "Valor da dupla (NM) \nR$ 320  \nSeparado menor da liga = \nR$ 440",
           "time": "2026-11-07T19:27:41.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     }
