@@ -1,67 +1,11 @@
 {
-  "updatedAt": "2026-11-10T18:15:31.336Z",
+  "updatedAt": "2026-11-10T18:50:31.203Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "João Eduardo N.",
-        "phone": "559294887781"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Kabuto MasterBall JP (NM) R$200,00",
-          "time": "2026-11-09T18:49:42.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Blastoise Radiante JP (NM) - R$290,00",
-          "time": "2026-11-09T18:49:44.000Z",
-          "media": "img/0-1.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Meowth Ex JP (NM) - R$150,00",
-          "time": "2026-11-09T18:49:46.000Z",
-          "media": "img/0-2.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Eevee Promo JP (196/-) (M) - R$300,00",
-          "time": "2026-11-09T18:49:47.000Z",
-          "media": "img/0-3.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Blastoise Radiante JP (NM) - R$290,00",
-          "time": "2026-11-09T18:49:49.000Z",
-          "media": "img/0-4.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Kabuto MasterBall JP (NM) R$200,00",
-          "time": "2026-11-09T18:49:49.000Z",
-          "media": "img/0-5.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Meowth Ex JP (NM) - R$150,00",
-          "time": "2026-11-09T18:49:50.000Z",
-          "media": "img/0-6.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Eevee Promo JP (196/-) (M) - R$300,00",
-          "time": "2026-11-09T18:49:51.000Z",
-          "media": "img/0-7.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Filipe Duarte",
@@ -72,25 +16,25 @@
           "type": "image",
           "text": "NM - 490",
           "time": "2026-11-09T19:04:48.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "NM - 650",
           "time": "2026-11-09T19:05:51.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         },
         {
           "type": "image",
           "text": "NM - 1200",
           "time": "2026-11-09T19:07:54.000Z",
-          "media": "img/1-2.jpg"
+          "media": "img/0-2.jpg"
         },
         {
           "type": "image",
           "text": "NM - 2K",
           "time": "2026-11-09T19:08:15.000Z",
-          "media": "img/1-3.jpg"
+          "media": "img/0-3.jpg"
         }
       ]
     },
@@ -104,7 +48,7 @@
           "type": "image",
           "text": "Mewtwo V-Astro - 820\nCharizard V- Astro - 720",
           "time": "2026-11-09T21:29:07.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -118,7 +62,7 @@
           "type": "image",
           "text": "Passando NM\nChinese R$ 399",
           "time": "2026-11-09T23:57:23.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -132,7 +76,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-10T12:07:35.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -146,7 +90,7 @@
           "type": "image",
           "text": "Dama de Sombrinha JP\n\nMyp-550\nLiga-600\n\nCmg-350",
           "time": "2026-11-10T14:01:22.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -160,19 +104,19 @@
           "type": "image",
           "text": "Storm Emerald JAP. Uma full art garantida.\nVem com 30 booster, com 5 cartas em cada.\n800",
           "time": "2026-11-10T14:30:02.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "Booster Box 30 anos JAP \nTem 20 booster com 6 cartas em cada \n1200",
           "time": "2026-11-10T14:31:34.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/5-1.jpg"
         },
         {
           "type": "image",
           "text": "Tenho também esse sleeve que é um pouco mais rígido. Protege bem a carta e encaixa perfeitamente na pasta. Vem com 50 unidades.\n50,00",
           "time": "2026-11-10T14:41:07.000Z",
-          "media": "img/6-2.jpg"
+          "media": "img/5-2.jpg"
         }
       ]
     },
@@ -192,19 +136,19 @@
           "type": "image",
           "text": "",
           "time": "2026-11-10T14:56:47.000Z",
-          "media": "img/7-1.jpg"
+          "media": "img/6-1.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-10T15:00:06.000Z",
-          "media": "img/7-2.jpg"
+          "media": "img/6-2.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-10T15:00:06.000Z",
-          "media": "img/7-3.jpg"
+          "media": "img/6-3.jpg"
         },
         {
           "type": "text",
@@ -224,7 +168,7 @@
           "type": "image",
           "text": "NM - 650",
           "time": "2026-11-10T15:54:25.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         }
       ]
     },
@@ -238,13 +182,13 @@
           "type": "image",
           "text": "NM - 1200",
           "time": "2026-11-10T16:27:52.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         },
         {
           "type": "image",
           "text": "NM - 2K",
           "time": "2026-11-10T16:28:24.000Z",
-          "media": "img/9-1.jpg"
+          "media": "img/8-1.jpg"
         }
       ]
     },
@@ -258,19 +202,19 @@
           "type": "image",
           "text": "R$320",
           "time": "2026-11-10T18:11:48.000Z",
-          "media": "img/10-0.jpg"
+          "media": "img/9-0.jpg"
         },
         {
           "type": "image",
           "text": "R$320",
           "time": "2026-11-10T18:11:49.000Z",
-          "media": "img/10-1.jpg"
+          "media": "img/9-1.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-10T18:11:49.000Z",
-          "media": "img/10-2.jpg"
+          "media": "img/9-2.jpg"
         }
       ]
     }
