@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T15:00:35.968Z",
+  "updatedAt": "2026-11-10T15:05:31.189Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -157,16 +157,28 @@
       },
       "items": [
         {
+          "type": "text",
+          "text": "Mewtwo e Mew-GX (029/094)\tMP\t200\nM Charizard-EX (002/021)\tHP\t285\nNaganadel e Guzzlord-GX (066/095)\tmp\t30\nPheromosa e Buzzwole-GX (001/173)\tNM\t50\nLucario e Melmetal-GX (083/173)\tMP\t80\nBlastoise e Piplup-GX (016/064)\tD\t149\n\t\t\n\t\t\nTOTAL\t\t794",
+          "time": "2026-11-10T14:56:47.000Z",
+          "media": null
+        },
+        {
           "type": "image",
           "text": "",
-          "time": "2026-11-10T15:00:06.000Z",
-          "media": "img/6-0.jpg"
+          "time": "2026-11-10T14:56:47.000Z",
+          "media": "img/6-1.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-10T15:00:06.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/6-2.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-10T15:00:06.000Z",
+          "media": "img/6-3.jpg"
         },
         {
           "type": "text",
