@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:22:51.602Z",
+  "updatedAt": "2026-11-11T18:42:51.696Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -146,6 +146,20 @@
           "text": "Mew ex - Metal Card - 205/165 NM\nR$ 530,00",
           "time": "2026-11-11T18:22:40.000Z",
           "media": "img/7-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "F.M",
+        "phone": "559292259298"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Passando NM\nR$450",
+          "time": "2026-11-11T18:38:03.000Z",
+          "media": "img/8-0.jpg"
         }
       ]
     }
