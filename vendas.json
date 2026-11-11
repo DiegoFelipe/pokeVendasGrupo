@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:42:54.996Z",
+  "updatedAt": "2026-11-11T15:47:51.626Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -144,6 +144,26 @@
           "text": "Tenho uma dessa!\nPassando por R$250.00",
           "time": "2026-11-11T14:58:27.000Z",
           "media": "img/6-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Passando por R$270.00",
+          "time": "2026-11-11T14:59:06.000Z",
+          "media": "img/6-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Gabriel Fernandes",
+        "phone": "559281732192"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-11T15:24:20.000Z",
+          "media": "img/7-0.jpg"
         }
       ]
     }
