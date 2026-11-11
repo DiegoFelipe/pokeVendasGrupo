@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:22:51.785Z",
+  "updatedAt": "2026-11-11T22:37:51.872Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -202,6 +202,20 @@
           "text": "250 nm",
           "time": "2026-11-11T21:18:47.000Z",
           "media": "img/11-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Paulo Coelho",
+        "phone": "559288140611"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Dama de Sombrinha SAR (JP) 🇯🇵\n  \n​Na Liga está R$ 600 e na MYP R$ 550.\nLeva comigo por apenas R$ 300!",
+          "time": "2026-11-11T22:33:24.000Z",
+          "media": "img/12-0.jpg"
         }
       ]
     }
