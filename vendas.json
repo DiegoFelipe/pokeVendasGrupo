@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T19:47:51.947Z",
+  "updatedAt": "2026-11-11T20:17:51.820Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -202,6 +202,20 @@
           "text": "Fichario  - 130",
           "time": "2026-11-11T19:44:22.000Z",
           "media": "img/11-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Leao De Juda Assistencia",
+        "phone": "559292447968"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Charizard NM 🇺🇸 750,00",
+          "time": "2026-11-11T20:14:41.000Z",
+          "media": "img/12-0.jpg"
         }
       ]
     }
