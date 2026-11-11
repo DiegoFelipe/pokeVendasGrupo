@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:32:51.556Z",
+  "updatedAt": "2026-11-11T16:42:51.406Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -144,6 +144,20 @@
           "text": "800,00",
           "time": "2026-11-11T15:52:04.000Z",
           "media": "img/6-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Valor da case lacrada de fábrica 1200 (  2 ETBs  30 anos )",
+          "time": "2026-11-11T16:42:12.000Z",
+          "media": "img/7-0.jpg"
         }
       ]
     }
