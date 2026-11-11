@@ -1,37 +1,11 @@
 {
-  "updatedAt": "2026-11-11T14:57:30.719Z",
+  "updatedAt": "2026-11-11T15:02:30.708Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "diegofelipe.14",
-        "phone": "559281441152"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-11-10T15:00:06.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-11-10T15:00:06.000Z",
-          "media": "img/0-1.jpg"
-        },
-        {
-          "type": "text",
-          "text": "NM - 690",
-          "time": "2026-11-10T15:00:07.000Z",
-          "media": null
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Filipe Duarte",
@@ -42,7 +16,7 @@
           "type": "image",
           "text": "NM - 650",
           "time": "2026-11-10T15:54:25.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -56,13 +30,13 @@
           "type": "image",
           "text": "NM - 1200",
           "time": "2026-11-10T16:27:52.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "NM - 2K",
           "time": "2026-11-10T16:28:24.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -76,19 +50,19 @@
           "type": "image",
           "text": "R$320",
           "time": "2026-11-10T18:11:48.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "R$320",
           "time": "2026-11-10T18:11:49.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-10T18:11:49.000Z",
-          "media": "img/3-2.jpg"
+          "media": "img/2-2.jpg"
         }
       ]
     },
@@ -102,7 +76,7 @@
           "type": "image",
           "text": "Passando Fichário Gem\nR$150",
           "time": "2026-11-10T21:05:46.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -116,19 +90,19 @@
           "type": "image",
           "text": "NM - 1200",
           "time": "2026-11-11T12:00:21.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "image",
           "text": "NM - 650",
           "time": "2026-11-11T12:00:42.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         },
         {
           "type": "image",
           "text": "NM - 490",
           "time": "2026-11-11T12:02:53.000Z",
-          "media": "img/5-2.jpg"
+          "media": "img/4-2.jpg"
         }
       ]
     },
@@ -148,14 +122,14 @@
           "type": "document",
           "text": "Coleção_de_Cartas_Pokémon.pdf",
           "time": "2026-11-11T14:35:22.000Z",
-          "media": "img/6-1.pdf",
+          "media": "img/5-1.pdf",
           "filename": "Coleção_de_Cartas_Pokémon.pdf"
         },
         {
           "type": "image",
           "text": "R$ 1.700 pra levar as duas",
           "time": "2026-11-11T14:35:33.000Z",
-          "media": "img/6-2.jpg"
+          "media": "img/5-2.jpg"
         }
       ]
     }
