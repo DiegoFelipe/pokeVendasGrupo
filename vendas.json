@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:02:30.708Z",
+  "updatedAt": "2026-11-11T15:42:54.996Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -130,6 +130,20 @@
           "text": "R$ 1.700 pra levar as duas",
           "time": "2026-11-11T14:35:33.000Z",
           "media": "img/5-2.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Josivan Ruas",
+        "phone": "559292334225"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Tenho uma dessa!\nPassando por R$250.00",
+          "time": "2026-11-11T14:58:27.000Z",
+          "media": "img/6-0.jpg"
         }
       ]
     }
