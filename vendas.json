@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-11T20:22:51.732Z",
+  "updatedAt": "2026-11-11T21:07:52.015Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "F.M",
-        "phone": "559292259298"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Passando Fichário Gem\nR$150",
-          "time": "2026-11-10T21:05:46.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Filipe Duarte",
@@ -30,19 +16,19 @@
           "type": "image",
           "text": "NM - 1200",
           "time": "2026-11-11T12:00:21.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "NM - 650",
           "time": "2026-11-11T12:00:42.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         },
         {
           "type": "image",
           "text": "NM - 490",
           "time": "2026-11-11T12:02:53.000Z",
-          "media": "img/1-2.jpg"
+          "media": "img/0-2.jpg"
         }
       ]
     },
@@ -62,14 +48,14 @@
           "type": "document",
           "text": "Coleção_de_Cartas_Pokémon.pdf",
           "time": "2026-11-11T14:35:22.000Z",
-          "media": "img/2-1.pdf",
+          "media": "img/1-1.pdf",
           "filename": "Coleção_de_Cartas_Pokémon.pdf"
         },
         {
           "type": "image",
           "text": "R$ 1.700 pra levar as duas",
           "time": "2026-11-11T14:35:33.000Z",
-          "media": "img/2-2.jpg"
+          "media": "img/1-2.jpg"
         }
       ]
     },
@@ -83,13 +69,13 @@
           "type": "image",
           "text": "Tenho uma dessa!\nPassando por R$250.00",
           "time": "2026-11-11T14:58:27.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "Passando por R$270.00",
           "time": "2026-11-11T14:59:06.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         }
       ]
     },
@@ -103,7 +89,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-11T15:24:20.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -117,7 +103,7 @@
           "type": "image",
           "text": "800,00",
           "time": "2026-11-11T15:52:04.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -131,7 +117,7 @@
           "type": "image",
           "text": "Valor da case lacrada de fábrica 1200 (  2 ETBs  30 anos )",
           "time": "2026-11-11T16:42:12.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -145,7 +131,7 @@
           "type": "image",
           "text": "Mew ex - Metal Card - 205/165 NM\nR$ 530,00",
           "time": "2026-11-11T18:22:40.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -159,7 +145,7 @@
           "type": "image",
           "text": "Passando NM\nR$450",
           "time": "2026-11-11T18:38:03.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         }
       ]
     },
@@ -173,7 +159,7 @@
           "type": "image",
           "text": "400",
           "time": "2026-11-11T19:08:56.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         }
       ]
     },
@@ -187,7 +173,7 @@
           "type": "image",
           "text": "300",
           "time": "2026-11-11T19:44:14.000Z",
-          "media": "img/10-0.jpg"
+          "media": "img/9-0.jpg"
         }
       ]
     },
@@ -201,7 +187,7 @@
           "type": "image",
           "text": "Fichario  - 130",
           "time": "2026-11-11T19:44:22.000Z",
-          "media": "img/11-0.jpg"
+          "media": "img/10-0.jpg"
         }
       ]
     }
