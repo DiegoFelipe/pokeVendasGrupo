@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T19:10:53.975Z",
+  "updatedAt": "2026-11-12T19:45:53.785Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -14,37 +14,9 @@
       "items": [
         {
           "type": "image",
-          "text": "300",
-          "time": "2026-11-11T19:44:14.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Filipe Duarte",
-        "phone": "559291566735"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Fichario  - 130",
-          "time": "2026-11-11T19:44:22.000Z",
-          "media": "img/1-0.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "19",
-        "phone": "559282064149"
-      },
-      "items": [
-        {
-          "type": "image",
           "text": "250 nm",
           "time": "2026-11-11T21:18:47.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -58,7 +30,7 @@
           "type": "image",
           "text": "Dama de Sombrinha SAR (JP) 🇯🇵\n  \n​Na Liga está R$ 600 e na MYP R$ 550.\nLeva comigo por apenas R$ 300!",
           "time": "2026-11-11T22:33:24.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -72,7 +44,7 @@
           "type": "image",
           "text": "NM - 1200",
           "time": "2026-11-12T01:01:06.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -86,7 +58,7 @@
           "type": "image",
           "text": "Dama de Sombrinha SAR (JP) 🇯🇵\n  \n​Na Liga está R$ 600 e na MYP R$ 550.\nLeva comigo por apenas R$ 300!",
           "time": "2026-11-12T16:20:39.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -100,7 +72,7 @@
           "type": "image",
           "text": "R$ 1.700 pra levar as duas",
           "time": "2026-11-12T16:39:56.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -114,7 +86,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-12T16:56:03.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "text",
@@ -134,7 +106,7 @@
           "type": "image",
           "text": "Vendendo",
           "time": "2026-11-12T18:36:12.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     }
