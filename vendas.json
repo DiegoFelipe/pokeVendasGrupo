@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:45:50.340Z",
+  "updatedAt": "2026-11-12T17:00:50.299Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -143,6 +143,26 @@
           "text": "R$ 1.700 pra levar as duas",
           "time": "2026-11-12T16:39:56.000Z",
           "media": "img/9-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Leao De Juda Assistencia",
+        "phone": "559292447968"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-12T16:56:03.000Z",
+          "media": "img/10-0.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Charizard VStar (SWSH262)🇺🇸\nMenor da liga: R$800,00\n\nComigo: R$749,00",
+          "time": "2026-11-12T16:56:04.000Z",
+          "media": null
         }
       ]
     }
