@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-12T18:25:50.381Z",
+  "updatedAt": "2026-11-12T18:40:50.297Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "F.M",
-        "phone": "559292259298"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Passando NM\nR$450",
-          "time": "2026-11-11T18:38:03.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Gabriel Fernandes",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "400",
           "time": "2026-11-11T19:08:56.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,7 +30,7 @@
           "type": "image",
           "text": "300",
           "time": "2026-11-11T19:44:14.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -58,7 +44,7 @@
           "type": "image",
           "text": "Fichario  - 130",
           "time": "2026-11-11T19:44:22.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -72,7 +58,7 @@
           "type": "image",
           "text": "250 nm",
           "time": "2026-11-11T21:18:47.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -86,7 +72,7 @@
           "type": "image",
           "text": "Dama de Sombrinha SAR (JP) 🇯🇵\n  \n​Na Liga está R$ 600 e na MYP R$ 550.\nLeva comigo por apenas R$ 300!",
           "time": "2026-11-11T22:33:24.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -100,7 +86,7 @@
           "type": "image",
           "text": "NM - 1200",
           "time": "2026-11-12T01:01:06.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -114,7 +100,7 @@
           "type": "image",
           "text": "Dama de Sombrinha SAR (JP) 🇯🇵\n  \n​Na Liga está R$ 600 e na MYP R$ 550.\nLeva comigo por apenas R$ 300!",
           "time": "2026-11-12T16:20:39.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -128,7 +114,7 @@
           "type": "image",
           "text": "R$ 1.700 pra levar as duas",
           "time": "2026-11-12T16:39:56.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         }
       ]
     },
@@ -142,13 +128,27 @@
           "type": "image",
           "text": "",
           "time": "2026-11-12T16:56:03.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         },
         {
           "type": "text",
           "text": "Charizard VStar (SWSH262)🇺🇸\nMenor da liga: R$800,00\n\nComigo: R$749,00",
           "time": "2026-11-12T16:56:04.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "🍷Oliveira🍷",
+        "phone": "559295042895"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Vendendo",
+          "time": "2026-11-12T18:36:12.000Z",
+          "media": "img/9-0.jpg"
         }
       ]
     }
