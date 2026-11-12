@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-12T15:25:50.504Z",
+  "updatedAt": "2026-11-12T15:55:50.234Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Lucas Tcg",
-        "phone": "559281561776"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "800,00",
-          "time": "2026-11-11T15:52:04.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Edmilson Lima Tcg",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "Valor da case lacrada de fábrica 1200 (  2 ETBs  30 anos )",
           "time": "2026-11-11T16:42:12.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,7 +30,7 @@
           "type": "image",
           "text": "Mew ex - Metal Card - 205/165 NM\nR$ 530,00",
           "time": "2026-11-11T18:22:40.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -58,7 +44,7 @@
           "type": "image",
           "text": "Passando NM\nR$450",
           "time": "2026-11-11T18:38:03.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -72,7 +58,7 @@
           "type": "image",
           "text": "400",
           "time": "2026-11-11T19:08:56.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -86,7 +72,7 @@
           "type": "image",
           "text": "300",
           "time": "2026-11-11T19:44:14.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -100,7 +86,7 @@
           "type": "image",
           "text": "Fichario  - 130",
           "time": "2026-11-11T19:44:22.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -114,7 +100,7 @@
           "type": "image",
           "text": "250 nm",
           "time": "2026-11-11T21:18:47.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -128,7 +114,7 @@
           "type": "image",
           "text": "Dama de Sombrinha SAR (JP) 🇯🇵\n  \n​Na Liga está R$ 600 e na MYP R$ 550.\nLeva comigo por apenas R$ 300!",
           "time": "2026-11-11T22:33:24.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         }
       ]
     },
@@ -142,7 +128,7 @@
           "type": "image",
           "text": "NM - 1200",
           "time": "2026-11-12T01:01:06.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         }
       ]
     }
