@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T16:58:17.953Z",
+  "updatedAt": "2026-11-13T17:38:17.928Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -44,6 +44,68 @@
           "type": "text",
           "text": "Me vende essa de prismáticas aí patrão",
           "time": "2026-11-13T15:49:51.000Z",
+          "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jean Silva",
+        "phone": "559288523059"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-13T17:37:51.000Z",
+          "media": "img/3-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-13T17:37:52.000Z",
+          "media": "img/3-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-13T17:37:52.000Z",
+          "media": "img/3-2.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-13T17:37:52.000Z",
+          "media": "img/3-3.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-13T17:37:53.000Z",
+          "media": "img/3-4.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-13T17:37:53.000Z",
+          "media": "img/3-5.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-13T17:37:54.000Z",
+          "media": "img/3-6.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-13T17:37:54.000Z",
+          "media": "img/3-7.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Mr. Mime (179/165) R$150\nDitto (197/172) R$130\nMoltres de Galar (190/172) R$100\nChansey (187/167) R$150\nGengar ex (154/128) R$300\nZeraora-V-ASTRO \"SP\"(GG43/GG70) R$200\nPikachu (160/159) R$350\nMew (GG10/GG70) R$600\nMega Golurk ex (137/103) R$120",
+          "time": "2026-11-13T17:37:59.000Z",
           "media": null
         }
       ]
