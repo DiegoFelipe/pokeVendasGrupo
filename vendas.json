@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T17:38:17.928Z",
+  "updatedAt": "2026-11-13T18:18:17.879Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -107,6 +107,20 @@
           "text": "Mr. Mime (179/165) R$150\nDitto (197/172) R$130\nMoltres de Galar (190/172) R$100\nChansey (187/167) R$150\nGengar ex (154/128) R$300\nZeraora-V-ASTRO \"SP\"(GG43/GG70) R$200\nPikachu (160/159) R$350\nMew (GG10/GG70) R$600\nMega Golurk ex (137/103) R$120",
           "time": "2026-11-13T17:37:59.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Edmilson Lima Tcg",
+        "phone": "559291207113"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Valor da case lacrada de fábrica 1200 (  2 ETBs  30 anos )",
+          "time": "2026-11-13T18:14:40.000Z",
+          "media": "img/4-0.jpg"
         }
       ]
     }
