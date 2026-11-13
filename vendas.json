@@ -1,31 +1,11 @@
 {
-  "updatedAt": "2026-11-13T16:43:17.979Z",
+  "updatedAt": "2026-11-13T16:58:17.953Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Leao De Juda Assistencia",
-        "phone": "559292447968"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-11-12T16:56:03.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "text",
-          "text": "Charizard VStar (SWSH262)🇺🇸\nMenor da liga: R$800,00\n\nComigo: R$749,00",
-          "time": "2026-11-12T16:56:04.000Z",
-          "media": null
-        }
-      ]
-    },
     {
       "seller": {
         "name": "🍷Oliveira🍷",
@@ -36,7 +16,7 @@
           "type": "image",
           "text": "Vendendo",
           "time": "2026-11-12T18:36:12.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -50,7 +30,7 @@
           "type": "image",
           "text": "Quem tiver interesse, estou passando R$1.400 (Posso pegar uma ETB de 30 anos mais uma volta)",
           "time": "2026-11-13T15:43:07.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
