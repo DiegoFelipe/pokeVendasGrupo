@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T15:08:21.923Z",
+  "updatedAt": "2026-11-13T15:43:17.960Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -65,6 +65,20 @@
           "text": "Vendendo",
           "time": "2026-11-12T18:36:12.000Z",
           "media": "img/3-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Josivan Ruas",
+        "phone": "559292334225"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Quem tiver interesse, estou passando R$1.500 (Posso pegar uma ETB de 30 anos mais uma volta)",
+          "time": "2026-11-13T15:43:07.000Z",
+          "media": "img/4-0.jpg"
         }
       ]
     }
