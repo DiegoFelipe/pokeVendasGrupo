@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T18:38:18.128Z",
+  "updatedAt": "2026-11-13T20:18:18.262Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -107,6 +107,20 @@
           "text": "Valor da case lacrada de fábrica 1200 (  2 ETBs  30 anos )",
           "time": "2026-11-13T18:14:40.000Z",
           "media": "img/3-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Filipe Duarte",
+        "phone": "559291566735"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "Isso deve ser caro.",
+          "time": "2026-11-13T20:14:11.000Z",
+          "media": null
         }
       ]
     }
