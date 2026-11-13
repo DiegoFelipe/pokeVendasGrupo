@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-13T18:18:17.879Z",
+  "updatedAt": "2026-11-13T18:38:18.128Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "🍷Oliveira🍷",
-        "phone": "559295042895"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Vendendo",
-          "time": "2026-11-12T18:36:12.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Josivan Ruas",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "Quem tiver interesse, estou passando R$1.400 (Posso pegar uma ETB de 30 anos mais uma volta)",
           "time": "2026-11-13T15:43:07.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -58,49 +44,49 @@
           "type": "image",
           "text": "",
           "time": "2026-11-13T17:37:51.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-13T17:37:52.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-13T17:37:52.000Z",
-          "media": "img/3-2.jpg"
+          "media": "img/2-2.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-13T17:37:52.000Z",
-          "media": "img/3-3.jpg"
+          "media": "img/2-3.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-13T17:37:53.000Z",
-          "media": "img/3-4.jpg"
+          "media": "img/2-4.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-13T17:37:53.000Z",
-          "media": "img/3-5.jpg"
+          "media": "img/2-5.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-13T17:37:54.000Z",
-          "media": "img/3-6.jpg"
+          "media": "img/2-6.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-13T17:37:54.000Z",
-          "media": "img/3-7.jpg"
+          "media": "img/2-7.jpg"
         },
         {
           "type": "text",
@@ -120,7 +106,7 @@
           "type": "image",
           "text": "Valor da case lacrada de fábrica 1200 (  2 ETBs  30 anos )",
           "time": "2026-11-13T18:14:40.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     }
