@@ -1,9 +1,48 @@
 {
-  "updatedAt": "2026-11-16T18:50:06.929Z",
+  "updatedAt": "2026-11-16T20:52:30.272Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
-  "vendas": []
+  "vendas": [
+    {
+      "seller": {
+        "name": "Uniplayss",
+        "phone": "559294944562"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-16T20:49:01.000Z",
+          "media": "img/0-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-16T20:49:02.000Z",
+          "media": "img/0-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-16T20:49:02.000Z",
+          "media": "img/0-2.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-16T20:49:02.000Z",
+          "media": "img/0-3.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Duplo 100 a unidade levando a case sair 90",
+          "time": "2026-11-16T20:49:15.000Z",
+          "media": null
+        }
+      ]
+    }
+  ]
 }
