@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:02:31.263Z",
+  "updatedAt": "2026-11-17T21:37:31.033Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -317,6 +317,26 @@
           "text": "Case fechada de Etb Reinado Delta 750,00",
           "time": "2026-11-17T20:58:34.000Z",
           "media": "img/12-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Vinicius Portela",
+        "phone": "559288416625"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Base completa de douradas BR\nNa liga: + R$8.000,00\nComigo: R$6.500,00 -20% abaixo",
+          "time": "2026-11-17T21:32:56.000Z",
+          "media": "img/13-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Base completa de douradas BR\nNa liga: + R$8.000,00\nComigo: R$6.500,00 -20% abaixo",
+          "time": "2026-11-17T21:32:57.000Z",
+          "media": "img/13-1.jpg"
         }
       ]
     }
