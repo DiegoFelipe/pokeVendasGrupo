@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T01:27:30.548Z",
+  "updatedAt": "2026-11-17T02:07:30.936Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -181,6 +181,32 @@
           "text": "R$ 890,00 - acabou de sair no booster",
           "time": "2026-11-17T01:25:57.000Z",
           "media": "img/4-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Eduardo Azevedo",
+        "phone": "559294629746"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-17T02:02:50.000Z",
+          "media": "img/5-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-17T02:02:50.000Z",
+          "media": "img/5-1.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Passando Ficharios 4x3 Novos - 400 pix ou troca (cada) (Negocio)",
+          "time": "2026-11-17T02:02:50.000Z",
+          "media": "img/5-2.jpg"
         }
       ]
     }
