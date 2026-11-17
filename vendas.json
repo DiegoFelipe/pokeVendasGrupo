@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T11:27:30.800Z",
+  "updatedAt": "2026-11-17T12:17:30.536Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -273,6 +273,26 @@
           "text": "",
           "time": "2026-11-17T11:26:11.000Z",
           "media": "img/8-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "🍷Oliveira🍷",
+        "phone": "559295042895"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Pronta entrega 220",
+          "time": "2026-11-17T12:15:59.000Z",
+          "media": "img/9-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Tenho unitário e na case. Dependendo da quantidade podemos negociar.\n\nUnitário 100",
+          "time": "2026-11-17T12:16:56.000Z",
+          "media": "img/9-1.jpg"
         }
       ]
     }
