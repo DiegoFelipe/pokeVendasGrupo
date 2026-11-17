@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T01:12:30.764Z",
+  "updatedAt": "2026-11-17T01:27:30.548Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -167,6 +167,20 @@
           "text": "R$4000",
           "time": "2026-11-17T01:10:42.000Z",
           "media": "img/3-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Kauan Dantas",
+        "phone": "559291258925"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "R$ 890,00 - acabou de sair no booster",
+          "time": "2026-11-17T01:25:57.000Z",
+          "media": "img/4-0.jpg"
         }
       ]
     }
