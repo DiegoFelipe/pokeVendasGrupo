@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:37:31.033Z",
+  "updatedAt": "2026-11-17T22:12:30.893Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -337,6 +337,20 @@
           "text": "Base completa de douradas BR\nNa liga: + R$8.000,00\nComigo: R$6.500,00 -20% abaixo",
           "time": "2026-11-17T21:32:57.000Z",
           "media": "img/13-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Thiago Barroso",
+        "phone": "559291175241"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "NM Chinese\nR$ 350",
+          "time": "2026-11-17T22:12:08.000Z",
+          "media": "img/14-0.jpg"
         }
       ]
     }
