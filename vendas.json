@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:22:32.400Z",
+  "updatedAt": "2026-11-17T23:57:32.194Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -371,6 +371,26 @@
           "text": "1200, pro pessoal do grupo aki 1100",
           "time": "2026-11-17T23:19:11.000Z",
           "media": "img/15-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Alvino Neto TCG",
+        "phone": "559281522993"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "Uma mini bb",
+          "time": "2026-11-17T23:55:41.000Z",
+          "media": null
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-17T23:55:52.000Z",
+          "media": "img/16-1.jpg"
         }
       ]
     }
