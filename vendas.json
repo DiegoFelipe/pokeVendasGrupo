@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:07:38.165Z",
+  "updatedAt": "2026-11-17T23:22:32.400Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -351,6 +351,26 @@
           "text": "NM Chinese\nR$ 350",
           "time": "2026-11-17T22:12:08.000Z",
           "media": "img/14-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "diegofelipe.14",
+        "phone": "559281441152"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "1200, pro pessoal do grupo aki 1100",
+          "time": "2026-11-17T23:18:39.000Z",
+          "media": "img/15-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "1200, pro pessoal do grupo aki 1100",
+          "time": "2026-11-17T23:19:11.000Z",
+          "media": "img/15-1.jpg"
         }
       ]
     }
