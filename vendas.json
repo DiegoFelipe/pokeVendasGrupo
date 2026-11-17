@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:52:30.782Z",
+  "updatedAt": "2026-11-17T21:02:31.263Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -303,6 +303,20 @@
           "text": "ETB 380",
           "time": "2026-11-17T19:54:08.000Z",
           "media": "img/11-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Alvino Neto TCG",
+        "phone": "559281522993"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Case fechada de Etb Reinado Delta 750,00",
+          "time": "2026-11-17T20:58:34.000Z",
+          "media": "img/12-0.jpg"
         }
       ]
     }
