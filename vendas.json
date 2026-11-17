@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T12:17:30.536Z",
+  "updatedAt": "2026-11-17T13:57:31.093Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -293,6 +293,26 @@
           "text": "Tenho unitário e na case. Dependendo da quantidade podemos negociar.\n\nUnitário 100",
           "time": "2026-11-17T12:16:56.000Z",
           "media": "img/9-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Eduardo Azevedo",
+        "phone": "559294629746"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Ficharios com ziper ultrapro 3x4 - 400 cada , no pix ou trocando por cartas (Negociável)",
+          "time": "2026-11-17T13:52:49.000Z",
+          "media": "img/10-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Passando Ficharios 4x3 Novos - 400 pix ou troca (cada) (Negociável)",
+          "time": "2026-11-17T13:52:50.000Z",
+          "media": "img/10-1.jpg"
         }
       ]
     }
