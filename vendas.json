@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T02:42:30.981Z",
+  "updatedAt": "2026-11-17T03:27:30.820Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -239,6 +239,20 @@
           "text": "Valor da case lacrada de fábrica 1200 (  2 ETBs  30 anos )",
           "time": "2026-11-17T02:41:33.000Z",
           "media": "img/6-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Isabelle Benlolo TCG",
+        "phone": "559292997488"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "- Pikachu 83/132 SP - R$ 165;\n- Pikachu 81/132 MP - R$ 60;\n- Pikachu 1/53 promo SP - R$  590",
+          "time": "2026-11-17T03:24:28.000Z",
+          "media": "img/7-0.jpg"
         }
       ]
     }
