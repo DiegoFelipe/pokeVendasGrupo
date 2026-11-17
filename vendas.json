@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T00:42:30.573Z",
+  "updatedAt": "2026-11-17T01:12:30.764Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -147,6 +147,26 @@
           "text": "- Eevee (210/184) NM - R$ 140\n- Umbreon-VMAX (048/069) NM - R$ 190\n- Umbreon (60/108) SP -  152\n- Dark Jolteon (38/82) MP - 130\n- Umbreon (24/100) pontinhos pretos na borda - 350 \n- Eevee do Cap. Surge (51/132) MP -  109",
           "time": "2026-11-17T00:39:37.000Z",
           "media": "img/2-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "R$1000",
+          "time": "2026-11-17T01:09:42.000Z",
+          "media": "img/3-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "R$4000",
+          "time": "2026-11-17T01:10:42.000Z",
+          "media": "img/3-1.jpg"
         }
       ]
     }
