@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T17:52:30.820Z",
+  "updatedAt": "2026-11-17T19:57:31.041Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -351,6 +351,20 @@
           "text": "Boa tarde! Passo todas menor da liga e aceito outras cartas acima ou abaixo do valor… e pago a diferença tbm! Chama no PV.",
           "time": "2026-11-17T17:51:43.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "🍷Oliveira🍷",
+        "phone": "559295042895"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "ETB 380",
+          "time": "2026-11-17T19:54:08.000Z",
+          "media": "img/12-0.jpg"
         }
       ]
     }
