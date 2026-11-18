@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-18T17:54:55.585Z",
+  "updatedAt": "2026-11-18T19:54:54.962Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "🍷Oliveira🍷",
-        "phone": "559295042895"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "ETB 380",
-          "time": "2026-11-17T19:54:08.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Alvino Neto TCG",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "Case fechada de Etb Reinado Delta 750,00",
           "time": "2026-11-17T20:58:34.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -44,13 +30,13 @@
           "type": "image",
           "text": "Base completa de douradas BR\nNa liga: + R$8.000,00\nComigo: R$6.500,00 -20% abaixo",
           "time": "2026-11-17T21:32:56.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "Base completa de douradas BR\nNa liga: + R$8.000,00\nComigo: R$6.500,00 -20% abaixo",
           "time": "2026-11-17T21:32:57.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -64,7 +50,7 @@
           "type": "image",
           "text": "NM Chinese\nR$ 350",
           "time": "2026-11-17T22:12:08.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -78,13 +64,13 @@
           "type": "image",
           "text": "1200, pro pessoal do grupo aki 1100",
           "time": "2026-11-17T23:18:39.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "1200, pro pessoal do grupo aki 1100",
           "time": "2026-11-17T23:19:11.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
@@ -104,7 +90,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-17T23:55:52.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         }
       ]
     },
@@ -118,97 +104,97 @@
           "type": "image",
           "text": "-10% da liga",
           "time": "2026-11-18T01:05:02.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "-10% da liga",
           "time": "2026-11-18T01:05:06.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/5-1.jpg"
         },
         {
           "type": "image",
           "text": "-10% da liga",
           "time": "2026-11-18T01:06:34.000Z",
-          "media": "img/6-2.jpg"
+          "media": "img/5-2.jpg"
         },
         {
           "type": "image",
           "text": "-10% da liga",
           "time": "2026-11-18T01:06:38.000Z",
-          "media": "img/6-3.jpg"
+          "media": "img/5-3.jpg"
         },
         {
           "type": "image",
           "text": "-10% da liga",
           "time": "2026-11-18T01:10:16.000Z",
-          "media": "img/6-4.jpg"
+          "media": "img/5-4.jpg"
         },
         {
           "type": "image",
           "text": "-10% da liga",
           "time": "2026-11-18T01:10:17.000Z",
-          "media": "img/6-5.jpg"
+          "media": "img/5-5.jpg"
         },
         {
           "type": "image",
           "text": "100,00",
           "time": "2026-11-18T01:11:50.000Z",
-          "media": "img/6-6.jpg"
+          "media": "img/5-6.jpg"
         },
         {
           "type": "image",
           "text": "100,00",
           "time": "2026-11-18T01:11:51.000Z",
-          "media": "img/6-7.jpg"
+          "media": "img/5-7.jpg"
         },
         {
           "type": "image",
           "text": "550,00",
           "time": "2026-11-18T01:14:56.000Z",
-          "media": "img/6-8.jpg"
+          "media": "img/5-8.jpg"
         },
         {
           "type": "image",
           "text": "550,00",
           "time": "2026-11-18T01:14:57.000Z",
-          "media": "img/6-9.jpg"
+          "media": "img/5-9.jpg"
         },
         {
           "type": "image",
           "text": "200,00,  a melhor de todas dessa leva ❣️❣️❣️",
           "time": "2026-11-18T01:17:06.000Z",
-          "media": "img/6-10.jpg"
+          "media": "img/5-10.jpg"
         },
         {
           "type": "image",
           "text": "200,00,  a melhor de todas dessa leva ❣️❣️❣️",
           "time": "2026-11-18T01:17:07.000Z",
-          "media": "img/6-11.jpg"
+          "media": "img/5-11.jpg"
         },
         {
           "type": "image",
           "text": "100,00",
           "time": "2026-11-18T01:20:57.000Z",
-          "media": "img/6-12.jpg"
+          "media": "img/5-12.jpg"
         },
         {
           "type": "image",
           "text": "100,00",
           "time": "2026-11-18T01:21:01.000Z",
-          "media": "img/6-13.jpg"
+          "media": "img/5-13.jpg"
         },
         {
           "type": "image",
           "text": "100,00 NM",
           "time": "2026-11-18T01:22:26.000Z",
-          "media": "img/6-14.jpg"
+          "media": "img/5-14.jpg"
         },
         {
           "type": "image",
           "text": "100,00 NM",
           "time": "2026-11-18T01:22:36.000Z",
-          "media": "img/6-15.jpg"
+          "media": "img/5-15.jpg"
         }
       ]
     },
@@ -222,7 +208,7 @@
           "type": "image",
           "text": "Mr. Mime (179/165) R$150\nMoltres de Galar (190/172) R$100\nChansey (187/167) R$150\nZeraora-V-ASTRO \"SP\"(GG43/GG70) R$200\nPikachu (160/159) R$350\nMew (GG10/GG70) R$600",
           "time": "2026-11-18T01:35:30.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -236,7 +222,7 @@
           "type": "image",
           "text": "1500 aceito propostas em dinheiro",
           "time": "2026-11-18T03:04:48.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         }
       ]
     },
@@ -250,37 +236,37 @@
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:43.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:43.000Z",
-          "media": "img/9-1.jpg"
+          "media": "img/8-1.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:43.000Z",
-          "media": "img/9-2.jpg"
+          "media": "img/8-2.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:44.000Z",
-          "media": "img/9-3.jpg"
+          "media": "img/8-3.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:44.000Z",
-          "media": "img/9-4.jpg"
+          "media": "img/8-4.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:44.000Z",
-          "media": "img/9-5.jpg"
+          "media": "img/8-5.jpg"
         }
       ]
     },
@@ -294,7 +280,7 @@
           "type": "image",
           "text": "Única unidade disponível 🇧🇷 R$700",
           "time": "2026-11-18T12:16:16.000Z",
-          "media": "img/10-0.jpg"
+          "media": "img/9-0.jpg"
         }
       ]
     },
@@ -308,7 +294,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-18T13:38:20.000Z",
-          "media": "img/11-0.jpg"
+          "media": "img/10-0.jpg"
         },
         {
           "type": "text",
@@ -328,7 +314,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-18T15:01:24.000Z",
-          "media": "img/12-0.jpg"
+          "media": "img/11-0.jpg"
         },
         {
           "type": "text",
@@ -348,7 +334,7 @@
           "type": "image",
           "text": "Estoques quase zerados pessoal, bora bora ETB 380 no Pix. Temos case fechada dela",
           "time": "2026-11-18T15:09:38.000Z",
-          "media": "img/13-0.jpg"
+          "media": "img/12-0.jpg"
         }
       ]
     },
@@ -362,13 +348,13 @@
           "type": "image",
           "text": "",
           "time": "2026-11-18T15:11:42.000Z",
-          "media": "img/14-0.jpg"
+          "media": "img/13-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-18T15:11:43.000Z",
-          "media": "img/14-1.jpg"
+          "media": "img/13-1.jpg"
         },
         {
           "type": "text",
@@ -388,7 +374,7 @@
           "type": "image",
           "text": "/ 10 essa ai , mas o auto não é on card , vela kkk",
           "time": "2026-11-18T15:16:00.000Z",
-          "media": "img/15-0.jpg"
+          "media": "img/14-0.jpg"
         },
         {
           "type": "text",
