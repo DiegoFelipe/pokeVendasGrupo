@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:12:32.412Z",
+  "updatedAt": "2026-11-18T01:17:32.440Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -357,6 +357,30 @@
           "text": "100,00",
           "time": "2026-11-18T01:11:51.000Z",
           "media": "img/14-9.jpg"
+        },
+        {
+          "type": "image",
+          "text": "550,00",
+          "time": "2026-11-18T01:14:56.000Z",
+          "media": "img/14-10.jpg"
+        },
+        {
+          "type": "image",
+          "text": "550,00",
+          "time": "2026-11-18T01:14:57.000Z",
+          "media": "img/14-11.jpg"
+        },
+        {
+          "type": "image",
+          "text": "200,00,  a melhor de todas dessa leva ❣️❣️❣️",
+          "time": "2026-11-18T01:17:06.000Z",
+          "media": "img/14-12.jpg"
+        },
+        {
+          "type": "image",
+          "text": "200,00,  a melhor de todas dessa leva ❣️❣️❣️",
+          "time": "2026-11-18T01:17:07.000Z",
+          "media": "img/14-13.jpg"
         }
       ]
     }
