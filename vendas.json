@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:32:32.276Z",
+  "updatedAt": "2026-11-18T01:37:32.267Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -379,6 +379,20 @@
           "text": "100,00 NM",
           "time": "2026-11-18T01:22:36.000Z",
           "media": "img/13-15.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jean Silva",
+        "phone": "559288523059"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Mr. Mime (179/165) R$150\nMoltres de Galar (190/172) R$100\nChansey (187/167) R$150\nZeraora-V-ASTRO \"SP\"(GG43/GG70) R$200\nPikachu (160/159) R$350\nMew (GG10/GG70) R$600",
+          "time": "2026-11-18T01:35:30.000Z",
+          "media": "img/14-0.jpg"
         }
       ]
     }
