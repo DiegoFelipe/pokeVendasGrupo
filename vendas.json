@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:57:32.194Z",
+  "updatedAt": "2026-11-18T00:32:32.904Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -391,6 +391,35 @@
           "text": "",
           "time": "2026-11-17T23:55:52.000Z",
           "media": "img/16-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Nilo Mimiso",
+        "phone": "559281518120"
+      },
+      "items": [
+        {
+          "type": "document",
+          "text": "PRANCHA_01_TERREO_HUMANIZADO_MIMISO.pdf",
+          "time": "2026-11-18T00:29:36.000Z",
+          "media": "img/17-0.pdf",
+          "filename": "PRANCHA_01_TERREO_HUMANIZADO_MIMISO.pdf"
+        },
+        {
+          "type": "document",
+          "text": "PRANCHA_02_MEZANINO_HUMANIZADO_MIMISO.pdf",
+          "time": "2026-11-18T00:29:36.000Z",
+          "media": "img/17-1.pdf",
+          "filename": "PRANCHA_02_MEZANINO_HUMANIZADO_MIMISO.pdf"
+        },
+        {
+          "type": "document",
+          "text": "PRANCHA_04_LOJA_VORTEX_E_SALA_DO_CHEFE_MIMISO.pdf",
+          "time": "2026-11-18T00:29:37.000Z",
+          "media": "img/17-2.pdf",
+          "filename": "PRANCHA_04_LOJA_VORTEX_E_SALA_DO_CHEFE_MIMISO.pdf"
         }
       ]
     }
