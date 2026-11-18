@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T21:34:55.060Z",
+  "updatedAt": "2026-11-18T21:59:55.228Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -347,6 +347,26 @@
           "text": "Outra linha, Topps museum .",
           "time": "2026-11-18T15:17:14.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Alvino Neto TCG",
+        "phone": "559281522993"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Etb PTBr por 370\n\nCase fechada com duas por 700,00",
+          "time": "2026-11-18T21:56:22.000Z",
+          "media": "img/13-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Etb PTBr por 370\n\nCase fechada com duas por 700,00",
+          "time": "2026-11-18T21:56:24.000Z",
+          "media": "img/13-1.jpg"
         }
       ]
     }
