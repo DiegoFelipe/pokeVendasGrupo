@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:28:35.115Z",
+  "updatedAt": "2026-11-19T01:32:28.004Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -223,6 +223,38 @@
           "text": "*Dama de Sombrinha SAR (JP) 🇯🇵*  \n​Na Liga: R$ 600\nMYP: R$ 550.\n\nCmg: 300!",
           "time": "2026-11-19T00:26:53.000Z",
           "media": "img/10-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jeferson Souza TCG",
+        "phone": "559291020193"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-19T01:29:58.000Z",
+          "media": "img/11-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-19T01:29:58.000Z",
+          "media": "img/11-1.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Passando esses cases aqui \n\nUm de quad reinado delta \nUm de duplo com moeda 30 anoa",
+          "time": "2026-11-19T01:30:29.000Z",
+          "media": null
+        },
+        {
+          "type": "image",
+          "text": "Passando todos esses quelônios",
+          "time": "2026-11-19T01:31:17.000Z",
+          "media": "img/11-3.jpg"
         }
       ]
     }
