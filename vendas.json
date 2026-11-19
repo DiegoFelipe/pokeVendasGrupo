@@ -1,91 +1,11 @@
 {
-  "updatedAt": "2026-11-19T13:50:17.426Z",
+  "updatedAt": "2026-11-19T19:38:45.017Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Alexsandro Nogueira",
-        "phone": "559295000401"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-11-18T15:01:24.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "text",
-          "text": "Passa pra cá logo",
-          "time": "2026-11-18T15:01:28.000Z",
-          "media": null
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "🍷Oliveira🍷",
-        "phone": "559295042895"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Estoques quase zerados pessoal, bora bora ETB 380 no Pix. Temos case fechada dela",
-          "time": "2026-11-18T15:09:38.000Z",
-          "media": "img/1-0.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Dr. Rodrigo TCG",
-        "phone": "559288097848"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-11-18T15:11:42.000Z",
-          "media": "img/2-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "",
-          "time": "2026-11-18T15:11:43.000Z",
-          "media": "img/2-1.jpg"
-        },
-        {
-          "type": "text",
-          "text": "Charizard Foil Base Set 1st Edition\n*NM* Raridade Suprema\n$49,500\n\nAceito ofertas no pix! Não aceito trocas \nPossuo centenas de referências",
-          "time": "2026-11-18T15:11:44.000Z",
-          "media": null
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Alex Nogueira",
-        "phone": "559292040957"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "/ 10 essa ai , mas o auto não é on card , vela kkk",
-          "time": "2026-11-18T15:16:00.000Z",
-          "media": "img/3-0.jpg"
-        },
-        {
-          "type": "text",
-          "text": "Outra linha, Topps museum .",
-          "time": "2026-11-18T15:17:14.000Z",
-          "media": null
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Alvino Neto TCG",
@@ -96,13 +16,13 @@
           "type": "image",
           "text": "Etb PTBr por 370\n\nCase fechada com duas por 700,00",
           "time": "2026-11-18T21:56:22.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "Etb PTBr por 370\n\nCase fechada com duas por 700,00",
           "time": "2026-11-18T21:56:24.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/0-1.jpg"
         }
       ]
     },
@@ -116,7 +36,7 @@
           "type": "image",
           "text": "*Dama de Sombrinha SAR (JP) 🇯🇵*  \n​Na Liga: R$ 600\nMYP: R$ 550.\n\nCmg: 300!",
           "time": "2026-11-19T00:26:53.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -130,13 +50,13 @@
           "type": "image",
           "text": "",
           "time": "2026-11-19T01:29:58.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-19T01:29:58.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/2-1.jpg"
         },
         {
           "type": "text",
@@ -148,7 +68,7 @@
           "type": "image",
           "text": "Passando todos esses quelônios",
           "time": "2026-11-19T01:31:17.000Z",
-          "media": "img/6-3.jpg"
+          "media": "img/2-3.jpg"
         }
       ]
     },
@@ -162,7 +82,41 @@
           "type": "image",
           "text": "Única unidade disponível 🇧🇷 R$600",
           "time": "2026-11-19T13:46:23.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/3-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "diegofelipe.14",
+        "phone": "559281441152"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-19T17:22:26.000Z",
+          "media": "img/4-0.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Mewtwo de Armadura (365/298) JP NM 1.4k - Liga 1500\nGardevoir-EX (RC30/83) PT NM 250 - Liga 265\nMew ex (053/∞) EN NM 650 - Liga 664\nHo-Oh-EX (119/124) PT NM 1.2K - Liga 700 (SP)",
+          "time": "2026-11-19T17:22:27.000Z",
+          "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Paulo Coelho",
+        "phone": "559288140611"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "*Dama de Sombrinha SAR (JP) 🇯🇵*  \n​Na Liga: R$ 600\nMYP: R$ 550.\n\nCmg: 250!",
+          "time": "2026-11-19T18:16:27.000Z",
+          "media": "img/5-0.jpg"
         }
       ]
     }
