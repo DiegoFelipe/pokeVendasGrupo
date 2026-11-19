@@ -1,31 +1,11 @@
 {
-  "updatedAt": "2026-11-19T19:38:45.017Z",
+  "updatedAt": "2026-11-19T21:58:41.696Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Alvino Neto TCG",
-        "phone": "559281522993"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Etb PTBr por 370\n\nCase fechada com duas por 700,00",
-          "time": "2026-11-18T21:56:22.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "Etb PTBr por 370\n\nCase fechada com duas por 700,00",
-          "time": "2026-11-18T21:56:24.000Z",
-          "media": "img/0-1.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Paulo Coelho",
@@ -36,7 +16,7 @@
           "type": "image",
           "text": "*Dama de Sombrinha SAR (JP) 🇯🇵*  \n​Na Liga: R$ 600\nMYP: R$ 550.\n\nCmg: 300!",
           "time": "2026-11-19T00:26:53.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -50,13 +30,13 @@
           "type": "image",
           "text": "",
           "time": "2026-11-19T01:29:58.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-19T01:29:58.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         },
         {
           "type": "text",
@@ -68,7 +48,7 @@
           "type": "image",
           "text": "Passando todos esses quelônios",
           "time": "2026-11-19T01:31:17.000Z",
-          "media": "img/2-3.jpg"
+          "media": "img/1-3.jpg"
         }
       ]
     },
@@ -82,7 +62,7 @@
           "type": "image",
           "text": "Única unidade disponível 🇧🇷 R$600",
           "time": "2026-11-19T13:46:23.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -96,7 +76,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-19T17:22:26.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "text",
@@ -116,7 +96,7 @@
           "type": "image",
           "text": "*Dama de Sombrinha SAR (JP) 🇯🇵*  \n​Na Liga: R$ 600\nMYP: R$ 550.\n\nCmg: 250!",
           "time": "2026-11-19T18:16:27.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     }
