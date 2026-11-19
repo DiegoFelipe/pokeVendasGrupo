@@ -1,31 +1,11 @@
 {
-  "updatedAt": "2026-11-19T01:22:28.048Z",
+  "updatedAt": "2026-11-19T01:28:35.115Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Jeferson Souza TCG",
-        "phone": "559291020193"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "100,00 NM",
-          "time": "2026-11-18T01:22:26.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
-          "text": "100,00 NM",
-          "time": "2026-11-18T01:22:36.000Z",
-          "media": "img/0-1.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Jean Silva",
@@ -36,7 +16,7 @@
           "type": "image",
           "text": "Mr. Mime (179/165) R$150\nMoltres de Galar (190/172) R$100\nChansey (187/167) R$150\nZeraora-V-ASTRO \"SP\"(GG43/GG70) R$200\nPikachu (160/159) R$350\nMew (GG10/GG70) R$600",
           "time": "2026-11-18T01:35:30.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -50,7 +30,7 @@
           "type": "image",
           "text": "1500 aceito propostas em dinheiro",
           "time": "2026-11-18T03:04:48.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -64,37 +44,37 @@
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:43.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:43.000Z",
-          "media": "img/3-1.jpg"
+          "media": "img/2-1.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:43.000Z",
-          "media": "img/3-2.jpg"
+          "media": "img/2-2.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:44.000Z",
-          "media": "img/3-3.jpg"
+          "media": "img/2-3.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:44.000Z",
-          "media": "img/3-4.jpg"
+          "media": "img/2-4.jpg"
         },
         {
           "type": "image",
           "text": "1) Charizard 151 (SP) -  R$ 3000;\n2) Venusaur 151 (SP) - R$ 840;\n3) Lapras Skyridge (D) - R$ 160;\n4) Gengar TG06/TG30 (NM) - R$ 510;\n5) Dragonite Fossil (MP) - R$ 175;\n6) Gyarados reverse foil (34/108) (SP) - R$ 82",
           "time": "2026-11-18T10:57:44.000Z",
-          "media": "img/3-5.jpg"
+          "media": "img/2-5.jpg"
         }
       ]
     },
@@ -108,7 +88,7 @@
           "type": "image",
           "text": "Única unidade disponível 🇧🇷 R$700",
           "time": "2026-11-18T12:16:16.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -122,7 +102,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-18T13:38:20.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "text",
@@ -142,7 +122,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-18T15:01:24.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "text",
@@ -162,7 +142,7 @@
           "type": "image",
           "text": "Estoques quase zerados pessoal, bora bora ETB 380 no Pix. Temos case fechada dela",
           "time": "2026-11-18T15:09:38.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -176,13 +156,13 @@
           "type": "image",
           "text": "",
           "time": "2026-11-18T15:11:42.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-18T15:11:43.000Z",
-          "media": "img/8-1.jpg"
+          "media": "img/7-1.jpg"
         },
         {
           "type": "text",
@@ -202,7 +182,7 @@
           "type": "image",
           "text": "/ 10 essa ai , mas o auto não é on card , vela kkk",
           "time": "2026-11-18T15:16:00.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         },
         {
           "type": "text",
@@ -222,13 +202,13 @@
           "type": "image",
           "text": "Etb PTBr por 370\n\nCase fechada com duas por 700,00",
           "time": "2026-11-18T21:56:22.000Z",
-          "media": "img/10-0.jpg"
+          "media": "img/9-0.jpg"
         },
         {
           "type": "image",
           "text": "Etb PTBr por 370\n\nCase fechada com duas por 700,00",
           "time": "2026-11-18T21:56:24.000Z",
-          "media": "img/10-1.jpg"
+          "media": "img/9-1.jpg"
         }
       ]
     },
@@ -242,7 +222,7 @@
           "type": "image",
           "text": "*Dama de Sombrinha SAR (JP) 🇯🇵*  \n​Na Liga: R$ 600\nMYP: R$ 550.\n\nCmg: 300!",
           "time": "2026-11-19T00:26:53.000Z",
-          "media": "img/11-0.jpg"
+          "media": "img/10-0.jpg"
         }
       ]
     }
