@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-20T11:54:43.159Z",
+  "updatedAt": "2026-11-20T13:49:43.192Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Josivan Ruas",
-        "phone": "559292334225"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Única unidade disponível 🇧🇷 R$600",
-          "time": "2026-11-19T13:46:23.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "diegofelipe.14",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-19T17:22:26.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "text",
@@ -50,7 +36,7 @@
           "type": "image",
           "text": "*Dama de Sombrinha SAR (JP) 🇯🇵*  \n​Na Liga: R$ 600\nMYP: R$ 550.\n\nCmg: 250!",
           "time": "2026-11-19T18:16:27.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -64,7 +50,7 @@
           "type": "image",
           "text": "Passando esse binder, ainda lacrado\nToda a qualidade de uma Edição Limitada da BRA\nTAM 3x3\n\n350,00",
           "time": "2026-11-20T11:52:24.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     }
