@@ -1,24 +1,9 @@
 {
-  "updatedAt": "2026-11-21T12:00:27.317Z",
+  "updatedAt": "2026-11-21T16:05:22.361Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
-  "vendas": [
-    {
-      "seller": {
-        "name": "Josivan Ruas",
-        "phone": "559292334225"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Única unidade disponível 🇧🇷 R$600",
-          "time": "2026-11-20T15:54:08.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    }
-  ]
+  "vendas": []
 }
