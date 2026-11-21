@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-20T18:18:47.368Z",
+  "updatedAt": "2026-11-21T12:00:27.317Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Alvino Neto TCG",
-        "phone": "559281522993"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Passando esse binder, ainda lacrado\nToda a qualidade de uma Edição Limitada da BRA\nTAM 3x3\n\n350,00",
-          "time": "2026-11-20T11:52:24.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Josivan Ruas",
@@ -30,7 +16,7 @@
           "type": "image",
           "text": "Única unidade disponível 🇧🇷 R$600",
           "time": "2026-11-20T15:54:08.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     }
