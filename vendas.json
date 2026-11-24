@@ -1,39 +1,11 @@
 {
-  "updatedAt": "2026-11-24T20:34:48.602Z",
+  "updatedAt": "2026-11-24T21:19:48.780Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Filipe Duarte",
-        "phone": "559291566735"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "0,50 ou 3 reais",
-          "time": "2026-11-23T21:17:18.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
-    {
-      "seller": {
-        "name": "Alvino Neto TCG",
-        "phone": "559281522993"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Passando isso aqui 140,00 acompanha a caixa",
-          "time": "2026-11-23T21:19:33.000Z",
-          "media": "img/1-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Vinicius Portela",
@@ -44,7 +16,7 @@
           "type": "image",
           "text": "Base completa de douradas BR\nNa liga: + R$8.000,00\nComigo: R$6.500,00 -20% abaixo",
           "time": "2026-11-23T21:37:04.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
@@ -58,7 +30,7 @@
           "type": "image",
           "text": "Promoção de Hoje…. Chama no pv.",
           "time": "2026-11-23T22:13:11.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -72,7 +44,7 @@
           "type": "image",
           "text": "Passando ✅\nTodas 10% abaixo da liga",
           "time": "2026-11-24T12:49:37.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -86,7 +58,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-24T14:18:07.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "text",
@@ -106,7 +78,7 @@
           "type": "image",
           "text": "Latinhas disponíveis case fechada com 10 unidades 745",
           "time": "2026-11-24T14:58:34.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -120,7 +92,7 @@
           "type": "image",
           "text": "Valor da case lacrada de fábrica 1200 (  2 ETBs  30 anos ) saindo 600 cada.     💸🙂‍↕💸",
           "time": "2026-11-24T17:57:09.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -134,7 +106,7 @@
           "type": "image",
           "text": "depois de 100 anos, chegaram algumas ETB ING de reinado delta kkkkk",
           "time": "2026-11-24T18:58:55.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -148,7 +120,7 @@
           "type": "image",
           "text": "Única unidade disponível 🇧🇷 R$650",
           "time": "2026-11-24T19:29:48.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/7-0.jpg"
         }
       ]
     },
@@ -162,7 +134,7 @@
           "type": "image",
           "text": "e essa bricandeira aqui? só R$ 2,4M",
           "time": "2026-11-24T19:38:58.000Z",
-          "media": "img/10-0.jpg"
+          "media": "img/8-0.jpg"
         }
       ]
     }
