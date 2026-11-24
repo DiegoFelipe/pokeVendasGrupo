@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:19:48.780Z",
+  "updatedAt": "2026-11-24T21:29:48.889Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -135,6 +135,26 @@
           "text": "e essa bricandeira aqui? só R$ 2,4M",
           "time": "2026-11-24T19:38:58.000Z",
           "media": "img/8-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Rod Elias TCG",
+        "phone": "559293710036"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Umbreon V-max \nNM\nValor: R$ 200",
+          "time": "2026-11-24T21:27:59.000Z",
+          "media": "img/9-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Umbreon V-max \nNM\nValor: R$ 200",
+          "time": "2026-11-24T21:27:59.000Z",
+          "media": "img/9-1.jpg"
         }
       ]
     }
