@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:59:54.480Z",
+  "updatedAt": "2026-11-24T14:19:48.351Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -127,6 +127,26 @@
           "text": "Passando ✅\nTodas 10% abaixo da liga",
           "time": "2026-11-24T12:49:37.000Z",
           "media": "img/7-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-24T14:18:07.000Z",
+          "media": "img/8-0.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Lista de passas pokemon:\n\n- Mew-V (251/264) 🇺🇸 R$1300 NM \n- Charizard-V-ASTRO (SWSH262/71) 🇺🇸 R$800 NM \n- Charizard-V (SWSH260/71) 🇺🇸 R$550\n- Glaceon-V (175/203) 🇺🇸 R$1999 \n- Leafeon-V-ASTRO (GG35/GG70) 🇺🇸 R$700\n- Mega Eelektross ex (225/193) PSA 10 🇯🇵 R$400 (LIGA R$800) \n- Umbreon ex (217/187) CGC 10 🇯🇵 R$4000 (LIGA R$6500)",
+          "time": "2026-11-24T14:18:10.000Z",
+          "media": null
         }
       ]
     }
