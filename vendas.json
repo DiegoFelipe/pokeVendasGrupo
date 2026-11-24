@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:39:48.735Z",
+  "updatedAt": "2026-11-24T20:29:48.698Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -14,15 +14,9 @@
       "items": [
         {
           "type": "image",
-          "text": "frete normal",
-          "time": "2026-11-23T20:27:51.000Z",
-          "media": "img/0-0.jpg"
-        },
-        {
-          "type": "image",
           "text": "olha ai mano, 6kg em standard e fedex.\n\nzero diferença quase",
           "time": "2026-11-23T20:34:38.000Z",
-          "media": "img/0-1.jpg"
+          "media": "img/0-0.jpg"
         }
       ]
     },
