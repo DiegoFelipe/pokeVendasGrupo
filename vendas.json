@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:19:48.351Z",
+  "updatedAt": "2026-11-24T14:59:48.477Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -147,6 +147,20 @@
           "text": "Lista de passas pokemon:\n\n- Mew-V (251/264) 🇺🇸 R$1300 NM \n- Charizard-V-ASTRO (SWSH262/71) 🇺🇸 R$800 NM \n- Charizard-V (SWSH260/71) 🇺🇸 R$550\n- Glaceon-V (175/203) 🇺🇸 R$1999 \n- Leafeon-V-ASTRO (GG35/GG70) 🇺🇸 R$700\n- Mega Eelektross ex (225/193) PSA 10 🇯🇵 R$400 (LIGA R$800) \n- Umbreon ex (217/187) CGC 10 🇯🇵 R$4000 (LIGA R$6500)",
           "time": "2026-11-24T14:18:10.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Uniplayss",
+        "phone": "559294944562"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Latinhas disponíveis case fechada com 10 unidades 745",
+          "time": "2026-11-24T14:58:34.000Z",
+          "media": "img/9-0.jpg"
         }
       ]
     }
