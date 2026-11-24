@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-24T15:09:48.639Z",
+  "updatedAt": "2026-11-24T15:14:48.470Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Alvino Neto TCG",
-        "phone": "559281522993"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "Case Lacrada de Mini Latas de 30 anos\n\n670,00",
-          "time": "2026-11-23T15:10:14.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Alexsandro Nogueira",
@@ -44,13 +30,13 @@
           "type": "image",
           "text": "frete normal",
           "time": "2026-11-23T20:27:51.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         },
         {
           "type": "image",
           "text": "olha ai mano, 6kg em standard e fedex.\n\nzero diferença quase",
           "time": "2026-11-23T20:34:38.000Z",
-          "media": "img/2-1.jpg"
+          "media": "img/1-1.jpg"
         }
       ]
     },
@@ -64,7 +50,7 @@
           "type": "image",
           "text": "0,50 ou 3 reais",
           "time": "2026-11-23T21:17:18.000Z",
-          "media": "img/3-0.jpg"
+          "media": "img/2-0.jpg"
         }
       ]
     },
@@ -78,7 +64,7 @@
           "type": "image",
           "text": "Passando isso aqui 140,00 acompanha a caixa",
           "time": "2026-11-23T21:19:33.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         }
       ]
     },
@@ -92,7 +78,7 @@
           "type": "image",
           "text": "Base completa de douradas BR\nNa liga: + R$8.000,00\nComigo: R$6.500,00 -20% abaixo",
           "time": "2026-11-23T21:37:04.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         }
       ]
     },
@@ -106,7 +92,7 @@
           "type": "image",
           "text": "Promoção de Hoje…. Chama no pv.",
           "time": "2026-11-23T22:13:11.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         }
       ]
     },
@@ -120,7 +106,7 @@
           "type": "image",
           "text": "Passando ✅\nTodas 10% abaixo da liga",
           "time": "2026-11-24T12:49:37.000Z",
-          "media": "img/7-0.jpg"
+          "media": "img/6-0.jpg"
         }
       ]
     },
@@ -134,7 +120,7 @@
           "type": "image",
           "text": "",
           "time": "2026-11-24T14:18:07.000Z",
-          "media": "img/8-0.jpg"
+          "media": "img/7-0.jpg"
         },
         {
           "type": "text",
@@ -154,7 +140,7 @@
           "type": "image",
           "text": "Latinhas disponíveis case fechada com 10 unidades 745",
           "time": "2026-11-24T14:58:34.000Z",
-          "media": "img/9-0.jpg"
+          "media": "img/8-0.jpg"
         }
       ]
     }
