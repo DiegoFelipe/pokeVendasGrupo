@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:34:48.653Z",
+  "updatedAt": "2026-11-24T19:39:48.735Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -169,6 +169,20 @@
           "text": "Única unidade disponível 🇧🇷 R$650",
           "time": "2026-11-24T19:29:48.000Z",
           "media": "img/10-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jeferson Souza TCG",
+        "phone": "559291020193"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "e essa bricandeira aqui? só R$ 2,4M",
+          "time": "2026-11-24T19:38:58.000Z",
+          "media": "img/11-0.jpg"
         }
       ]
     }
