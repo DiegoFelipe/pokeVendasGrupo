@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:33:01.293Z",
+  "updatedAt": "2026-11-25T02:38:01.317Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -213,6 +213,26 @@
           "text": "250 R$",
           "time": "2026-11-25T01:30:51.000Z",
           "media": "img/11-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "R. Junior",
+        "phone": "559285852747"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "120 R$",
+          "time": "2026-11-25T02:33:49.000Z",
+          "media": null
+        },
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-25T02:33:49.000Z",
+          "media": "img/12-1.jpg"
         }
       ]
     }
