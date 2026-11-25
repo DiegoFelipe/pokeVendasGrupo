@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:13:02.722Z",
+  "updatedAt": "2026-11-25T23:48:01.600Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -177,6 +177,20 @@
           "text": "Passando 🤩",
           "time": "2026-11-25T23:10:49.000Z",
           "media": "img/8-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Joao",
+        "phone": "559285041313"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Etb 30 anos inglês \nPronta entrega \nValor 670 unidade \nSe levar a case tem desconto",
+          "time": "2026-11-25T23:44:35.000Z",
+          "media": "img/9-0.jpg"
         }
       ]
     }
