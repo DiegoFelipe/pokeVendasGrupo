@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:42:18.669Z",
+  "updatedAt": "2026-11-26T14:52:18.740Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -133,6 +133,26 @@
           "text": "Zard 151 - R$ 3.400,00 Liga\nVenusaur 151 - R$ 931,00 Liga \nZard 30 anos - R$ 898,00 Liga \n\nComigo R$ 4.000,00 levando todas",
           "time": "2026-11-26T14:35:51.000Z",
           "media": "img/7-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Lucas Zidany TCG",
+        "phone": "559291800175"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "R$270 NM",
+          "time": "2026-11-26T14:48:03.000Z",
+          "media": "img/8-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "R$270 NM",
+          "time": "2026-11-26T14:49:29.000Z",
+          "media": "img/8-1.jpg"
         }
       ]
     }
