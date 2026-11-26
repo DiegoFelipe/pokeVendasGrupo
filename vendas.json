@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T18:52:19.059Z",
+  "updatedAt": "2026-11-26T19:02:19.016Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -295,6 +295,20 @@
           "text": "10k de mercadoria, segura esse impostinho aí papai lula. Pagar 92% é meu ovo.",
           "time": "2026-11-26T18:49:20.000Z",
           "media": "img/13-0.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Roberto Turbay",
+        "phone": "559281823036"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "R$4.500",
+          "time": "2026-11-26T19:00:07.000Z",
+          "media": "img/14-0.jpg"
         }
       ]
     }
