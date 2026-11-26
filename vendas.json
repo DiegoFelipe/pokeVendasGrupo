@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T17:12:19.568Z",
+  "updatedAt": "2026-11-26T18:52:19.059Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -281,6 +281,20 @@
           "text": "2k - 1800 a NM",
           "time": "2026-11-26T17:07:32.000Z",
           "media": "img/12-1.jpg"
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Jeferson Souza TCG",
+        "phone": "559291020193"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "10k de mercadoria, segura esse impostinho aí papai lula. Pagar 92% é meu ovo.",
+          "time": "2026-11-26T18:49:20.000Z",
+          "media": "img/13-0.jpg"
         }
       ]
     }
