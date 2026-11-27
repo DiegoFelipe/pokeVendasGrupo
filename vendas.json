@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:03:22.497Z",
+  "updatedAt": "2026-11-27T19:43:22.904Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -116,6 +116,26 @@
           "type": "text",
           "text": "Uma unidade de cada",
           "time": "2026-11-27T14:58:21.000Z",
+          "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Regis Davi",
+        "phone": "559295357379"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "",
+          "time": "2026-11-27T19:39:32.000Z",
+          "media": "img/6-0.jpg"
+        },
+        {
+          "type": "text",
+          "text": "2k e meio, cada",
+          "time": "2026-11-27T19:40:04.000Z",
           "media": null
         }
       ]
