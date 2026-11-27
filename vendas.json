@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T03:12:04.093Z",
+  "updatedAt": "2026-11-27T03:22:03.967Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
@@ -275,6 +275,26 @@
           "text": "Black Friday até amanhã 1100 saindo por 550 cada!💸🙂‍↕💸",
           "time": "2026-11-27T02:45:56.000Z",
           "media": null
+        }
+      ]
+    },
+    {
+      "seller": {
+        "name": "Rod Elias TCG",
+        "phone": "559293710036"
+      },
+      "items": [
+        {
+          "type": "image",
+          "text": "Mega gengar EX \nNM\nValor R$ 150 ou troco por cartas clássicas de 30 anos (Celebi/ raikou/ metagross ou N",
+          "time": "2026-11-27T03:17:56.000Z",
+          "media": "img/13-0.jpg"
+        },
+        {
+          "type": "image",
+          "text": "Mega gengar EX \nNM\nValor R$ 150 ou troco por cartas clássicas de 30 anos (Celebi/ raikou/ metagross ou N",
+          "time": "2026-11-27T03:17:58.000Z",
+          "media": "img/13-1.jpg"
         }
       ]
     }
