@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-11-27T18:53:22.602Z",
+  "updatedAt": "2026-11-27T19:03:22.497Z",
   "hours": 24,
   "group": {
     "name": "Investidores Pokémon Manaus - Cartas de Alto Valor apenas",
     "pic": "img/group.jpg"
   },
   "vendas": [
-    {
-      "seller": {
-        "name": "Roberto Turbay",
-        "phone": "559281823036"
-      },
-      "items": [
-        {
-          "type": "image",
-          "text": "R$4.500",
-          "time": "2026-11-26T19:00:07.000Z",
-          "media": "img/0-0.jpg"
-        }
-      ]
-    },
     {
       "seller": {
         "name": "Sérgio Ortega",
@@ -30,13 +16,13 @@
           "type": "image",
           "text": "VALORES MDL - Valores negociaveis \n\nMew (025/025) Celebrações 25 - R$ 380,00\nCarisma do Giovanni (204/165) 🇺🇲 - R$ 160,00\nVenusaur ex (198/165) - R$ 880,00\nMewtwo ex da Equipe Rocket (281/217) 🇺🇸 - R$ 2.000,00\nTangela (178/165) 🇺🇲 - R$ 150,00\nOmanyte (180/165) 🇺🇲 - R$ 149,00\nMagmortar (GG03/GG70) - R$ 55,00\nCharizard ex (006/165) - R$ 90,00\nMiraidon (013/∞) - R$ 80,00\nConvite da Érica (196/165) - R$ 97,00\nPidgeotto (208/197) - R$ 88,00\nElectivire (GG08/GG70) - R$ 79,00\nCharizard-EX (11/83) 🇺🇲 - R$ 250,00\nCaterpie (172/165) 🇺🇲 - R$ 275,00\nVitalidade da Misty (111/084) - R$ 75,00\nMeowth (106/094) - R$ 85,00\nProfessora Juniper (116/116) SP* 🇺🇲 - R$ 570,00\nKoffing (SV076/SV122) _ R$ 120,00\nKissera (269/193) SP - R$ 359,00\nMega Charizard X ex (109/094) - R$ 128,00\nAmarílis (170/131) - R$ 82,00\nBellibolt ex da Kissera (279/217) - R$ 208,00\nMega Dragonite ex (271/217) - R$ 105,00\nSurfista (293/217) 🇺🇲 - R$ 150,00\nMimikyu da Equipe Rocket (238/217) us - R$ 74,00\n\n*Celebrações 30*\n\nMaushold (146/128) - R$ 25,00\nDarkrai & Cresselia LENDA (099/30) - R$ 94,00\nMetagross (011/30) - R$ 30,00\n\n*Celebrações 25*\n\nVenusaur (03/25) Celebracoes 25- R$ 75,00\nGardevoir ex (14/25) Celebrações 25 - R$ 115,00\nZapdos da Equipe Rocket (07/25) Celebrações 25 - R$ 75,00\nGyarados Sombrio (05/25) Celebrações 25 - R$ 60,00",
           "time": "2026-11-26T23:54:24.000Z",
-          "media": "img/1-0.jpg"
+          "media": "img/0-0.jpg"
         },
         {
           "type": "image",
           "text": "Zard 151 - R$ 3.400,00 Liga\nVenusaur 151 - R$ 931,00 Liga \nZard 30 anos - R$ 898,00 Liga \n\nComigo R$ 4.000,00 levando todas",
           "time": "2026-11-26T23:54:30.000Z",
-          "media": "img/1-1.jpg"
+          "media": "img/0-1.jpg"
         }
       ]
     },
@@ -50,7 +36,7 @@
           "type": "image",
           "text": "Valor da case lacrada de fábrica 1200 (  2 ETBs  30 anos ) saindo 600 cada.     💸🙂‍↕💸",
           "time": "2026-11-27T02:14:05.000Z",
-          "media": "img/2-0.jpg"
+          "media": "img/1-0.jpg"
         }
       ]
     },
@@ -78,13 +64,13 @@
           "type": "image",
           "text": "Mega gengar EX \nNM\nValor R$ 150 ou troco por cartas clássicas de 30 anos (Celebi/ raikou/ metagross ou N",
           "time": "2026-11-27T03:17:56.000Z",
-          "media": "img/4-0.jpg"
+          "media": "img/3-0.jpg"
         },
         {
           "type": "image",
           "text": "Mega gengar EX \nNM\nValor R$ 150 ou troco por cartas clássicas de 30 anos (Celebi/ raikou/ metagross ou N",
           "time": "2026-11-27T03:17:58.000Z",
-          "media": "img/4-1.jpg"
+          "media": "img/3-1.jpg"
         }
       ]
     },
@@ -98,13 +84,13 @@
           "type": "image",
           "text": "VALORES MDL - Valores negociaveis \n\nMew (025/025) Celebrações 25 - R$ 380,00\nCarisma do Giovanni (204/165) 🇺🇲 - R$ 160,00\nVenusaur ex (198/165) - R$ 880,00\nMewtwo ex da Equipe Rocket (281/217) 🇺🇸 - R$ 2.000,00\nTangela (178/165) 🇺🇲 - R$ 150,00\nOmanyte (180/165) 🇺🇲 - R$ 149,00\nMagmortar (GG03/GG70) - R$ 55,00\nCharizard ex (006/165) - R$ 90,00\nMiraidon (013/∞) - R$ 80,00\nConvite da Érica (196/165) - R$ 97,00\nPidgeotto (208/197) - R$ 88,00\nElectivire (GG08/GG70) - R$ 79,00\nCharizard-EX (11/83) 🇺🇲 - R$ 250,00\nCaterpie (172/165) 🇺🇲 - R$ 275,00\nVitalidade da Misty (111/084) - R$ 75,00\nMeowth (106/094) - R$ 85,00\nProfessora Juniper (116/116) SP* 🇺🇲 - R$ 570,00\nKoffing (SV076/SV122) _ R$ 120,00\nKissera (269/193) SP - R$ 359,00\nMega Charizard X ex (109/094) - R$ 128,00\nAmarílis (170/131) - R$ 82,00\nBellibolt ex da Kissera (279/217) - R$ 208,00\nMega Dragonite ex (271/217) - R$ 105,00\nSurfista (293/217) 🇺🇲 - R$ 150,00\nMimikyu da Equipe Rocket (238/217) us - R$ 74,00\n\n*Celebrações 30*\n\nMaushold (146/128) - R$ 25,00\nDarkrai & Cresselia LENDA (099/30) - R$ 94,00\nMetagross (011/30) - R$ 30,00\n\n*Celebrações 25*\n\nVenusaur (03/25) Celebracoes 25- R$ 75,00\nGardevoir ex (14/25) Celebrações 25 - R$ 115,00\nZapdos da Equipe Rocket (07/25) Celebrações 25 - R$ 75,00\nGyarados Sombrio (05/25) Celebrações 25 - R$ 60,00",
           "time": "2026-11-27T14:44:07.000Z",
-          "media": "img/5-0.jpg"
+          "media": "img/4-0.jpg"
         },
         {
           "type": "image",
           "text": "Zard 151 - R$ 3.400,00 Liga\nVenusaur 151 - R$ 931,00 Liga \nZard 30 anos - R$ 898,00 Liga \n\nComigo R$ 4.000,00 levando todas",
           "time": "2026-11-27T14:44:08.000Z",
-          "media": "img/5-1.jpg"
+          "media": "img/4-1.jpg"
         }
       ]
     },
@@ -118,13 +104,13 @@
           "type": "image",
           "text": "Vai chegar esses dois produtos pra mim até essa próxima terça. Alguém gostaria de reservar?\nTerastal Festival Ex - 770\nGlory of Team Rocket - 1450",
           "time": "2026-11-27T14:58:11.000Z",
-          "media": "img/6-0.jpg"
+          "media": "img/5-0.jpg"
         },
         {
           "type": "image",
           "text": "",
           "time": "2026-11-27T14:58:12.000Z",
-          "media": "img/6-1.jpg"
+          "media": "img/5-1.jpg"
         },
         {
           "type": "text",
